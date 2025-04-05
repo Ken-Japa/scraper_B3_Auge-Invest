@@ -1,0 +1,34 @@
+Relatório gerado em: 03 / 04 / 2025  08:49
+
+Tempo de execução: 1 minutos e 14 segundos.
+
+BDRs: 814
+
+BDRs com problema: 20
+
+
+BDRs problemáticas:
+AKZA34
+ALFG34
+AAGO34
+AMLG34
+BARR34
+C1CO34
+GLEN34
+THGI34
+HEIA34
+HEIO34
+LSEG34
+M1BT34
+NTST34
+P2OS34
+RYBD34
+BNSB34
+STCH34
+STOC34
+TCCO34
+THRE34
+
+BDRs com problema valor de mercado:
+G2DI33
+PPLA11

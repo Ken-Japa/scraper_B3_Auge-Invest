@@ -1,0 +1,170 @@
+[
+  {
+    "nome": "BKR 20YR TRS",
+    "nomeCompleto": "ISHARES 20 YEAR TREASURY BOND ETF",
+    "codigos": [
+      {
+        "codigo": "BTLT39",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ICE BIOTECH",
+    "nomeCompleto": "ISHARES BIOTECHNOLOGY ETF",
+    "codigos": [
+      {
+        "codigo": "BIBB39",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BKR CORE HDV",
+    "nomeCompleto": "ISHARES CORE HIGH DIVIDEND ETF",
+    "codigos": [
+      {
+        "codigo": "BHDV39",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BKR TECHSOFT",
+    "nomeCompleto": "ISHARES EXPANDED TECH-SOFTWARE SECTOR ETF",
+    "codigos": [
+      {
+        "codigo": "BIET39",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BKR IBOX IGC",
+    "nomeCompleto": "ISHARES IBOXX INVESTMENT GRADE CORPORATE BOND ETF",
+    "codigos": [
+      {
+        "codigo": "BLQD39",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "LATIN AMER40",
+    "nomeCompleto": "ISHARES LATIN AMERICA 40 ETF",
+    "codigos": [
+      {
+        "codigo": "BILF39",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MSCI CANADA",
+    "nomeCompleto": "ISHARES MSCI CANADA ETF",
+    "codigos": [
+      {
+        "codigo": "BEWC39",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MSCIHONGKONG",
+    "nomeCompleto": "ISHARES MSCI HONG KONG ETF",
+    "codigos": [
+      {
+        "codigo": "BEWH39",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MSCI JAPAN",
+    "nomeCompleto": "ISHARES MSCI JAPAN ETF",
+    "codigos": [
+      {
+        "codigo": "BEWJ39",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MSCI MEXICO",
+    "nomeCompleto": "ISHARES MSCI MEXICO ETF",
+    "codigos": [
+      {
+        "codigo": "BEWW39",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MSCI SPAIN",
+    "nomeCompleto": "ISHARES MSCI SPAIN ETF",
+    "codigos": [
+      {
+        "codigo": "BEWP39",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MSCI TAIWAN",
+    "nomeCompleto": "ISHARES MSCI TAIWAN ETF",
+    "codigos": [
+      {
+        "codigo": "BEWT39",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SP500 VALUE",
+    "nomeCompleto": "ISHARES S&P 500 VALUE ETF",
+    "codigos": [
+      {
+        "codigo": "BIVE39",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SILVER TRUST",
+    "nomeCompleto": "ISHARES SILVER TRUST",
+    "codigos": [
+      {
+        "codigo": "BSLV39",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  }
+]

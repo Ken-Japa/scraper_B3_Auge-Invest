@@ -1,0 +1,7 @@
+Coleta inicial de ETFs de BDR - 04/04/2025 11:14
+
+Tempo de execução: 3 minutos e 37 segundos.
+
+Total de ETFs coletados: 261
+
+Todos os ETFs foram adicionados na coleta inicial.

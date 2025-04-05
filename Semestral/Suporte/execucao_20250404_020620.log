@@ -1,0 +1,23 @@
+Execução de scripts - 04/04/2025 04:44:06
+
+Tempo total: 157.78 minutos (9466.61 segundos)
+
+Resultados:
+  - empresas.py: Sucesso (84.35 min)
+  - empresasExcelJson.py: Sucesso (1.32 min)
+  - dividendosEmpresas.py: Sucesso (21.09 min)
+  - empresasJsonFormat.py: Sucesso (0.00 min)
+  - bdr.py: Sucesso (23.27 min)
+  - bdrExcelJson.py: Falha (0.02 min)
+  - dividendosBdr.py: Falha (0.01 min)
+  - bdrJsonFormat.py: Sucesso (0.00 min)
+  - etf.py: Sucesso (2.65 min)
+  - etfExcelJson.py: Falha (0.02 min)
+  - etfJsonFormat.py: Sucesso (0.00 min)
+  - etfBdr.py: Sucesso (2.52 min)
+  - etfBdrExcelJson.py: Falha (0.02 min)
+  - etfBdrJsonFormat.py: Sucesso (0.00 min)
+  - fii.py: Sucesso (22.45 min)
+  - fiiExcelJson.py: Falha (0.02 min)
+  - dividendosFii.py: Falha (0.02 min)
+  - fiiJsonFormat.py: Falha (0.00 min)

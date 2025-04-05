@@ -1,0 +1,7 @@
+Relatório de Dados Auxiliares para Dividendos gerado em: 04/04/2025 13:35
+
+Total de empresas: 331
+Total de BDRs: 814
+Total de FIIs: 520
+
+Este arquivo contém os dados necessários para o scraping de dividendos.

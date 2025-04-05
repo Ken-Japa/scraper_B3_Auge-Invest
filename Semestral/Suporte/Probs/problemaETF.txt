@@ -1,0 +1,21 @@
+Relatório gerado em: 03 / 04 / 2025  09:30
+
+Tempo de execução: 1 minutos.
+
+ETFs: 95
+
+ETFs com problema: 4
+
+ETFs sem código: 4
+
+ETFs sem código:
+FOMO HASH
+XRP HASH
+TREND U REIT
+TREND ESG US
+
+Códigos problemáticos:
+BRXC11
+QQQQ11
+GLDX11
+BXPO11

@@ -1,0 +1,62 @@
+Relatório de ETFs gerado em: 04 / 04 / 2025  04:19
+
+Tempo de execução: 3 minutos e 39 segundos.
+
+Total ETF: 99
+ETFs adicionadas:
+{
+    "nomeCompletoETF": "INVESTO ETF SOLACTIVE GOLD SPOT INDEX FND DE ÍND",
+    "nomeETF": "INVESTO GLDX",
+    "codigoETF": "GLDX",
+    "codigo": "GLDX11",
+    "quotaCount": "73483",
+    "quotaDateApproved": "04/07/2022",
+    "industria": "Financeiro e Outros",
+    "segmento": "Fundos de Ações",
+    "informacoes": {
+        "cnpj": "43210419000180",
+        "site": "https://investoetf.com/food11"
+    }
+}
+{
+    "nomeCompletoETF": "BUENA VISTA V FUNDO DE ÍNDICE",
+    "nomeETF": "ETF QQQQ",
+    "codigoETF": "QQQQ",
+    "codigo": "QQQQ11",
+    "quotaCount": "30000",
+    "quotaDateApproved": "17/12/2024",
+    "industria": "Financeiro e Outros",
+    "segmento": "Fundos de Ações",
+    "informacoes": {
+        "cnpj": "58348330000152",
+        "site": "https://buenavista.capital/qqqq11/"
+    }
+}
+{
+    "nomeCompletoETF": "INVESTO MARKETVECTOR BRAZIL GLOBAL EXPOSURE ETF",
+    "nomeETF": "INVESTO BXPO",
+    "codigoETF": "BXPO",
+    "codigo": "BXPO11",
+    "quotaCount": "10000",
+    "quotaDateApproved": "30/08/2022",
+    "industria": "Financeiro e Outros",
+    "segmento": "Fundos de Ações",
+    "informacoes": {
+        "cnpj": "45814375000123",
+        "site": "https://brasil.bnpparibas/pt/"
+    }
+}
+{
+    "nomeCompletoETF": "BTG PACTUAL TEVA IABR SELECTOR FDO DE INDI – RES L",
+    "nomeETF": "BTGIABRSELEC",
+    "codigoETF": "BRXC",
+    "codigo": "BRXC11",
+    "quotaCount": "200000",
+    "quotaDateApproved": "10/03/2025",
+    "industria": "Financeiro e Outros",
+    "segmento": "Fundos de Ações",
+    "informacoes": {
+        "cnpj": "59506849000184",
+        "site": "selector.btgpactual.com/asset-management/etf-selector"
+    }
+}

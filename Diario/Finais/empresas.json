@@ -1,0 +1,5315 @@
+[
+  {
+    "nome": "AERIS",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "AERI3",
+        "preco": 4.06,
+        "valor mercado": 252207996,
+        "precoAnterior": 4.07,
+        "variacao": -0.25
+      }
+    ]
+  },
+  {
+    "nome": "AFLUENTE T",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "AFLT3",
+        "preco": 7.3,
+        "valor mercado": 460518310,
+        "precoAnterior": 7.3,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "AGROGALAXY",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "codigos": [
+      {
+        "codigo": "AGXY3",
+        "preco": 0.52,
+        "valor mercado": 132362660,
+        "precoAnterior": 0.52,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ALFA HOLDING",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "RPAD3",
+        "preco": 4,
+        "valor mercado": 184046528,
+        "precoAnterior": 4,
+        "variacao": 0
+      },
+      {
+        "codigo": "RPAD5",
+        "preco": 5.72,
+        "valor mercado": 81875399,
+        "precoAnterior": 5.72,
+        "variacao": 0
+      },
+      {
+        "codigo": "RPAD6",
+        "preco": 3.8,
+        "valor mercado": 92555673,
+        "precoAnterior": 3.8,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ALLIAR",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "AALR3",
+        "preco": 7.57,
+        "valor mercado": 1153361279,
+        "precoAnterior": 7.56,
+        "variacao": 0.13
+      }
+    ]
+  },
+  {
+    "nome": "ALLIED",
+    "industria": "Consumo Cíclico",
+    "segmento": "Eletrodomésticos",
+    "codigos": [
+      {
+        "codigo": "ALLD3",
+        "preco": 6.8,
+        "valor mercado": 642015941,
+        "precoAnterior": 6.8,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ALLOS",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "ALOS3",
+        "preco": 19.54,
+        "valor mercado": 10608987202,
+        "precoAnterior": 19.56,
+        "variacao": -0.1
+      }
+    ]
+  },
+  {
+    "nome": "ESTAPAR",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "codigos": [
+      {
+        "codigo": "ALPK3",
+        "preco": 2.84,
+        "valor mercado": 616348231,
+        "precoAnterior": 2.84,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "EXITO",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos",
+    "codigos": [
+      {
+        "codigo": "EXCO32",
+        "preco": 9.39,
+        "valor mercado": 12186946331,
+        "precoAnterior": 9.41,
+        "variacao": -0.21
+      }
+    ]
+  },
+  {
+    "nome": "ALPARGATAS",
+    "industria": "Consumo Cíclico",
+    "segmento": "Calçados",
+    "codigos": [
+      {
+        "codigo": "ALPA3",
+        "preco": 7.01,
+        "valor mercado": 2379969930,
+        "precoAnterior": 7.01,
+        "variacao": 0
+      },
+      {
+        "codigo": "ALPA4",
+        "preco": 7.21,
+        "valor mercado": 2477006553,
+        "precoAnterior": 7.21,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ALPHAVILLE",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "AVLL3",
+        "preco": 2.09,
+        "valor mercado": 408239827,
+        "precoAnterior": 2.09,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ALUPAR",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "ALUP3",
+        "preco": 10.15,
+        "valor mercado": 6553525886,
+        "precoAnterior": 10.15,
+        "variacao": 0
+      },
+      {
+        "codigo": "ALUP4",
+        "preco": 9.88,
+        "valor mercado": 3015170071,
+        "precoAnterior": 9.89,
+        "variacao": -0.1
+      }
+    ]
+  },
+  {
+    "nome": "AMBEV S/A",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Cervejas e Refrigerantes",
+    "codigos": [
+      {
+        "codigo": "ABEV3",
+        "preco": 13.81,
+        "valor mercado": 217668231220,
+        "precoAnterior": 13.83,
+        "variacao": -0.14
+      }
+    ]
+  },
+  {
+    "nome": "AMBIPAR",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "codigos": [
+      {
+        "codigo": "AMBP3",
+        "preco": 123.55,
+        "valor mercado": 20638022915,
+        "precoAnterior": 123.55,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "AMERICANAS",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produtos Diversos",
+    "codigos": [
+      {
+        "codigo": "AMER3",
+        "preco": 5.97,
+        "valor mercado": 1195458453,
+        "precoAnterior": 5.95,
+        "variacao": 0.34
+      }
+    ]
+  },
+  {
+    "nome": "AMPLA ENERG",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CBEE3",
+        "preco": 8.8,
+        "valor mercado": 3344348022,
+        "precoAnterior": 8.8,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ANIMA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Serviços Educacionais",
+    "codigos": [
+      {
+        "codigo": "ANIM3",
+        "preco": 2.36,
+        "valor mercado": 953130380,
+        "precoAnterior": 2.35,
+        "variacao": 0.43
+      }
+    ]
+  },
+  {
+    "nome": "ARMAC",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "ARML3",
+        "preco": 3.98,
+        "valor mercado": 1379046506,
+        "precoAnterior": 3.98,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CARREFOUR BR",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos",
+    "codigos": [
+      {
+        "codigo": "CRFB3",
+        "preco": 8.24,
+        "valor mercado": 17378627299,
+        "precoAnterior": 8.24,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ATMASA",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "codigos": [
+      {
+        "codigo": "ATMP3",
+        "preco": 1.24,
+        "valor mercado": 33120841,
+        "precoAnterior": 1.24,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "AURA 360",
+    "industria": "Materiais Básicos",
+    "segmento": "Minerais Metálicos",
+    "codigos": [
+      {
+        "codigo": "AURA33",
+        "preco": 32.03,
+        "valor mercado": 2348784947,
+        "precoAnterior": 32.03,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "AUREN",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "AURE3",
+        "preco": 7.64,
+        "valor mercado": 8024887721,
+        "precoAnterior": 7.63,
+        "variacao": 0.13
+      }
+    ]
+  },
+  {
+    "nome": "AUTOMOB",
+    "industria": "Consumo Cíclico",
+    "segmento": "Automóveis e Motocicletas",
+    "codigos": [
+      {
+        "codigo": "AMOB3",
+        "preco": 0.24,
+        "valor mercado": 454632684,
+        "precoAnterior": 0.25,
+        "variacao": -4
+      }
+    ]
+  },
+  {
+    "nome": "AZEVEDO",
+    "industria": "Bens Industriais",
+    "segmento": "Construção Pesada",
+    "codigos": [
+      {
+        "codigo": "AZEV3",
+        "preco": 0.79,
+        "valor mercado": 159562727,
+        "precoAnterior": 0.79,
+        "variacao": 0
+      },
+      {
+        "codigo": "AZEV4",
+        "preco": 0.92,
+        "valor mercado": 359513548,
+        "precoAnterior": 0.92,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "AZUL",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Aéreo",
+    "codigos": [
+      {
+        "codigo": "AZUL4",
+        "preco": 3.2,
+        "valor mercado": 1074402547,
+        "precoAnterior": 3.21,
+        "variacao": -0.31
+      }
+    ]
+  },
+  {
+    "nome": "AZZAS 2154",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "codigos": [
+      {
+        "codigo": "AZZA3",
+        "preco": 24.46,
+        "valor mercado": 5050740826,
+        "precoAnterior": 24.31,
+        "variacao": 0.62
+      }
+    ]
+  },
+  {
+    "nome": "B3",
+    "industria": "Financeiro",
+    "segmento": "Serviços Financeiros Diversos",
+    "codigos": [
+      {
+        "codigo": "B3SA3",
+        "preco": 12.05,
+        "valor mercado": 63461325000,
+        "precoAnterior": 12.11,
+        "variacao": -0.5
+      }
+    ]
+  },
+  {
+    "nome": "BIOMA EDUC",
+    "industria": "Consumo Cíclico",
+    "segmento": "Serviços Educacionais",
+    "codigos": [
+      {
+        "codigo": "BIED3",
+        "preco": 3.38,
+        "valor mercado": 89200167,
+        "precoAnterior": 3.38,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BANCO BMG",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BMGB4",
+        "preco": 3.69,
+        "valor mercado": 776878626,
+        "precoAnterior": 3.7,
+        "variacao": -0.27
+      }
+    ]
+  },
+  {
+    "nome": "BANESTES",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BEES3",
+        "preco": 8.48,
+        "valor mercado": 1958930880,
+        "precoAnterior": 8.47,
+        "variacao": 0.12
+      },
+      {
+        "codigo": "BEES4",
+        "preco": 8.75,
+        "valor mercado": 742935025,
+        "precoAnterior": 8.75,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BARDELLA",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "BDLL3",
+        "preco": 9.05,
+        "valor mercado": 5495088,
+        "precoAnterior": 9.05,
+        "variacao": 0
+      },
+      {
+        "codigo": "BDLL4",
+        "preco": 8.7,
+        "valor mercado": 8637430,
+        "precoAnterior": 8.7,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BAUMER",
+    "industria": "Saúde",
+    "segmento": "Equipamentos",
+    "codigos": [
+      {
+        "codigo": "BALM3",
+        "preco": 16.45,
+        "valor mercado": 80605000,
+        "precoAnterior": 16.45,
+        "variacao": 0
+      },
+      {
+        "codigo": "BALM4",
+        "preco": 12.69,
+        "valor mercado": 62181000,
+        "precoAnterior": 12.69,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BBSEGURIDADE",
+    "industria": "Financeiro",
+    "segmento": "Seguradoras",
+    "codigos": [
+      {
+        "codigo": "BBSE3",
+        "preco": 40.22,
+        "valor mercado": 80440000000,
+        "precoAnterior": 40.25,
+        "variacao": -0.07
+      }
+    ]
+  },
+  {
+    "nome": "ABC BRASIL",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "ABCB4",
+        "preco": 19.86,
+        "valor mercado": 2416865739,
+        "precoAnterior": 19.86,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "AMAZONIA",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BAZA3",
+        "preco": 89.69,
+        "valor mercado": 15083610817,
+        "precoAnterior": 89.69,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BRADESCO",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BBDC3",
+        "preco": 11.16,
+        "valor mercado": 59486200240,
+        "precoAnterior": 11.15,
+        "variacao": 0.09
+      },
+      {
+        "codigo": "BBDC4",
+        "preco": 12.53,
+        "valor mercado": 66557675304,
+        "precoAnterior": 12.54,
+        "variacao": -0.08
+      }
+    ]
+  },
+  {
+    "nome": "BRASIL",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BBAS11",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BBAS12",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BBAS3",
+        "preco": 27.97,
+        "valor mercado": 160291428099,
+        "precoAnterior": 28,
+        "variacao": -0.11
+      }
+    ]
+  },
+  {
+    "nome": "BTGP BANCO",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BPAC3",
+        "preco": 16.99,
+        "valor mercado": 122913373460,
+        "precoAnterior": 17.32,
+        "variacao": -1.91
+      },
+      {
+        "codigo": "BPAC5",
+        "preco": 7.8,
+        "valor mercado": 22191825739,
+        "precoAnterior": 7.8,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BANESE",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BGIP3",
+        "preco": 27.1,
+        "valor mercado": 264532693,
+        "precoAnterior": 27.1,
+        "variacao": 0
+      },
+      {
+        "codigo": "BGIP4",
+        "preco": 26.44,
+        "valor mercado": 258090200,
+        "precoAnterior": 26.44,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BANRISUL",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BRSR3",
+        "preco": 11.87,
+        "valor mercado": 2434119663,
+        "precoAnterior": 11.87,
+        "variacao": 0
+      },
+      {
+        "codigo": "BRSR5",
+        "preco": 15,
+        "valor mercado": 20596365,
+        "precoAnterior": 15,
+        "variacao": 0
+      },
+      {
+        "codigo": "BRSR6",
+        "preco": 10.8,
+        "valor mercado": 2187394686,
+        "precoAnterior": 10.79,
+        "variacao": 0.09
+      }
+    ]
+  },
+  {
+    "nome": "MERC INVEST",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BMIN3",
+        "preco": 20,
+        "valor mercado": 82301140,
+        "precoAnterior": 20,
+        "variacao": 0
+      },
+      {
+        "codigo": "BMIN4",
+        "preco": 16.78,
+        "valor mercado": 11916200,
+        "precoAnterior": 16.74,
+        "variacao": 0.24
+      }
+    ]
+  },
+  {
+    "nome": "MERCANTIL",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BMEB3",
+        "preco": 32.82,
+        "valor mercado": 2138411518,
+        "precoAnterior": 32.82,
+        "variacao": 0
+      },
+      {
+        "codigo": "BMEB4",
+        "preco": 34.58,
+        "valor mercado": 1371990409,
+        "precoAnterior": 34.58,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "NORD BRASIL",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BNBR3",
+        "preco": 99.95,
+        "valor mercado": 9865039913,
+        "precoAnterior": 99.95,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BANCO PAN",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BPAN4",
+        "preco": 7.04,
+        "valor mercado": 4305026563,
+        "precoAnterior": 7.05,
+        "variacao": -0.14
+      }
+    ]
+  },
+  {
+    "nome": "PINE",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "PINE3",
+        "preco": 4.5,
+        "valor mercado": 521945154,
+        "precoAnterior": 4.5,
+        "variacao": 0
+      },
+      {
+        "codigo": "PINE4",
+        "preco": 4.31,
+        "valor mercado": 490720007,
+        "precoAnterior": 4.31,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "SANTANDER BR",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "SANB3",
+        "preco": 12.6,
+        "valor mercado": 48115557391,
+        "precoAnterior": 12.61,
+        "variacao": -0.08
+      },
+      {
+        "codigo": "SANB4",
+        "preco": 13.99,
+        "valor mercado": 51480905920,
+        "precoAnterior": 13.99,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BEMOBI TECH",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "BMOB3",
+        "preco": 17.45,
+        "valor mercado": 1493866440,
+        "precoAnterior": 17.45,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BIC MONARK",
+    "industria": "Consumo Cíclico",
+    "segmento": "Bicicletas",
+    "codigos": [
+      {
+        "codigo": "BMKS3",
+        "preco": 381,
+        "valor mercado": 173259750,
+        "precoAnterior": 381,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BIOMM",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "BIOM3",
+        "preco": 9.61,
+        "valor mercado": 1218946632,
+        "precoAnterior": 9.61,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BLAU",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "BLAU3",
+        "preco": 13.46,
+        "valor mercado": 2414642419,
+        "precoAnterior": 13.5,
+        "variacao": -0.3
+      }
+    ]
+  },
+  {
+    "nome": "BOA SAFRA",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "codigos": [
+      {
+        "codigo": "SOJA3",
+        "preco": 10.2,
+        "valor mercado": 1380285869,
+        "precoAnterior": 10.22,
+        "variacao": -0.2
+      }
+    ]
+  },
+  {
+    "nome": "BOMBRIL",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Produtos de Limpeza",
+    "codigos": [
+      {
+        "codigo": "BOBR4",
+        "preco": 1.67,
+        "valor mercado": 205233752,
+        "precoAnterior": 1.67,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BRADESPAR",
+    "industria": "Materiais Básicos",
+    "segmento": "Minerais Metálicos",
+    "codigos": [
+      {
+        "codigo": "BRAP3",
+        "preco": 15.87,
+        "valor mercado": 2189899681,
+        "precoAnterior": 15.93,
+        "variacao": -0.38
+      },
+      {
+        "codigo": "BRAP4",
+        "preco": 16.72,
+        "valor mercado": 4265384225,
+        "precoAnterior": 16.71,
+        "variacao": 0.06
+      }
+    ]
+  },
+  {
+    "nome": "BRASILAGRO",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "codigos": [
+      {
+        "codigo": "AGRO3",
+        "preco": 22.41,
+        "valor mercado": 2301135980,
+        "precoAnterior": 22.42,
+        "variacao": -0.04
+      }
+    ]
+  },
+  {
+    "nome": "BRASKEM",
+    "industria": "Materiais Básicos",
+    "segmento": "Petroquímicos",
+    "codigos": [
+      {
+        "codigo": "BRKM3",
+        "preco": 10.5,
+        "valor mercado": 4742520846,
+        "precoAnterior": 10.5,
+        "variacao": 0
+      },
+      {
+        "codigo": "BRKM5",
+        "preco": 9.9,
+        "valor mercado": 3416097881,
+        "precoAnterior": 9.9,
+        "variacao": 0
+      },
+      {
+        "codigo": "BRKM6",
+        "preco": 7.75,
+        "valor mercado": 3710623,
+        "precoAnterior": 7.75,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BRAVA",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "BRAV3",
+        "preco": 18.43,
+        "valor mercado": 8554852365,
+        "precoAnterior": 18.43,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BRB BANCO",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BSLI3",
+        "preco": 10.5,
+        "valor mercado": 2990247215,
+        "precoAnterior": 10.5,
+        "variacao": 0
+      },
+      {
+        "codigo": "BSLI4",
+        "preco": 11.19,
+        "valor mercado": 1265101284,
+        "precoAnterior": 11.19,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BRF SA",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Carnes e Derivados",
+    "codigos": [
+      {
+        "codigo": "BRFS3",
+        "preco": 19.44,
+        "valor mercado": 32707279902,
+        "precoAnterior": 19.53,
+        "variacao": -0.46
+      }
+    ]
+  },
+  {
+    "nome": "BRISANET",
+    "industria": "Comunicações",
+    "segmento": "Telecomunicações",
+    "codigos": [
+      {
+        "codigo": "BRST3",
+        "preco": 2.6,
+        "valor mercado": 1138819596,
+        "precoAnterior": 2.6,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CAIXA SEGURI",
+    "industria": "Financeiro",
+    "segmento": "Seguradoras",
+    "codigos": [
+      {
+        "codigo": "CXSE3",
+        "preco": 15.12,
+        "valor mercado": 45360000000,
+        "precoAnterior": 15.12,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CAMBUCI",
+    "industria": "Consumo Cíclico",
+    "segmento": "Calçados",
+    "codigos": [
+      {
+        "codigo": "CAMB3",
+        "preco": 9.86,
+        "valor mercado": 416832289,
+        "precoAnterior": 9.86,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CAMIL",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos Diversos",
+    "codigos": [
+      {
+        "codigo": "CAML3",
+        "preco": 3.98,
+        "valor mercado": 1393000000,
+        "precoAnterior": 3.98,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CCR SA",
+    "industria": "Bens Industriais",
+    "segmento": "Exploração de Rodovias",
+    "codigos": [
+      {
+        "codigo": "CCRO3",
+        "preco": 11.7,
+        "valor mercado": 23634000000,
+        "precoAnterior": 11.71,
+        "variacao": -0.09
+      }
+    ]
+  },
+  {
+    "nome": "CEA MODAS",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "codigos": [
+      {
+        "codigo": "CEAB3",
+        "preco": 11.25,
+        "valor mercado": 3467757015,
+        "precoAnterior": 11.25,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CEMEPE",
+    "industria": "Outros",
+    "segmento": "Outros",
+    "codigos": [
+      {
+        "codigo": "MAPT3",
+        "preco": 3.65,
+        "valor mercado": 1658761,
+        "precoAnterior": 3.65,
+        "variacao": 0
+      },
+      {
+        "codigo": "MAPT4",
+        "preco": 4,
+        "valor mercado": 1857760,
+        "precoAnterior": 4,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ELETROBRAS",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "ELET3",
+        "preco": 40.69,
+        "valor mercado": 82240164790,
+        "precoAnterior": 40.75,
+        "variacao": -0.15
+      },
+      {
+        "codigo": "ELET5",
+        "preco": 75,
+        "valor mercado": 11019000,
+        "precoAnterior": 75,
+        "variacao": 0
+      },
+      {
+        "codigo": "ELET6",
+        "preco": 43.98,
+        "valor mercado": 12311822508,
+        "precoAnterior": 44.02,
+        "variacao": -0.09
+      }
+    ]
+  },
+  {
+    "nome": "CELESC",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CLSC3",
+        "preco": 75.01,
+        "valor mercado": 1164690546,
+        "precoAnterior": 75.01,
+        "variacao": 0
+      },
+      {
+        "codigo": "CLSC4",
+        "preco": 82.5,
+        "valor mercado": 1901167455,
+        "precoAnterior": 82.5,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "P.ACUCAR-CBD",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos",
+    "codigos": [
+      {
+        "codigo": "PCAR3",
+        "preco": 3.25,
+        "valor mercado": 1593430953,
+        "precoAnterior": 3.25,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CASAN",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "codigos": [
+      {
+        "codigo": "CASN3",
+        "preco": 9.63,
+        "valor mercado": 5509115753,
+        "precoAnterior": 9.63,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CELGPAR",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "GPAR3",
+        "preco": 25,
+        "valor mercado": 1991912550,
+        "precoAnterior": 25,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CEG",
+    "industria": "Utilidade Pública",
+    "segmento": "Gás",
+    "codigos": [
+      {
+        "codigo": "CEGR3",
+        "preco": 56.01,
+        "valor mercado": 14542309369,
+        "precoAnterior": 56.01,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "COELBA",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CEEB3",
+        "preco": 37.4,
+        "valor mercado": 5684710577,
+        "precoAnterior": 37.4,
+        "variacao": 0
+      },
+      {
+        "codigo": "CEEB5",
+        "preco": 36,
+        "valor mercado": 979922484,
+        "precoAnterior": 36,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CEB",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CEBR3",
+        "preco": 18.18,
+        "valor mercado": 653041780,
+        "precoAnterior": 18.18,
+        "variacao": 0
+      },
+      {
+        "codigo": "CEBR5",
+        "preco": 18.06,
+        "valor mercado": 118564081,
+        "precoAnterior": 18.06,
+        "variacao": 0
+      },
+      {
+        "codigo": "CEBR6",
+        "preco": 19.74,
+        "valor mercado": 584225336,
+        "precoAnterior": 19.55,
+        "variacao": 0.97
+      }
+    ]
+  },
+  {
+    "nome": "CEMIG",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CMIG3",
+        "preco": 14.19,
+        "valor mercado": 13574181117,
+        "precoAnterior": 14.21,
+        "variacao": -0.14
+      },
+      {
+        "codigo": "CMIG4",
+        "preco": 10,
+        "valor mercado": 19051799840,
+        "precoAnterior": 10.01,
+        "variacao": -0.1
+      }
+    ]
+  },
+  {
+    "nome": "COELCE",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "COCE3",
+        "preco": 25.1,
+        "valor mercado": 1206505219,
+        "precoAnterior": 25.1,
+        "variacao": 0
+      },
+      {
+        "codigo": "COCE5",
+        "preco": 24.6,
+        "valor mercado": 695016420,
+        "precoAnterior": 24.6,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CEEE-D",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CEED3",
+        "preco": 10.83,
+        "valor mercado": 737424620,
+        "precoAnterior": 10.83,
+        "variacao": 0
+      },
+      {
+        "codigo": "CEED4",
+        "preco": 20,
+        "valor mercado": 3280280,
+        "precoAnterior": 20,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FERBASA",
+    "industria": "Materiais Básicos",
+    "segmento": "Siderurgia",
+    "codigos": [
+      {
+        "codigo": "FESA3",
+        "preco": 11.99,
+        "valor mercado": 1411522750,
+        "precoAnterior": 11.99,
+        "variacao": 0
+      },
+      {
+        "codigo": "FESA4",
+        "preco": 7.01,
+        "valor mercado": 1650504500,
+        "precoAnterior": 7.01,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CEDRO",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "CEDO3",
+        "preco": 25,
+        "valor mercado": 142677600,
+        "precoAnterior": 25,
+        "variacao": 0
+      },
+      {
+        "codigo": "CEDO4",
+        "preco": 21,
+        "valor mercado": 90150816,
+        "precoAnterior": 21,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "COMGAS",
+    "industria": "Utilidade Pública",
+    "segmento": "Gás",
+    "codigos": [
+      {
+        "codigo": "CGAS3",
+        "preco": 140,
+        "valor mercado": 14540787520,
+        "precoAnterior": 140,
+        "variacao": 0
+      },
+      {
+        "codigo": "CGAS5",
+        "preco": 134.6,
+        "valor mercado": 3857342437,
+        "precoAnterior": 134.6,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "HABITASUL",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "HBTS5",
+        "preco": 30,
+        "valor mercado": 178509810,
+        "precoAnterior": 30,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MELHOR SP",
+    "industria": "Materiais Básicos",
+    "segmento": "Papel e Celulose",
+    "codigos": [
+      {
+        "codigo": "MSPA3",
+        "preco": 47,
+        "valor mercado": 264677915,
+        "precoAnterior": 47,
+        "variacao": 0
+      },
+      {
+        "codigo": "MSPA4",
+        "preco": 36.3,
+        "valor mercado": 28078195,
+        "precoAnterior": 36.3,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "COPEL",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CPLE3",
+        "preco": 9.47,
+        "valor mercado": 12314288931,
+        "precoAnterior": 9.47,
+        "variacao": 0
+      },
+      {
+        "codigo": "CPLE5",
+        "preco": 9.76,
+        "valor mercado": 30529280,
+        "precoAnterior": 9.76,
+        "variacao": 0
+      },
+      {
+        "codigo": "CPLE6",
+        "preco": 10.58,
+        "valor mercado": 17767367368,
+        "precoAnterior": 10.59,
+        "variacao": -0.09
+      }
+    ]
+  },
+  {
+    "nome": "PAR AL BAHIA",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "PEAB3",
+        "preco": 40,
+        "valor mercado": 379867320,
+        "precoAnterior": 40,
+        "variacao": 0
+      },
+      {
+        "codigo": "PEAB4",
+        "preco": 50,
+        "valor mercado": 470621400,
+        "precoAnterior": 50,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "SABESP",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "codigos": [
+      {
+        "codigo": "SBSP3",
+        "preco": 103.33,
+        "valor mercado": 70627074764,
+        "precoAnterior": 103.24,
+        "variacao": 0.09
+      }
+    ]
+  },
+  {
+    "nome": "COPASA",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "codigos": [
+      {
+        "codigo": "CSMG3",
+        "preco": 19.76,
+        "valor mercado": 7513800643,
+        "precoAnterior": 19.78,
+        "variacao": -0.1
+      }
+    ]
+  },
+  {
+    "nome": "SANEPAR",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "codigos": [
+      {
+        "codigo": "SAPR3",
+        "preco": 5.75,
+        "valor mercado": 2896477739,
+        "precoAnterior": 5.76,
+        "variacao": -0.17
+      },
+      {
+        "codigo": "SAPR4",
+        "preco": 5.67,
+        "valor mercado": 5712356374,
+        "precoAnterior": 5.67,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "SID NACIONAL",
+    "industria": "Materiais Básicos",
+    "segmento": "Siderurgia",
+    "codigos": [
+      {
+        "codigo": "CSNA3",
+        "preco": 8.22,
+        "valor mercado": 10900492244,
+        "precoAnterior": 8.23,
+        "variacao": -0.12
+      }
+    ]
+  },
+  {
+    "nome": "COTEMINAS",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "CTNM3",
+        "preco": 7.13,
+        "valor mercado": 99198264,
+        "precoAnterior": 7.13,
+        "variacao": 0
+      },
+      {
+        "codigo": "CTNM4",
+        "preco": 0.86,
+        "valor mercado": 14382345,
+        "precoAnterior": 0.86,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "SANTANENSE",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "CTSA3",
+        "preco": 1.27,
+        "valor mercado": 12078052,
+        "precoAnterior": 1.27,
+        "variacao": 0
+      },
+      {
+        "codigo": "CTSA4",
+        "preco": 0.7,
+        "valor mercado": 12820153,
+        "precoAnterior": 0.7,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "VIVEO",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "VVEO3",
+        "preco": 1.3,
+        "valor mercado": 419666790,
+        "precoAnterior": 1.3,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "COGNA ON",
+    "industria": "Consumo Cíclico",
+    "segmento": "Serviços Educacionais",
+    "codigos": [
+      {
+        "codigo": "COGN3",
+        "preco": 2.07,
+        "valor mercado": 3884574855,
+        "precoAnterior": 2.06,
+        "variacao": 0.49
+      }
+    ]
+  },
+  {
+    "nome": "CBA",
+    "industria": "Materiais Básicos",
+    "segmento": "Minerais Metálicos",
+    "codigos": [
+      {
+        "codigo": "CBAV3",
+        "preco": 4.14,
+        "valor mercado": 2695440966,
+        "precoAnterior": 4.14,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "TENDA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "TEND3",
+        "preco": 13.84,
+        "valor mercado": 1696481624,
+        "precoAnterior": 13.9,
+        "variacao": -0.43
+      }
+    ]
+  },
+  {
+    "nome": "COSAN",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "CSAN3",
+        "preco": 7.25,
+        "valor mercado": 13532639257,
+        "precoAnterior": 7.28,
+        "variacao": -0.41
+      }
+    ]
+  },
+  {
+    "nome": "CPFL ENERGIA",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CPFE3",
+        "preco": 37.79,
+        "valor mercado": 43543695288,
+        "precoAnterior": 37.72,
+        "variacao": 0.19
+      }
+    ]
+  },
+  {
+    "nome": "CRUZEIRO EDU",
+    "industria": "Consumo Cíclico",
+    "segmento": "Serviços Educacionais",
+    "codigos": [
+      {
+        "codigo": "CSED3",
+        "preco": 3.43,
+        "valor mercado": 1250380953,
+        "precoAnterior": 3.42,
+        "variacao": 0.29
+      }
+    ]
+  },
+  {
+    "nome": "CSNMINERACAO",
+    "industria": "Materiais Básicos",
+    "segmento": "Minerais Metálicos",
+    "codigos": [
+      {
+        "codigo": "CMIN3",
+        "preco": 5.63,
+        "valor mercado": 30882457641,
+        "precoAnterior": 5.63,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CSU DIGITAL",
+    "industria": "Financeiro",
+    "segmento": "Serviços Financeiros Diversos",
+    "codigos": [
+      {
+        "codigo": "CSUD3",
+        "preco": 16.66,
+        "valor mercado": 696388000,
+        "precoAnterior": 16.75,
+        "variacao": -0.54
+      }
+    ]
+  },
+  {
+    "nome": "CURY S/A",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "CURY3",
+        "preco": 25.62,
+        "valor mercado": 7477839755,
+        "precoAnterior": 25.66,
+        "variacao": -0.16
+      }
+    ]
+  },
+  {
+    "nome": "CVC BRASIL",
+    "industria": "Consumo Cíclico",
+    "segmento": "Viagens e Turismo",
+    "codigos": [
+      {
+        "codigo": "CVCB3",
+        "preco": 2.03,
+        "valor mercado": 1066949927,
+        "precoAnterior": 2.05,
+        "variacao": -0.98
+      }
+    ]
+  },
+  {
+    "nome": "CYRELA REALT",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "CYRE3",
+        "preco": 24.38,
+        "valor mercado": 9361920000,
+        "precoAnterior": 24.41,
+        "variacao": -0.12
+      }
+    ]
+  },
+  {
+    "nome": "D1000VFARMA",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "DMVF3",
+        "preco": 5.33,
+        "valor mercado": 269713148,
+        "precoAnterior": 5.33,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "DESKTOP",
+    "industria": "Comunicações",
+    "segmento": "Telecomunicações",
+    "codigos": [
+      {
+        "codigo": "DESK3",
+        "preco": 8.69,
+        "valor mercado": 1006878495,
+        "precoAnterior": 8.69,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "DEXCO",
+    "industria": "Materiais Básicos",
+    "segmento": "Madeira",
+    "codigos": [
+      {
+        "codigo": "DXCO3",
+        "preco": 5.39,
+        "valor mercado": 4422852066,
+        "precoAnterior": 5.41,
+        "variacao": -0.37
+      }
+    ]
+  },
+  {
+    "nome": "DEXXOS PAR",
+    "industria": "Materiais Básicos",
+    "segmento": "Petroquímicos",
+    "codigos": [
+      {
+        "codigo": "DEXP3",
+        "preco": 7.64,
+        "valor mercado": 791036684,
+        "precoAnterior": 7.64,
+        "variacao": 0
+      },
+      {
+        "codigo": "DEXP4",
+        "preco": 7.8,
+        "valor mercado": 45020079,
+        "precoAnterior": 7.8,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "DASA",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "DASA3",
+        "preco": 1.82,
+        "valor mercado": 2284112092,
+        "precoAnterior": 1.81,
+        "variacao": 0.55
+      }
+    ]
+  },
+  {
+    "nome": "DIMED",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "PNVL3",
+        "preco": 8.85,
+        "valor mercado": 1330840707,
+        "precoAnterior": 8.87,
+        "variacao": -0.23
+      }
+    ]
+  },
+  {
+    "nome": "DIRECIONAL",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "DIRR3",
+        "preco": 32.23,
+        "valor mercado": 5591905000,
+        "precoAnterior": 32.34,
+        "variacao": -0.34
+      }
+    ]
+  },
+  {
+    "nome": "DMFINANCEIRA",
+    "industria": "Financeiro",
+    "segmento": "Soc. Crédito e Financiamento",
+    "codigos": [
+      {
+        "codigo": "DMFN3",
+        "preco": 12.5,
+        "valor mercado": 772425975,
+        "precoAnterior": 12.5,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "DOHLER",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "DOHL3",
+        "preco": 6.3,
+        "valor mercado": 343147266,
+        "precoAnterior": 6.3,
+        "variacao": 0
+      },
+      {
+        "codigo": "DOHL4",
+        "preco": 3.94,
+        "valor mercado": 83439212,
+        "precoAnterior": 3.94,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "DOTZ SA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Programas de Fidelização",
+    "codigos": [
+      {
+        "codigo": "DOTZ3",
+        "preco": 3.5,
+        "valor mercado": 46493706,
+        "precoAnterior": 3.42,
+        "variacao": 2.34
+      }
+    ]
+  },
+  {
+    "nome": "DTCOM-DIRECT",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "codigos": [
+      {
+        "codigo": "DTCY3",
+        "preco": 3.9,
+        "valor mercado": 41653856,
+        "precoAnterior": 3.9,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ECORODOVIAS",
+    "industria": "Bens Industriais",
+    "segmento": "Exploração de Rodovias",
+    "codigos": [
+      {
+        "codigo": "ECOR3",
+        "preco": 5.81,
+        "valor mercado": 4045701841,
+        "precoAnterior": 5.79,
+        "variacao": 0.35
+      }
+    ]
+  },
+  {
+    "nome": "ACO ALTONA",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "EALT3",
+        "preco": 14,
+        "valor mercado": 136500000,
+        "precoAnterior": 14,
+        "variacao": 0
+      },
+      {
+        "codigo": "EALT4",
+        "preco": 13.37,
+        "valor mercado": 170467500,
+        "precoAnterior": 13.37,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ELEKTRO",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "EKTR3",
+        "preco": 40.03,
+        "valor mercado": 3677995309,
+        "precoAnterior": 40.03,
+        "variacao": 0
+      },
+      {
+        "codigo": "EKTR4",
+        "preco": 50.1,
+        "valor mercado": 5104102479,
+        "precoAnterior": 50.1,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ELETROPAR",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "LIPR3",
+        "preco": 41.25,
+        "valor mercado": 485301671,
+        "precoAnterior": 41.25,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ELETROMIDIA",
+    "industria": "Comunicações",
+    "segmento": "Publicidade e Propaganda",
+    "codigos": [
+      {
+        "codigo": "ELMD3",
+        "preco": 30.34,
+        "valor mercado": 4330286907,
+        "precoAnterior": 30.32,
+        "variacao": 0.07
+      }
+    ]
+  },
+  {
+    "nome": "EMAE",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "EMAE3",
+        "preco": 70,
+        "valor mercado": 1029375900,
+        "precoAnterior": 70,
+        "variacao": 0
+      },
+      {
+        "codigo": "EMAE4",
+        "preco": 33.89,
+        "valor mercado": 753771687,
+        "precoAnterior": 33.89,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "EMBPAR S/A",
+    "industria": "Bens Industriais",
+    "segmento": "Material de Transporte",
+    "codigos": [
+      {
+        "codigo": "EPAR3",
+        "preco": 4.8,
+        "valor mercado": 71330726,
+        "precoAnterior": 4.83,
+        "variacao": -0.62
+      }
+    ]
+  },
+  {
+    "nome": "EMBRAER",
+    "industria": "Bens Industriais",
+    "segmento": "Material Aeronáutico e de Defesa",
+    "codigos": [
+      {
+        "codigo": "EMBR3",
+        "preco": 60.18,
+        "valor mercado": 44561186348,
+        "precoAnterior": 60.18,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "PAGUE MENOS",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "PGMN3",
+        "preco": 3.24,
+        "valor mercado": 2017459665,
+        "precoAnterior": 3.25,
+        "variacao": -0.31
+      }
+    ]
+  },
+  {
+    "nome": "ENERGISA MT",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "ENMT3",
+        "preco": 81.99,
+        "valor mercado": 6192686170,
+        "precoAnterior": 81.99,
+        "variacao": 0
+      },
+      {
+        "codigo": "ENMT4",
+        "preco": 79.99,
+        "valor mercado": 11471539078,
+        "precoAnterior": 79.99,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ENERGISA",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "ENGI3",
+        "preco": 11.51,
+        "valor mercado": 10212031653,
+        "precoAnterior": 11.51,
+        "variacao": 0
+      },
+      {
+        "codigo": "ENGI4",
+        "preco": 7.35,
+        "valor mercado": 10306121608,
+        "precoAnterior": 7.35,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ENEVA",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "ENEV3",
+        "preco": 11.88,
+        "valor mercado": 22959190192,
+        "precoAnterior": 11.89,
+        "variacao": -0.08
+      }
+    ]
+  },
+  {
+    "nome": "ENGIE BRASIL",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "EGIE3",
+        "preco": 39.71,
+        "valor mercado": 32400490555,
+        "precoAnterior": 39.76,
+        "variacao": -0.13
+      }
+    ]
+  },
+  {
+    "nome": "ENJOEI",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "ENJU3",
+        "preco": 1.05,
+        "valor mercado": 215268890,
+        "precoAnterior": 1.05,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "EQTL PARA",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "EQPA3",
+        "preco": 6.18,
+        "valor mercado": 13624555116,
+        "precoAnterior": 6.18,
+        "variacao": 0
+      },
+      {
+        "codigo": "EQPA5",
+        "preco": 7.4,
+        "valor mercado": 16034438,
+        "precoAnterior": 7.4,
+        "variacao": 0
+      },
+      {
+        "codigo": "EQPA6",
+        "preco": 8,
+        "valor mercado": 8682984,
+        "precoAnterior": 8,
+        "variacao": 0
+      },
+      {
+        "codigo": "EQPA7",
+        "preco": 8.24,
+        "valor mercado": 9898292,
+        "precoAnterior": 8.24,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "EQUATORIAL",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "EQTL3",
+        "preco": 33.24,
+        "valor mercado": 41677902035,
+        "precoAnterior": 33.23,
+        "variacao": 0.03
+      }
+    ]
+  },
+  {
+    "nome": "EQUIFAXBRL",
+    "industria": "Financeiro",
+    "segmento": "Serviços Financeiros Diversos",
+    "codigos": [
+      {
+        "codigo": "EFXB31",
+        "preco": 969.34,
+        "valor mercado": 120972364103,
+        "precoAnterior": 969.34,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ETERNIT",
+    "industria": "Bens Industriais",
+    "segmento": "Produtos para Construção",
+    "codigos": [
+      {
+        "codigo": "ETER3",
+        "preco": 4.74,
+        "valor mercado": 292820966,
+        "precoAnterior": 4.74,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "EUCATEX",
+    "industria": "Materiais Básicos",
+    "segmento": "Madeira",
+    "codigos": [
+      {
+        "codigo": "EUCA3",
+        "preco": 15.05,
+        "valor mercado": 470428385,
+        "precoAnterior": 15.05,
+        "variacao": 0
+      },
+      {
+        "codigo": "EUCA4",
+        "preco": 11.94,
+        "valor mercado": 732656979,
+        "precoAnterior": 11.93,
+        "variacao": 0.08
+      }
+    ]
+  },
+  {
+    "nome": "EVEN",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "EVEN3",
+        "preco": 5.66,
+        "valor mercado": 1132000000,
+        "precoAnterior": 5.71,
+        "variacao": -0.88
+      }
+    ]
+  },
+  {
+    "nome": "EVERTEC INC",
+    "industria": "Financeiro",
+    "segmento": "Serviços Financeiros Diversos",
+    "codigos": [
+      {
+        "codigo": "EVTC31",
+        "preco": 196.42,
+        "valor mercado": 12495077004,
+        "precoAnterior": 196.42,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "EXCELSIOR",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Carnes e Derivados",
+    "codigos": [
+      {
+        "codigo": "BAUH4",
+        "preco": 78.99,
+        "valor mercado": 187624394,
+        "precoAnterior": 78.99,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "EZTEC",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "EZTC3",
+        "preco": 15.1,
+        "valor mercado": 3336935455,
+        "precoAnterior": 15.13,
+        "variacao": -0.2
+      }
+    ]
+  },
+  {
+    "nome": "FER HERINGER",
+    "industria": "Materiais Básicos",
+    "segmento": "Fertilizantes e Defensivos",
+    "codigos": [
+      {
+        "codigo": "FHER3",
+        "preco": 3.75,
+        "valor mercado": 201964815,
+        "precoAnterior": 3.79,
+        "variacao": -1.06
+      }
+    ]
+  },
+  {
+    "nome": "FICA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "FIEI3",
+        "preco": 9,
+        "valor mercado": 21799377,
+        "precoAnterior": 9,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FICTORALIMEN",
+    "industria": "Outros",
+    "segmento": "Outros",
+    "codigos": [
+      {
+        "codigo": "FICT3",
+        "preco": 4.03,
+        "valor mercado": 95933739,
+        "precoAnterior": 4.03,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FLEURY",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "FLRY3",
+        "preco": 11.71,
+        "valor mercado": 6407606914,
+        "precoAnterior": 11.71,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FRAS-LE",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "codigos": [
+      {
+        "codigo": "FRAS3",
+        "preco": 27.09,
+        "valor mercado": 7314742732,
+        "precoAnterior": 27.13,
+        "variacao": -0.15
+      }
+    ]
+  },
+  {
+    "nome": "GAFISA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "GFSA3",
+        "preco": 2.02,
+        "valor mercado": 271842771,
+        "precoAnterior": 2.04,
+        "variacao": -0.98
+      }
+    ]
+  },
+  {
+    "nome": "GENERALSHOPP",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "GSHP3",
+        "preco": 6,
+        "valor mercado": 11572614,
+        "precoAnterior": 6,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "GERDAU",
+    "industria": "Materiais Básicos",
+    "segmento": "Siderurgia",
+    "codigos": [
+      {
+        "codigo": "GGBR3",
+        "preco": 14.72,
+        "valor mercado": 10581675416,
+        "precoAnterior": 14.72,
+        "variacao": 0
+      },
+      {
+        "codigo": "GGBR4",
+        "preco": 15.16,
+        "valor mercado": 20221146747,
+        "precoAnterior": 15.15,
+        "variacao": 0.07
+      }
+    ]
+  },
+  {
+    "nome": "GOL",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Aéreo",
+    "codigos": [
+      {
+        "codigo": "GOLL4",
+        "preco": 1.39,
+        "valor mercado": 470646126,
+        "precoAnterior": 1.39,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "GP INVEST",
+    "industria": "Financeiro",
+    "segmento": "Gestão de Recursos e Investimentos",
+    "codigos": [
+      {
+        "codigo": "GPIV33",
+        "preco": 3.65,
+        "valor mercado": 156861506,
+        "precoAnterior": 3.68,
+        "variacao": -0.82
+      }
+    ]
+  },
+  {
+    "nome": "GPS",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "codigos": [
+      {
+        "codigo": "GGPS3",
+        "preco": 13.18,
+        "valor mercado": 8926559652,
+        "precoAnterior": 13.19,
+        "variacao": -0.08
+      }
+    ]
+  },
+  {
+    "nome": "GRAZZIOTIN",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "codigos": [
+      {
+        "codigo": "CGRA3",
+        "preco": 26.93,
+        "valor mercado": 232991681,
+        "precoAnterior": 26.93,
+        "variacao": 0
+      },
+      {
+        "codigo": "CGRA4",
+        "preco": 27.33,
+        "valor mercado": 333618895,
+        "precoAnterior": 27.25,
+        "variacao": 0.29
+      }
+    ]
+  },
+  {
+    "nome": "GRENDENE",
+    "industria": "Consumo Cíclico",
+    "segmento": "Calçados",
+    "codigos": [
+      {
+        "codigo": "GRND3",
+        "preco": 5.67,
+        "valor mercado": 5115247200,
+        "precoAnterior": 5.67,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CASAS BAHIA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Eletrodomésticos",
+    "codigos": [
+      {
+        "codigo": "BHIA3",
+        "preco": 7.56,
+        "valor mercado": 718857697,
+        "precoAnterior": 7.59,
+        "variacao": -0.4
+      }
+    ]
+  },
+  {
+    "nome": "GRUPO MATEUS",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos",
+    "codigos": [
+      {
+        "codigo": "GMAT3",
+        "preco": 7.04,
+        "valor mercado": 15829227631,
+        "precoAnterior": 7.07,
+        "variacao": -0.42
+      }
+    ]
+  },
+  {
+    "nome": "MULTILASER",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Computadores e Equipamentos",
+    "codigos": [
+      {
+        "codigo": "MLAS3",
+        "preco": 1.22,
+        "valor mercado": 1001057855,
+        "precoAnterior": 1.22,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "GRUPO SBF",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produtos Diversos",
+    "codigos": [
+      {
+        "codigo": "SBFG3",
+        "preco": 11.69,
+        "valor mercado": 2852511736,
+        "precoAnterior": 11.7,
+        "variacao": -0.09
+      }
+    ]
+  },
+  {
+    "nome": "GUARARAPES",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "codigos": [
+      {
+        "codigo": "GUAR3",
+        "preco": 6.38,
+        "valor mercado": 3184896000,
+        "precoAnterior": 6.4,
+        "variacao": -0.31
+      }
+    ]
+  },
+  {
+    "nome": "HAGA S/A",
+    "industria": "Bens Industriais",
+    "segmento": "Produtos para Construção",
+    "codigos": [
+      {
+        "codigo": "HAGA3",
+        "preco": 2.26,
+        "valor mercado": 8964667,
+        "precoAnterior": 2.26,
+        "variacao": 0
+      },
+      {
+        "codigo": "HAGA4",
+        "preco": 1.18,
+        "valor mercado": 9361333,
+        "precoAnterior": 1.18,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "HAPVIDA",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "HAPV3",
+        "preco": 2.14,
+        "valor mercado": 16134451383,
+        "precoAnterior": 2.14,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "HBR REALTY",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "HBRE3",
+        "preco": 3.42,
+        "valor mercado": 352906315,
+        "precoAnterior": 3.42,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "HELBOR",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "HBOR3",
+        "preco": 1.81,
+        "valor mercado": 242270440,
+        "precoAnterior": 1.81,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "HERCULES",
+    "industria": "Consumo Cíclico",
+    "segmento": "Utensílios Domésticos",
+    "codigos": [
+      {
+        "codigo": "HETA4",
+        "preco": 5.71,
+        "valor mercado": 1934554,
+        "precoAnterior": 5.71,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "HIDROVIAS",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Hidroviário",
+    "codigos": [
+      {
+        "codigo": "HBSA3",
+        "preco": 2.24,
+        "valor mercado": 1703257120,
+        "precoAnterior": 2.24,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MATER DEI",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "MATD3",
+        "preco": 3.92,
+        "valor mercado": 1330557858,
+        "precoAnterior": 3.92,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "HOTEIS OTHON",
+    "industria": "Consumo Cíclico",
+    "segmento": "Hotelaria",
+    "codigos": [
+      {
+        "codigo": "HOOT4",
+        "preco": 3.23,
+        "valor mercado": 25499216,
+        "precoAnterior": 3.23,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "HYPERA",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "HYPE3",
+        "preco": 20.3,
+        "valor mercado": 12858442707,
+        "precoAnterior": 20.34,
+        "variacao": -0.2
+      }
+    ]
+  },
+  {
+    "nome": "IGUATEMI S.A",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "IGTI3",
+        "preco": 2.13,
+        "valor mercado": null,
+        "precoAnterior": 2.13,
+        "variacao": 0
+      },
+      {
+        "codigo": "IGTI4",
+        "preco": 8.02,
+        "valor mercado": 3491657423,
+        "precoAnterior": 8.02,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "INEPAR",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "INEP3",
+        "preco": 1.45,
+        "valor mercado": 45949163,
+        "precoAnterior": 1.45,
+        "variacao": 0
+      },
+      {
+        "codigo": "INEP4",
+        "preco": 1.34,
+        "valor mercado": 16920491,
+        "precoAnterior": 1.34,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "INFRACOMM",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "IFCM3",
+        "preco": 0.1,
+        "valor mercado": 79793720,
+        "precoAnterior": 0.1,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "INTELBRAS",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Computadores e Equipamentos",
+    "codigos": [
+      {
+        "codigo": "INTB3",
+        "preco": 12.82,
+        "valor mercado": 4199974430,
+        "precoAnterior": 12.82,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "INTER CO",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "INBR32",
+        "preco": 31.16,
+        "valor mercado": 8885381035,
+        "precoAnterior": 31.15,
+        "variacao": 0.03
+      }
+    ]
+  },
+  {
+    "nome": "IMC S/A",
+    "industria": "Consumo Cíclico",
+    "segmento": "Restaurante e Similares",
+    "codigos": [
+      {
+        "codigo": "MEAL3",
+        "preco": 1.26,
+        "valor mercado": 360825608,
+        "precoAnterior": 1.26,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "IOCHP-MAXION",
+    "industria": "Consumo Cíclico",
+    "segmento": "Automóveis e Motocicletas",
+    "codigos": [
+      {
+        "codigo": "MYPK3",
+        "preco": 11.75,
+        "valor mercado": 1806205312,
+        "precoAnterior": 11.75,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "IRANI",
+    "industria": "Materiais Básicos",
+    "segmento": "Embalagens",
+    "codigos": [
+      {
+        "codigo": "RANI3",
+        "preco": 7.29,
+        "valor mercado": 1748360110,
+        "precoAnterior": 7.3,
+        "variacao": -0.14
+      }
+    ]
+  },
+  {
+    "nome": "IRBBRASIL RE",
+    "industria": "Financeiro",
+    "segmento": "Resseguradoras",
+    "codigos": [
+      {
+        "codigo": "IRBR3",
+        "preco": 49.37,
+        "valor mercado": 4019841711,
+        "precoAnterior": 49.7,
+        "variacao": -0.66
+      }
+    ]
+  },
+  {
+    "nome": "ISA ENERGIA",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "ISAE3",
+        "preco": 31.03,
+        "valor mercado": 8003807824,
+        "precoAnterior": 31,
+        "variacao": 0.1
+      },
+      {
+        "codigo": "ISAE4",
+        "preco": 22,
+        "valor mercado": 8820802584,
+        "precoAnterior": 21.98,
+        "variacao": 0.09
+      }
+    ]
+  },
+  {
+    "nome": "ITAUUNIBANCO",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "ITUB3",
+        "preco": 27.55,
+        "valor mercado": 150260989332,
+        "precoAnterior": 27.55,
+        "variacao": 0
+      },
+      {
+        "codigo": "ITUB4",
+        "preco": 31.07,
+        "valor mercado": 165616444192,
+        "precoAnterior": 31.07,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ITAUSA",
+    "industria": "Financeiro",
+    "segmento": "Holdings Diversificadas",
+    "codigos": [
+      {
+        "codigo": "ITSA3",
+        "preco": 9.52,
+        "valor mercado": 35478825220,
+        "precoAnterior": 9.52,
+        "variacao": 0
+      },
+      {
+        "codigo": "ITSA4",
+        "preco": 9.33,
+        "valor mercado": 66408976474,
+        "precoAnterior": 9.32,
+        "variacao": 0.11
+      }
+    ]
+  },
+  {
+    "nome": "JALLESMACHAD",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Açucar e Alcool",
+    "codigos": [
+      {
+        "codigo": "JALL3",
+        "preco": 3.96,
+        "valor mercado": 1202025781,
+        "precoAnterior": 3.96,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "JBS",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Carnes e Derivados",
+    "codigos": [
+      {
+        "codigo": "JBSS3",
+        "preco": 41.1,
+        "valor mercado": 91164582807,
+        "precoAnterior": 41.18,
+        "variacao": -0.19
+      }
+    ]
+  },
+  {
+    "nome": "JHSF PART",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "JHSF3",
+        "preco": 4.13,
+        "valor mercado": 2813862982,
+        "precoAnterior": 4.13,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "JOAO FORTES",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "JFEN3",
+        "preco": 2.32,
+        "valor mercado": 28579430,
+        "precoAnterior": 2.32,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "JOSAPAR",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos Diversos",
+    "codigos": [
+      {
+        "codigo": "JOPA3",
+        "preco": 21,
+        "valor mercado": 219470853,
+        "precoAnterior": 21,
+        "variacao": 0
+      },
+      {
+        "codigo": "JOPA4",
+        "preco": 24,
+        "valor mercado": 3152832,
+        "precoAnterior": 24,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "JSL",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Rodoviário",
+    "codigos": [
+      {
+        "codigo": "JSLG3",
+        "preco": 5.39,
+        "valor mercado": 1509151910,
+        "precoAnterior": 5.39,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "KARSTEN",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "CTKA3",
+        "preco": 38,
+        "valor mercado": 109379352,
+        "precoAnterior": 38,
+        "variacao": 0
+      },
+      {
+        "codigo": "CTKA4",
+        "preco": 30.5,
+        "valor mercado": 101472616,
+        "precoAnterior": 30.5,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "KEPLER WEBER",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "KEPL3",
+        "preco": 7.55,
+        "valor mercado": 1356886982,
+        "precoAnterior": 7.52,
+        "variacao": 0.4
+      }
+    ]
+  },
+  {
+    "nome": "KLABIN S/A",
+    "industria": "Materiais Básicos",
+    "segmento": "Papel e Celulose",
+    "codigos": [
+      {
+        "codigo": "KLBN3",
+        "preco": 3.73,
+        "valor mercado": 8541332427,
+        "precoAnterior": 3.73,
+        "variacao": 0
+      },
+      {
+        "codigo": "KLBN4",
+        "preco": 3.64,
+        "valor mercado": 14158801297,
+        "precoAnterior": 3.63,
+        "variacao": 0.28
+      }
+    ]
+  },
+  {
+    "nome": "KORA SAUDE",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "KRSA3",
+        "preco": 8.84,
+        "valor mercado": 683639685,
+        "precoAnterior": 8.84,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "LAVVI",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "LAVV3",
+        "preco": 9.28,
+        "valor mercado": 1813630787,
+        "precoAnterior": 9.33,
+        "variacao": -0.54
+      }
+    ]
+  },
+  {
+    "nome": "LIGHT S/A",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "LIGT3",
+        "preco": 4.8,
+        "valor mercado": 1788265555,
+        "precoAnterior": 4.79,
+        "variacao": 0.21
+      }
+    ]
+  },
+  {
+    "nome": "WDC NETWORKS",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "LVTC3",
+        "preco": 2.82,
+        "valor mercado": 178961326,
+        "precoAnterior": 2.82,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "LOCALIZA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Aluguel de carros",
+    "codigos": [
+      {
+        "codigo": "RENT3",
+        "preco": 35.97,
+        "valor mercado": 38941867298,
+        "precoAnterior": 36.07,
+        "variacao": -0.28
+      }
+    ]
+  },
+  {
+    "nome": "LOG COM PROP",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "LOGG3",
+        "preco": 18,
+        "valor mercado": 1581464772,
+        "precoAnterior": 18,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "LOG-IN",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Hidroviário",
+    "codigos": [
+      {
+        "codigo": "LOGN3",
+        "preco": 21.14,
+        "valor mercado": 2268459114,
+        "precoAnterior": 21.14,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "QUERO-QUERO",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produtos Diversos",
+    "codigos": [
+      {
+        "codigo": "LJQQ3",
+        "preco": 2.85,
+        "valor mercado": 589714200,
+        "precoAnterior": 2.85,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "LOJAS RENNER",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "codigos": [
+      {
+        "codigo": "LREN3",
+        "preco": 12.63,
+        "valor mercado": 13382112610,
+        "precoAnterior": 12.62,
+        "variacao": 0.08
+      }
+    ]
+  },
+  {
+    "nome": "LOPES BRASIL",
+    "industria": "Financeiro",
+    "segmento": "Intermediação Imobiliária",
+    "codigos": [
+      {
+        "codigo": "LPSB3",
+        "preco": 1.33,
+        "valor mercado": 196247659,
+        "precoAnterior": 1.35,
+        "variacao": -1.48
+      }
+    ]
+  },
+  {
+    "nome": "LUPATECH",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Equipamentos e Serviços",
+    "codigos": [
+      {
+        "codigo": "LUPA3",
+        "preco": 1.29,
+        "valor mercado": 54360238,
+        "precoAnterior": 1.29,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "LWSA",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "LWSA3",
+        "preco": 2.6,
+        "valor mercado": 1463504843,
+        "precoAnterior": 2.61,
+        "variacao": -0.38
+      }
+    ]
+  },
+  {
+    "nome": "M.DIASBRANCO",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos Diversos",
+    "codigos": [
+      {
+        "codigo": "MDIA3",
+        "preco": 23.8,
+        "valor mercado": 8068200000,
+        "precoAnterior": 23.82,
+        "variacao": -0.08
+      }
+    ]
+  },
+  {
+    "nome": "MAGAZ LUIZA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Eletrodomésticos",
+    "codigos": [
+      {
+        "codigo": "MGLU3",
+        "preco": 10.94,
+        "valor mercado": 8084608013,
+        "precoAnterior": 10.94,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "METAL LEVE",
+    "industria": "Consumo Cíclico",
+    "segmento": "Automóveis e Motocicletas",
+    "codigos": [
+      {
+        "codigo": "LEVE3",
+        "preco": 28.49,
+        "valor mercado": 3861506110,
+        "precoAnterior": 28.53,
+        "variacao": -0.14
+      }
+    ]
+  },
+  {
+    "nome": "MANGELS INDL",
+    "industria": "Materiais Básicos",
+    "segmento": "Artefatos de Ferro e Aço",
+    "codigos": [
+      {
+        "codigo": "MGEL4",
+        "preco": 6.09,
+        "valor mercado": 22630251,
+        "precoAnterior": 6.09,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ESTRELA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Brinquedos e Jogos",
+    "codigos": [
+      {
+        "codigo": "ESTR3",
+        "preco": 5,
+        "valor mercado": 13472500,
+        "precoAnterior": 5,
+        "variacao": 0
+      },
+      {
+        "codigo": "ESTR4",
+        "preco": 3.4,
+        "valor mercado": 183226000,
+        "precoAnterior": 3.4,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MARCOPOLO",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "codigos": [
+      {
+        "codigo": "POMO3",
+        "preco": 4.74,
+        "valor mercado": 1943167233,
+        "precoAnterior": 4.75,
+        "variacao": -0.21
+      },
+      {
+        "codigo": "POMO4",
+        "preco": 6.03,
+        "valor mercado": 4379713007,
+        "precoAnterior": 6.01,
+        "variacao": 0.33
+      }
+    ]
+  },
+  {
+    "nome": "MARFRIG",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Carnes e Derivados",
+    "codigos": [
+      {
+        "codigo": "MRFG3",
+        "preco": 18.47,
+        "valor mercado": 15845932358,
+        "precoAnterior": 18.48,
+        "variacao": -0.05
+      }
+    ]
+  },
+  {
+    "nome": "LOJAS MARISA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "codigos": [
+      {
+        "codigo": "AMAR3",
+        "preco": 1.36,
+        "valor mercado": 698300218,
+        "precoAnterior": 1.36,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MELIUZ",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "CASH3",
+        "preco": 3.15,
+        "valor mercado": 274597552,
+        "precoAnterior": 3.15,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MELNICK",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "MELK3",
+        "preco": 3.24,
+        "valor mercado": 668312665,
+        "precoAnterior": 3.24,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MERC FINANC",
+    "industria": "Financeiro",
+    "segmento": "Soc. Crédito e Financiamento",
+    "codigos": [
+      {
+        "codigo": "MERC4",
+        "preco": 9.6,
+        "valor mercado": 162378269,
+        "precoAnterior": 9.6,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "METALFRIO",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "FRIO3",
+        "preco": 293,
+        "valor mercado": 1841883849,
+        "precoAnterior": 293,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "GERDAU MET",
+    "industria": "Materiais Básicos",
+    "segmento": "Siderurgia",
+    "codigos": [
+      {
+        "codigo": "GOAU3",
+        "preco": 8.65,
+        "valor mercado": 3158211889,
+        "precoAnterior": 8.65,
+        "variacao": 0
+      },
+      {
+        "codigo": "GOAU4",
+        "preco": 8.34,
+        "valor mercado": 5292518989,
+        "precoAnterior": 8.34,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "RIOSULENSE",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "codigos": [
+      {
+        "codigo": "RSUL4",
+        "preco": 69.99,
+        "valor mercado": 174640798,
+        "precoAnterior": 69.99,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "METISA",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Construção e Agrícolas",
+    "codigos": [
+      {
+        "codigo": "MTSA3",
+        "preco": 70,
+        "valor mercado": 294877100,
+        "precoAnterior": 70,
+        "variacao": 0
+      },
+      {
+        "codigo": "MTSA4",
+        "preco": 42.5,
+        "valor mercado": 194531000,
+        "precoAnterior": 42.5,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MILLS",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "MILS3",
+        "preco": 9.24,
+        "valor mercado": 2163806633,
+        "precoAnterior": 9.23,
+        "variacao": 0.11
+      }
+    ]
+  },
+  {
+    "nome": "MINASMAQUINA",
+    "industria": "Bens Industriais",
+    "segmento": "Material de Transporte",
+    "codigos": [
+      {
+        "codigo": "MMAQ3",
+        "preco": 2550.01,
+        "valor mercado": 50992550,
+        "precoAnterior": 2550.01,
+        "variacao": 0
+      },
+      {
+        "codigo": "MMAQ4",
+        "preco": 2550.01,
+        "valor mercado": 42654017,
+        "precoAnterior": 2550.01,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MINERVA",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Carnes e Derivados",
+    "codigos": [
+      {
+        "codigo": "BEEF3",
+        "preco": 6.5,
+        "valor mercado": 3947342146,
+        "precoAnterior": 6.5,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MINUPAR",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Carnes e Derivados",
+    "codigos": [
+      {
+        "codigo": "MNPR3",
+        "preco": 28.1,
+        "valor mercado": 199512810,
+        "precoAnterior": 28.1,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MITRE REALTY",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "MTRE3",
+        "preco": 3.5,
+        "valor mercado": 370211870,
+        "precoAnterior": 3.5,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MOBLY",
+    "industria": "Consumo Cíclico",
+    "segmento": "Móveis",
+    "codigos": [
+      {
+        "codigo": "MBLY3",
+        "preco": 1.01,
+        "valor mercado": 123991037,
+        "precoAnterior": 1.01,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MONT ARANHA",
+    "industria": "Financeiro",
+    "segmento": "Holdings Diversificadas",
+    "codigos": [
+      {
+        "codigo": "MOAR3",
+        "preco": 259.98,
+        "valor mercado": 3185072436,
+        "precoAnterior": 259.98,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MOURA DUBEUX",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "MDNE3",
+        "preco": 15.49,
+        "valor mercado": 1315246219,
+        "precoAnterior": 15.49,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MOVIDA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Aluguel de carros",
+    "codigos": [
+      {
+        "codigo": "MOVI3",
+        "preco": 5.43,
+        "valor mercado": 1967300327,
+        "precoAnterior": 5.42,
+        "variacao": 0.18
+      }
+    ]
+  },
+  {
+    "nome": "ESPACOLASER",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produtos Diversos",
+    "codigos": [
+      {
+        "codigo": "ESPA3",
+        "preco": 0.7,
+        "valor mercado": 252996146,
+        "precoAnterior": 0.7,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "MRV",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "MRVE3",
+        "preco": 4.99,
+        "valor mercado": 2808505088,
+        "precoAnterior": 5.01,
+        "variacao": -0.4
+      }
+    ]
+  },
+  {
+    "nome": "MULTIPLAN",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "MULT3",
+        "preco": 22.76,
+        "valor mercado": 11679605835,
+        "precoAnterior": 22.75,
+        "variacao": 0.04
+      }
+    ]
+  },
+  {
+    "nome": "MUNDIAL",
+    "industria": "Consumo Cíclico",
+    "segmento": "Acessórios",
+    "codigos": [
+      {
+        "codigo": "MNDL3",
+        "preco": 18,
+        "valor mercado": 178578720,
+        "precoAnterior": 18,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "GRUPO NATURA",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Produtos de Uso Pessoal",
+    "codigos": [
+      {
+        "codigo": "NTCO3",
+        "preco": 9.17,
+        "valor mercado": 12751940971,
+        "precoAnterior": 9.19,
+        "variacao": -0.22
+      }
+    ]
+  },
+  {
+    "nome": "NEOENERGIA",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "NEOE3",
+        "preco": 20.41,
+        "valor mercado": 24773601832,
+        "precoAnterior": 20.41,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "NEOGRID",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "NGRD3",
+        "preco": 19.13,
+        "valor mercado": 174866259,
+        "precoAnterior": 19.13,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "NEXPE",
+    "industria": "Financeiro",
+    "segmento": "Intermediação Imobiliária",
+    "codigos": [
+      {
+        "codigo": "NEXP3",
+        "preco": 3.8,
+        "valor mercado": 10091162,
+        "precoAnterior": 3.8,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "NORDON MET",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "NORD3",
+        "preco": 6.06,
+        "valor mercado": 40126205,
+        "precoAnterior": 6.06,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "NUTRIPLANT",
+    "industria": "Materiais Básicos",
+    "segmento": "Fertilizantes e Defensivos",
+    "codigos": [
+      {
+        "codigo": "NUTR3",
+        "preco": 3.68,
+        "valor mercado": 48739392,
+        "precoAnterior": 3.68,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "OCEANPACT",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Equipamentos e Serviços",
+    "codigos": [
+      {
+        "codigo": "OPCT3",
+        "preco": 5.17,
+        "valor mercado": 1033790894,
+        "precoAnterior": 5.19,
+        "variacao": -0.39
+      }
+    ]
+  },
+  {
+    "nome": "ODONTOPREV",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "ODPV3",
+        "preco": 10.72,
+        "valor mercado": 5851247066,
+        "precoAnterior": 10.72,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "OI",
+    "industria": "Comunicações",
+    "segmento": "Telecomunicações",
+    "codigos": [
+      {
+        "codigo": "OIBR3",
+        "preco": 0.92,
+        "valor mercado": 302260909,
+        "precoAnterior": 0.92,
+        "variacao": 0
+      },
+      {
+        "codigo": "OIBR4",
+        "preco": 7.6,
+        "valor mercado": 11987267,
+        "precoAnterior": 7.6,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ONCOCLINICAS",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "ONCO3",
+        "preco": 5.25,
+        "valor mercado": 3421720643,
+        "precoAnterior": 5.25,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ORIZON",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "codigos": [
+      {
+        "codigo": "ORVR3",
+        "preco": 41.5,
+        "valor mercado": 3442461894,
+        "precoAnterior": 41.5,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "OSX BRASIL",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Equipamentos e Serviços",
+    "codigos": [
+      {
+        "codigo": "OSXB3",
+        "preco": 3.17,
+        "valor mercado": 9979280,
+        "precoAnterior": 3.17,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "OUROFINO S/A",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "OFSA3",
+        "preco": 22.56,
+        "valor mercado": 1217089575,
+        "precoAnterior": 22.56,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "PADTEC",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "PDTC3",
+        "preco": 1.15,
+        "valor mercado": 91390070,
+        "precoAnterior": 1.17,
+        "variacao": -1.71
+      }
+    ]
+  },
+  {
+    "nome": "PANATLANTICA",
+    "industria": "Materiais Básicos",
+    "segmento": "Artefatos de Ferro e Aço",
+    "codigos": [
+      {
+        "codigo": "PATI3",
+        "preco": 28,
+        "valor mercado": 641398324,
+        "precoAnterior": 28,
+        "variacao": 0
+      },
+      {
+        "codigo": "PATI4",
+        "preco": 35,
+        "valor mercado": 35885010,
+        "precoAnterior": 35,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "PARANAPANEMA",
+    "industria": "Materiais Básicos",
+    "segmento": "Artefatos de Cobre",
+    "codigos": [
+      {
+        "codigo": "PMAM3",
+        "preco": 1.37,
+        "valor mercado": 103331336,
+        "precoAnterior": 1.37,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "PORTOBELLO",
+    "industria": "Bens Industriais",
+    "segmento": "Produtos para Construção",
+    "codigos": [
+      {
+        "codigo": "PTBL3",
+        "preco": 3.65,
+        "valor mercado": 514602134,
+        "precoAnterior": 3.67,
+        "variacao": -0.54
+      }
+    ]
+  },
+  {
+    "nome": "PDG REALT",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "PDGR3",
+        "preco": 0.91,
+        "valor mercado": 12692721,
+        "precoAnterior": 0.92,
+        "variacao": -1.09
+      }
+    ]
+  },
+  {
+    "nome": "PETZ",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produtos Diversos",
+    "codigos": [
+      {
+        "codigo": "PETZ3",
+        "preco": 4.05,
+        "valor mercado": 1874096696,
+        "precoAnterior": 4.05,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "PETROBRAS",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "PETR3",
+        "preco": 37.04,
+        "valor mercado": 275660250389,
+        "precoAnterior": 37.04,
+        "variacao": 0
+      },
+      {
+        "codigo": "PETR4",
+        "preco": 34.2,
+        "valor mercado": 186270347162,
+        "precoAnterior": 34.2,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "PETRORECSA",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "RECV3",
+        "preco": 14.45,
+        "valor mercado": 4240672221,
+        "precoAnterior": 14.45,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "PETTENATI",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "PTNT3",
+        "preco": 9.27,
+        "valor mercado": 148476885,
+        "precoAnterior": 9.27,
+        "variacao": 0
+      },
+      {
+        "codigo": "PTNT4",
+        "preco": 7.82,
+        "valor mercado": 250471190,
+        "precoAnterior": 7.82,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "PLANOEPLANO",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "PLPL3",
+        "preco": 11.63,
+        "valor mercado": 2371368630,
+        "precoAnterior": 11.63,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "PLASCAR PART",
+    "industria": "Consumo Cíclico",
+    "segmento": "Automóveis e Motocicletas",
+    "codigos": [
+      {
+        "codigo": "PLAS3",
+        "preco": 6,
+        "valor mercado": 74552508,
+        "precoAnterior": 6,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "PORTO SEGURO",
+    "industria": "Financeiro",
+    "segmento": "Seguradoras",
+    "codigos": [
+      {
+        "codigo": "PSSA3",
+        "preco": 40.45,
+        "valor mercado": 26154406127,
+        "precoAnterior": 40.43,
+        "variacao": 0.05
+      }
+    ]
+  },
+  {
+    "nome": "POSITIVO TEC",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Computadores e Equipamentos",
+    "codigos": [
+      {
+        "codigo": "POSI3",
+        "preco": 5,
+        "valor mercado": 709000000,
+        "precoAnterior": 4.97,
+        "variacao": 0.6
+      }
+    ]
+  },
+  {
+    "nome": "PRINER",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "codigos": [
+      {
+        "codigo": "PRNR3",
+        "preco": 16.8,
+        "valor mercado": 784908718,
+        "precoAnterior": 16.76,
+        "variacao": 0.24
+      }
+    ]
+  },
+  {
+    "nome": "PETRORIO",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "PRIO3",
+        "preco": 33.94,
+        "valor mercado": 30421989112,
+        "precoAnterior": 33.91,
+        "variacao": 0.09
+      }
+    ]
+  },
+  {
+    "nome": "PROFARMA",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "PFRM3",
+        "preco": 6.76,
+        "valor mercado": 836974345,
+        "precoAnterior": 6.76,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "QUALICORP",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "QUAL3",
+        "preco": 1.82,
+        "valor mercado": 516906072,
+        "precoAnterior": 1.82,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "RAIADROGASIL",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "RADL3",
+        "preco": 19.71,
+        "valor mercado": 33861921912,
+        "precoAnterior": 19.73,
+        "variacao": -0.1
+      }
+    ]
+  },
+  {
+    "nome": "RAIZEN",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "RAIZ4",
+        "preco": 1.74,
+        "valor mercado": 2364550206,
+        "precoAnterior": 1.75,
+        "variacao": -0.57
+      }
+    ]
+  },
+  {
+    "nome": "RANDON PART",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "codigos": [
+      {
+        "codigo": "RAPT3",
+        "preco": 7.94,
+        "valor mercado": 925133284,
+        "precoAnterior": 7.95,
+        "variacao": -0.13
+      },
+      {
+        "codigo": "RAPT4",
+        "preco": 8.37,
+        "valor mercado": 1781261600,
+        "precoAnterior": 8.32,
+        "variacao": 0.6
+      }
+    ]
+  },
+  {
+    "nome": "REAGINVEST",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "REAG3",
+        "preco": 4.45,
+        "valor mercado": 226307936,
+        "precoAnterior": 4.45,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "RECRUSUL",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "codigos": [
+      {
+        "codigo": "RCSL3",
+        "preco": 3.04,
+        "valor mercado": 32418183,
+        "precoAnterior": 3.04,
+        "variacao": 0
+      },
+      {
+        "codigo": "RCSL4",
+        "preco": 1.4,
+        "valor mercado": 29621784,
+        "precoAnterior": 1.4,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "REDE D OR",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "RDOR3",
+        "preco": 28.52,
+        "valor mercado": 65290624667,
+        "precoAnterior": 28.55,
+        "variacao": -0.11
+      }
+    ]
+  },
+  {
+    "nome": "REDE ENERGIA",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "REDE3",
+        "preco": 6.66,
+        "valor mercado": 14054753671,
+        "precoAnterior": 6.66,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "PET MANGUINH",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "RPMG3",
+        "preco": 2.78,
+        "valor mercado": 188182729,
+        "precoAnterior": 2.78,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "RENOVA",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "RNEW3",
+        "preco": 0.93,
+        "valor mercado": 116010042,
+        "precoAnterior": 0.93,
+        "variacao": 0
+      },
+      {
+        "codigo": "RNEW4",
+        "preco": 0.93,
+        "valor mercado": 116010037,
+        "precoAnterior": 0.93,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "GER PARANAP",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "GEPA3",
+        "preco": 32,
+        "valor mercado": 1007288352,
+        "precoAnterior": 32,
+        "variacao": 0
+      },
+      {
+        "codigo": "GEPA4",
+        "preco": 31.8,
+        "valor mercado": 2001985600,
+        "precoAnterior": 31.8,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "RNI",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "RDNI3",
+        "preco": 2.47,
+        "valor mercado": 108111426,
+        "precoAnterior": 2.47,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "ROMI",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "ROMI3",
+        "preco": 9.04,
+        "valor mercado": 842263553,
+        "precoAnterior": 9.06,
+        "variacao": -0.22
+      }
+    ]
+  },
+  {
+    "nome": "ROSSI RESID",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "RSID3",
+        "preco": 2.85,
+        "valor mercado": 48887010,
+        "precoAnterior": 2.85,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "RUMO S.A.",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Ferroviário",
+    "codigos": [
+      {
+        "codigo": "RAIL3",
+        "preco": 17.11,
+        "valor mercado": 31736807717,
+        "precoAnterior": 17.13,
+        "variacao": -0.12
+      }
+    ]
+  },
+  {
+    "nome": "SANSUY",
+    "industria": "Materiais Básicos",
+    "segmento": "Materiais Diversos",
+    "codigos": [
+      {
+        "codigo": "SNSY3",
+        "preco": 11,
+        "valor mercado": 29237120,
+        "precoAnterior": 11,
+        "variacao": 0
+      },
+      {
+        "codigo": "SNSY5",
+        "preco": 4.19,
+        "valor mercado": 21169053,
+        "precoAnterior": 4.19,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "SANTOS BRP",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços de Apoio e Armazenagem",
+    "codigos": [
+      {
+        "codigo": "STBP3",
+        "preco": 13.31,
+        "valor mercado": 11502107611,
+        "precoAnterior": 13.31,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "SAO CARLOS",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "SCAR3",
+        "preco": 17.07,
+        "valor mercado": 985576035,
+        "precoAnterior": 17.05,
+        "variacao": 0.12
+      }
+    ]
+  },
+  {
+    "nome": "SAO MARTINHO",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Açucar e Alcool",
+    "codigos": [
+      {
+        "codigo": "SMTO3",
+        "preco": 19.03,
+        "valor mercado": 6326245491,
+        "precoAnterior": 19.05,
+        "variacao": -0.1
+      }
+    ]
+  },
+  {
+    "nome": "SPTURIS",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produção de Eventos e Shows",
+    "codigos": [
+      {
+        "codigo": "AHEB3",
+        "preco": 45,
+        "valor mercado": 378354465,
+        "precoAnterior": 45,
+        "variacao": 0
+      },
+      {
+        "codigo": "AHEB5",
+        "preco": 50,
+        "valor mercado": 2251100,
+        "precoAnterior": 50,
+        "variacao": 0
+      },
+      {
+        "codigo": "AHEB6",
+        "preco": 55,
+        "valor mercado": 5004725,
+        "precoAnterior": 55,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "SCHULZ",
+    "industria": "Bens Industriais",
+    "segmento": "Motores . Compressores e Outros",
+    "codigos": [
+      {
+        "codigo": "SHUL4",
+        "preco": 5.32,
+        "valor mercado": 1088908325,
+        "precoAnterior": 5.33,
+        "variacao": -0.19
+      }
+    ]
+  },
+  {
+    "nome": "ASSAI",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos",
+    "codigos": [
+      {
+        "codigo": "ASAI3",
+        "preco": 7.96,
+        "valor mercado": 10763871673,
+        "precoAnterior": 7.98,
+        "variacao": -0.25
+      }
+    ]
+  },
+  {
+    "nome": "SEQUOIA LOG",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "codigos": [
+      {
+        "codigo": "SEQL3",
+        "preco": 2.09,
+        "valor mercado": 73904714,
+        "precoAnterior": 2.09,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "SER EDUCA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Serviços Educacionais",
+    "codigos": [
+      {
+        "codigo": "SEER3",
+        "preco": 5.09,
+        "valor mercado": 655192740,
+        "precoAnterior": 5.09,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "SERENA",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "SRNA3",
+        "preco": 8.77,
+        "valor mercado": 5461346976,
+        "precoAnterior": 8.76,
+        "variacao": 0.11
+      }
+    ]
+  },
+  {
+    "nome": "ALIPERTI",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "codigos": [
+      {
+        "codigo": "APTI4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SIMPAR",
+    "industria": "Financeiro",
+    "segmento": "Holdings Diversificadas",
+    "codigos": [
+      {
+        "codigo": "SIMH3",
+        "preco": 4.35,
+        "valor mercado": 3797726319,
+        "precoAnterior": 4.37,
+        "variacao": -0.46
+      }
+    ]
+  },
+  {
+    "nome": "SLC AGRICOLA",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "codigos": [
+      {
+        "codigo": "SLCE3",
+        "preco": 18.81,
+        "valor mercado": 8339031958,
+        "precoAnterior": 18.81,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "SMART FIT",
+    "industria": "Consumo Cíclico",
+    "segmento": "Atividades Esportivas",
+    "codigos": [
+      {
+        "codigo": "SMFT3",
+        "preco": 20.11,
+        "valor mercado": 12010698566,
+        "precoAnterior": 20.15,
+        "variacao": -0.2
+      }
+    ]
+  },
+  {
+    "nome": "SONDOTECNICA",
+    "industria": "Bens Industriais",
+    "segmento": "Engenharia Consultiva",
+    "codigos": [
+      {
+        "codigo": "SOND3",
+        "preco": 47,
+        "valor mercado": 40232000,
+        "precoAnterior": 47,
+        "variacao": 0
+      },
+      {
+        "codigo": "SOND5",
+        "preco": 42.9,
+        "valor mercado": 33659340,
+        "precoAnterior": 42.9,
+        "variacao": 0
+      },
+      {
+        "codigo": "SOND6",
+        "preco": 43,
+        "valor mercado": 35143900,
+        "precoAnterior": 43,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "SPRINGS",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "SGPS3",
+        "preco": 1.64,
+        "valor mercado": 16400000,
+        "precoAnterior": 1.64,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "SUZANO S.A.",
+    "industria": "Materiais Básicos",
+    "segmento": "Papel e Celulose",
+    "codigos": [
+      {
+        "codigo": "SUZB3",
+        "preco": 50.8,
+        "valor mercado": 64217174842,
+        "precoAnterior": 50.78,
+        "variacao": 0.04
+      }
+    ]
+  },
+  {
+    "nome": "SYN PROP TEC",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "SYNE3",
+        "preco": 4.91,
+        "valor mercado": 749484225,
+        "precoAnterior": 4.92,
+        "variacao": -0.2
+      }
+    ]
+  },
+  {
+    "nome": "TIME FOR FUN",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produção de Eventos e Shows",
+    "codigos": [
+      {
+        "codigo": "SHOW3",
+        "preco": 0.66,
+        "valor mercado": 44492335,
+        "precoAnterior": 0.66,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "TAURUS ARMAS",
+    "industria": "Bens Industriais",
+    "segmento": "Armas e Munições",
+    "codigos": [
+      {
+        "codigo": "TASA3",
+        "preco": 8.31,
+        "valor mercado": 385960559,
+        "precoAnterior": 8.4,
+        "variacao": -1.07
+      },
+      {
+        "codigo": "TASA4",
+        "preco": 8.33,
+        "valor mercado": 667975370,
+        "precoAnterior": 8.31,
+        "variacao": 0.24
+      }
+    ]
+  },
+  {
+    "nome": "TC",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "TRAD3",
+        "preco": 7.27,
+        "valor mercado": 290952808,
+        "precoAnterior": 7.26,
+        "variacao": 0.14
+      }
+    ]
+  },
+  {
+    "nome": "TECHNOS",
+    "industria": "Consumo Cíclico",
+    "segmento": "Acessórios",
+    "codigos": [
+      {
+        "codigo": "TECN3",
+        "preco": 5.91,
+        "valor mercado": 374435231,
+        "precoAnterior": 5.85,
+        "variacao": 1.03
+      }
+    ]
+  },
+  {
+    "nome": "TECNISA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "TCSA3",
+        "preco": 1.57,
+        "valor mercado": 115582191,
+        "precoAnterior": 1.57,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "TEGMA",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Rodoviário",
+    "codigos": [
+      {
+        "codigo": "TGMA3",
+        "preco": 33.89,
+        "valor mercado": 2236838789,
+        "precoAnterior": 33.81,
+        "variacao": 0.24
+      }
+    ]
+  },
+  {
+    "nome": "TEKNO",
+    "industria": "Materiais Básicos",
+    "segmento": "Artefatos de Ferro e Aço",
+    "codigos": [
+      {
+        "codigo": "TKNO3",
+        "preco": 99.98,
+        "valor mercado": 158678358,
+        "precoAnterior": 99.98,
+        "variacao": 0
+      },
+      {
+        "codigo": "TKNO4",
+        "preco": 81.05,
+        "valor mercado": 110285464,
+        "precoAnterior": 81.05,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "TELEBRAS",
+    "industria": "Comunicações",
+    "segmento": "Telecomunicações",
+    "codigos": [
+      {
+        "codigo": "TELB3",
+        "preco": 14.5,
+        "valor mercado": 985646186,
+        "precoAnterior": 14.49,
+        "variacao": 0.07
+      },
+      {
+        "codigo": "TELB4",
+        "preco": 8.75,
+        "valor mercado": 161065546,
+        "precoAnterior": 8.75,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "TELEF BRASIL",
+    "industria": "Comunicações",
+    "segmento": "Telecomunicações",
+    "codigos": [
+      {
+        "codigo": "VIVT3",
+        "preco": 51.25,
+        "valor mercado": 83570489420,
+        "precoAnterior": 51.41,
+        "variacao": -0.31
+      }
+    ]
+  },
+  {
+    "nome": "TERRASANTAPA",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "codigos": [
+      {
+        "codigo": "LAND3",
+        "preco": 14.38,
+        "valor mercado": 1383743714,
+        "precoAnterior": 14.36,
+        "variacao": 0.14
+      }
+    ]
+  },
+  {
+    "nome": "TEX RENAUX",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "TXRX3",
+        "preco": 8.5,
+        "valor mercado": 12381126,
+        "precoAnterior": 8.5,
+        "variacao": 0
+      },
+      {
+        "codigo": "TXRX4",
+        "preco": 1.8,
+        "valor mercado": 5044820,
+        "precoAnterior": 1.8,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "TIM",
+    "industria": "Comunicações",
+    "segmento": "Telecomunicações",
+    "codigos": [
+      {
+        "codigo": "TIMS3",
+        "preco": 16.95,
+        "valor mercado": 41032634546,
+        "precoAnterior": 16.92,
+        "variacao": 0.18
+      }
+    ]
+  },
+  {
+    "nome": "TOTVS",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "TOTS3",
+        "preco": 34.04,
+        "valor mercado": 20403629817,
+        "precoAnterior": 34.05,
+        "variacao": -0.03
+      }
+    ]
+  },
+  {
+    "nome": "TRIUNFO PART",
+    "industria": "Bens Industriais",
+    "segmento": "Exploração de Rodovias",
+    "codigos": [
+      {
+        "codigo": "TPIS3",
+        "preco": 4.48,
+        "valor mercado": 197120000,
+        "precoAnterior": 4.48,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "TRACK FIELD",
+    "industria": "Consumo Cíclico",
+    "segmento": "Vestuário",
+    "codigos": [
+      {
+        "codigo": "TFCO4",
+        "preco": 10.79,
+        "valor mercado": 706668003,
+        "precoAnterior": 10.79,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "TAESA",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "TAEE3",
+        "preco": 11.37,
+        "valor mercado": 6716418965,
+        "precoAnterior": 11.37,
+        "variacao": 0
+      },
+      {
+        "codigo": "TAEE4",
+        "preco": 11.42,
+        "valor mercado": 5056577886,
+        "precoAnterior": 11.45,
+        "variacao": -0.26
+      }
+    ]
+  },
+  {
+    "nome": "3TENTOS",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "codigos": [
+      {
+        "codigo": "TTEN3",
+        "preco": 14.02,
+        "valor mercado": 6986133011,
+        "precoAnterior": 14.02,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "TREVISA",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Hidroviário",
+    "codigos": [
+      {
+        "codigo": "LUXM4",
+        "preco": 11.95,
+        "valor mercado": 138524400,
+        "precoAnterior": 11.95,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "TRISUL",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "TRIS3",
+        "preco": 6.27,
+        "valor mercado": 1170091963,
+        "precoAnterior": 6.28,
+        "variacao": -0.16
+      }
+    ]
+  },
+  {
+    "nome": "CRISTAL",
+    "industria": "Materiais Básicos",
+    "segmento": "Químicos Diversos",
+    "codigos": [
+      {
+        "codigo": "CRPG3",
+        "preco": 21.15,
+        "valor mercado": 214850118,
+        "precoAnterior": 21.15,
+        "variacao": 0
+      },
+      {
+        "codigo": "CRPG5",
+        "preco": 18.4,
+        "valor mercado": 227097179,
+        "precoAnterior": 18.4,
+        "variacao": 0
+      },
+      {
+        "codigo": "CRPG6",
+        "preco": 18.51,
+        "valor mercado": 120650235,
+        "precoAnterior": 18.51,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "TUPY",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "codigos": [
+      {
+        "codigo": "TUPY3",
+        "preco": 17.59,
+        "valor mercado": 2536082225,
+        "precoAnterior": 17.42,
+        "variacao": 0.98
+      }
+    ]
+  },
+  {
+    "nome": "ULTRAPAR",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "UGPA3",
+        "preco": 17.1,
+        "valor mercado": 19075172812,
+        "precoAnterior": 17.09,
+        "variacao": 0.06
+      }
+    ]
+  },
+  {
+    "nome": "UNICASA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Móveis",
+    "codigos": [
+      {
+        "codigo": "UCAS3",
+        "preco": 1.45,
+        "valor mercado": 95825228,
+        "precoAnterior": 1.44,
+        "variacao": 0.69
+      }
+    ]
+  },
+  {
+    "nome": "UNIFIQUE",
+    "industria": "Comunicações",
+    "segmento": "Telecomunicações",
+    "codigos": [
+      {
+        "codigo": "FIQE3",
+        "preco": 3.68,
+        "valor mercado": 1332342561,
+        "precoAnterior": 3.69,
+        "variacao": -0.27
+      }
+    ]
+  },
+  {
+    "nome": "UNIPAR",
+    "industria": "Materiais Básicos",
+    "segmento": "Químicos Diversos",
+    "codigos": [
+      {
+        "codigo": "UNIP3",
+        "preco": 50.75,
+        "valor mercado": 1982289062,
+        "precoAnterior": 50.75,
+        "variacao": 0
+      },
+      {
+        "codigo": "UNIP5",
+        "preco": 57.3,
+        "valor mercado": 139572601,
+        "precoAnterior": 57.3,
+        "variacao": 0
+      },
+      {
+        "codigo": "UNIP6",
+        "preco": 56.38,
+        "valor mercado": 4041180833,
+        "precoAnterior": 56.48,
+        "variacao": -0.18
+      }
+    ]
+  },
+  {
+    "nome": "USIMINAS",
+    "industria": "Materiais Básicos",
+    "segmento": "Siderurgia",
+    "codigos": [
+      {
+        "codigo": "USIM3",
+        "preco": 5.39,
+        "valor mercado": 3801355087,
+        "precoAnterior": 5.39,
+        "variacao": 0
+      },
+      {
+        "codigo": "USIM5",
+        "preco": 5.38,
+        "valor mercado": 2946906637,
+        "precoAnterior": 5.38,
+        "variacao": 0
+      },
+      {
+        "codigo": "USIM6",
+        "preco": 11,
+        "valor mercado": 728871,
+        "precoAnterior": 11,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "VALE",
+    "industria": "Materiais Básicos",
+    "segmento": "Minerais Metálicos",
+    "codigos": [
+      {
+        "codigo": "VALE3",
+        "preco": 52.41,
+        "valor mercado": 237889386639,
+        "precoAnterior": 52.41,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "VALID",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "codigos": [
+      {
+        "codigo": "VLID3",
+        "preco": 25,
+        "valor mercado": 2045909375,
+        "precoAnterior": 24.97,
+        "variacao": 0.12
+      }
+    ]
+  },
+  {
+    "nome": "VAMOS",
+    "industria": "Consumo Cíclico",
+    "segmento": "Aluguel de carros",
+    "codigos": [
+      {
+        "codigo": "VAMO3",
+        "preco": 4.37,
+        "valor mercado": 4724112187,
+        "precoAnterior": 4.37,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "VESTE",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "codigos": [
+      {
+        "codigo": "VSTE3",
+        "preco": 6.92,
+        "valor mercado": 788883529,
+        "precoAnterior": 6.92,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "VIBRA",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "VBBR3",
+        "preco": 17.68,
+        "valor mercado": 19783920000,
+        "precoAnterior": 17.68,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "VITRUEDUCA",
+    "industria": "Consumo Cíclico",
+    "segmento": "Serviços Educacionais",
+    "codigos": [
+      {
+        "codigo": "VTRU3",
+        "preco": 6.69,
+        "valor mercado": 897613543,
+        "precoAnterior": 6.69,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "VITTIA",
+    "industria": "Materiais Básicos",
+    "segmento": "Fertilizantes e Defensivos",
+    "codigos": [
+      {
+        "codigo": "VITT3",
+        "preco": 5.23,
+        "valor mercado": 786142314,
+        "precoAnterior": 5.23,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "VIVARA S.A.",
+    "industria": "Consumo Cíclico",
+    "segmento": "Acessórios",
+    "codigos": [
+      {
+        "codigo": "VIVA3",
+        "preco": 19.84,
+        "valor mercado": 4686163737,
+        "precoAnterior": 19.82,
+        "variacao": 0.1
+      }
+    ]
+  },
+  {
+    "nome": "VIVER",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "VIVR3",
+        "preco": 0.99,
+        "valor mercado": 37982421,
+        "precoAnterior": 0.98,
+        "variacao": 1.02
+      }
+    ]
+  },
+  {
+    "nome": "VULCABRAS",
+    "industria": "Consumo Cíclico",
+    "segmento": "Calçados",
+    "codigos": [
+      {
+        "codigo": "VULC3",
+        "preco": 15.21,
+        "valor mercado": 4190906271,
+        "precoAnterior": 15.21,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "WEG",
+    "industria": "Bens Industriais",
+    "segmento": "Motores . Compressores e Outros",
+    "codigos": [
+      {
+        "codigo": "WEGE3",
+        "preco": 43.55,
+        "valor mercado": 182793198813,
+        "precoAnterior": 43.57,
+        "variacao": -0.05
+      }
+    ]
+  },
+  {
+    "nome": "WESTWING",
+    "industria": "Consumo Cíclico",
+    "segmento": "Móveis",
+    "codigos": [
+      {
+        "codigo": "WEST3",
+        "preco": 5.25,
+        "valor mercado": 58324077,
+        "precoAnterior": 5.25,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "WETZEL S/A",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "codigos": [
+      {
+        "codigo": "MWET3",
+        "preco": 12.5,
+        "valor mercado": 8575013,
+        "precoAnterior": 12.5,
+        "variacao": 0
+      },
+      {
+        "codigo": "MWET4",
+        "preco": 12.1,
+        "valor mercado": 16601224,
+        "precoAnterior": 12.1,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "WHIRLPOOL",
+    "industria": "Consumo Cíclico",
+    "segmento": "Eletrodomésticos",
+    "codigos": [
+      {
+        "codigo": "WHRL3",
+        "preco": 3.86,
+        "valor mercado": 3970785443,
+        "precoAnterior": 3.91,
+        "variacao": -1.28
+      },
+      {
+        "codigo": "WHRL4",
+        "preco": 4.27,
+        "valor mercado": 2024343437,
+        "precoAnterior": 4.27,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "WILSON SONS",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços de Apoio e Armazenagem",
+    "codigos": [
+      {
+        "codigo": "PORT3",
+        "preco": 16.97,
+        "valor mercado": 7483394963,
+        "precoAnterior": 16.95,
+        "variacao": 0.12
+      }
+    ]
+  },
+  {
+    "nome": "WIZ CO",
+    "industria": "Financeiro",
+    "segmento": "Corretoras de Seguros e Resseguros",
+    "codigos": [
+      {
+        "codigo": "WIZC3",
+        "preco": 5.95,
+        "valor mercado": 951448328,
+        "precoAnterior": 5.95,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "WLM IND COM",
+    "industria": "Bens Industriais",
+    "segmento": "Material de Transporte",
+    "codigos": [
+      {
+        "codigo": "WLMM3",
+        "preco": 26.08,
+        "valor mercado": 432177418,
+        "precoAnterior": 26.08,
+        "variacao": 0
+      },
+      {
+        "codigo": "WLMM4",
+        "preco": 29,
+        "valor mercado": 575460050,
+        "precoAnterior": 29,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "XP INC",
+    "industria": "Financeiro",
+    "segmento": "Serviços Financeiros Diversos",
+    "codigos": [
+      {
+        "codigo": "XPBR31",
+        "preco": 76.01,
+        "valor mercado": 33199349841,
+        "precoAnterior": 76.1,
+        "variacao": -0.12
+      }
+    ]
+  },
+  {
+    "nome": "YDUQS PART",
+    "industria": "Consumo Cíclico",
+    "segmento": "Serviços Educacionais",
+    "codigos": [
+      {
+        "codigo": "YDUQ3",
+        "preco": 12.5,
+        "valor mercado": 3426110638,
+        "precoAnterior": 12.51,
+        "variacao": -0.08
+      }
+    ]
+  },
+  {
+    "nome": "ZAMP S.A.",
+    "industria": "Consumo Cíclico",
+    "segmento": "Restaurante e Similares",
+    "codigos": [
+      {
+        "codigo": "ZAMP3",
+        "preco": 2.97,
+        "valor mercado": 1208595153,
+        "precoAnterior": 2.97,
+        "variacao": 0
+      }
+    ]
+  }
+]

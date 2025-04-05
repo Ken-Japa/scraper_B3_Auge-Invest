@@ -1,0 +1,5646 @@
+[
+  {
+    "nome": "AERIS",
+    "cnpj": "12528708000107",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "AERI3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "AFLUENTE T",
+    "cnpj": "10338320000100",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "AFLT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "AGROGALAXY",
+    "cnpj": "21240146000184",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "codigos": [
+      {
+        "codigo": "AGXY3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ALFA HOLDING",
+    "cnpj": "17167396000169",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "RPAD3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "RPAD5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "RPAD6",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ALLIAR",
+    "cnpj": "42771949000135",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "AALR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ALLIED",
+    "cnpj": "20247322000147",
+    "industria": "Consumo Cíclico",
+    "segmento": "Eletrodomésticos",
+    "codigos": [
+      {
+        "codigo": "ALLD3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ALLOS",
+    "cnpj": "5878397000132",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "ALOS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ESTAPAR",
+    "cnpj": "60537263000166",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "codigos": [
+      {
+        "codigo": "ALPK3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "EXITO",
+    "cnpj": "23041875000137",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos",
+    "codigos": [
+      {
+        "codigo": "EXCO32",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ALPARGATAS",
+    "cnpj": "61079117000105",
+    "industria": "Consumo Cíclico",
+    "segmento": "Calçados",
+    "codigos": [
+      {
+        "codigo": "ALPA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "ALPA4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ALPHAVILLE",
+    "cnpj": "16811931000100",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "AVLL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ALUPAR",
+    "cnpj": "8364948000138",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "ALUP3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "ALUP4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "AMBEV S/A",
+    "cnpj": "7526557000100",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Cervejas e Refrigerantes",
+    "codigos": [
+      {
+        "codigo": "ABEV3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "AMBIPAR",
+    "cnpj": "12648266000124",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "codigos": [
+      {
+        "codigo": "AMBP3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "AMERICANAS",
+    "cnpj": "776574000156",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produtos Diversos",
+    "codigos": [
+      {
+        "codigo": "AMER3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "AMPLA ENERG",
+    "cnpj": "33050071000158",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CBEE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ANIMA",
+    "cnpj": "9288252000132",
+    "industria": "Consumo Cíclico",
+    "segmento": "Serviços Educacionais",
+    "codigos": [
+      {
+        "codigo": "ANIM3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ARMAC",
+    "cnpj": "242184000104",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "ARML3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CARREFOUR BR",
+    "cnpj": "75315333000109",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos",
+    "codigos": [
+      {
+        "codigo": "CRFB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ATMASA",
+    "cnpj": "4032433000180",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "codigos": [
+      {
+        "codigo": "ATMP3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "AURA 360",
+    "cnpj": "7857093000114",
+    "industria": "Materiais Básicos",
+    "segmento": "Minerais Metálicos",
+    "codigos": [
+      {
+        "codigo": "AURA33",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "AUREN",
+    "cnpj": "28594234000123",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "AURE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "AUTOMOB",
+    "cnpj": "35654688000108",
+    "industria": "Consumo Cíclico",
+    "segmento": "Automóveis e Motocicletas",
+    "codigos": [
+      {
+        "codigo": "AMOB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "AZEVEDO",
+    "cnpj": "61351532000168",
+    "industria": "Bens Industriais",
+    "segmento": "Construção Pesada",
+    "codigos": [
+      {
+        "codigo": "AZEV3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "AZEV4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "AZUL",
+    "cnpj": "9305994000129",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Aéreo",
+    "codigos": [
+      {
+        "codigo": "AZUL4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "AZZAS 2154",
+    "cnpj": "16590234000176",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "codigos": [
+      {
+        "codigo": "AZZA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "B3",
+    "cnpj": "9346601000125",
+    "industria": "Financeiro",
+    "segmento": "Serviços Financeiros Diversos",
+    "codigos": [
+      {
+        "codigo": "B3SA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BIOMA EDUC",
+    "cnpj": "45987245000192",
+    "industria": "Consumo Cíclico",
+    "segmento": "Serviços Educacionais",
+    "codigos": [
+      {
+        "codigo": "BIED3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BANCO BMG",
+    "cnpj": "61186680000174",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BMGB4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BANESTES",
+    "cnpj": "28127603000178",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BEES3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BEES4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BARDELLA",
+    "cnpj": "60851615000153",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "BDLL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BDLL4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BAUMER",
+    "cnpj": "61374161000130",
+    "industria": "Saúde",
+    "segmento": "Equipamentos",
+    "codigos": [
+      {
+        "codigo": "BALM3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BALM4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BBSEGURIDADE",
+    "cnpj": "17344597000194",
+    "industria": "Financeiro",
+    "segmento": "Seguradoras",
+    "codigos": [
+      {
+        "codigo": "BBSE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ABC BRASIL",
+    "cnpj": "28195667000106",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "ABCB4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "AMAZONIA",
+    "cnpj": "4902979000144",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BAZA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BRADESCO",
+    "cnpj": "60746948000112",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BBDC3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BBDC4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BRASIL",
+    "cnpj": "191",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BBAS11",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BBAS12",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BBAS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BTGP BANCO",
+    "cnpj": "30306294000145",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BPAC3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BPAC5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BANESE",
+    "cnpj": "13009717000146",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BGIP3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BGIP4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BANRISUL",
+    "cnpj": "92702067000196",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BRSR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BRSR5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BRSR6",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MERC INVEST",
+    "cnpj": "34169557000172",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BMIN3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BMIN4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MERCANTIL",
+    "cnpj": "17184037000110",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BMEB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BMEB4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "NORD BRASIL",
+    "cnpj": "7237373000120",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BNBR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BANCO PAN",
+    "cnpj": "59285411000113",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BPAN4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PINE",
+    "cnpj": "62144175000120",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "PINE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "PINE4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SANTANDER BR",
+    "cnpj": "90400888000142",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "SANB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "SANB4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BEMOBI TECH",
+    "cnpj": "9042817000105",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "BMOB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BIC MONARK",
+    "cnpj": "56992423000190",
+    "industria": "Consumo Cíclico",
+    "segmento": "Bicicletas",
+    "codigos": [
+      {
+        "codigo": "BMKS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BIOMM",
+    "cnpj": "4752991000110",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "BIOM3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BLAU",
+    "cnpj": "58430828000160",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "BLAU3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BOA SAFRA",
+    "cnpj": "10807374000177",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "codigos": [
+      {
+        "codigo": "SOJA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BOMBRIL",
+    "cnpj": "50564053000103",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Produtos de Limpeza",
+    "codigos": [
+      {
+        "codigo": "BOBR4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BRADESPAR",
+    "cnpj": "3847461000192",
+    "industria": "Materiais Básicos",
+    "segmento": "Minerais Metálicos",
+    "codigos": [
+      {
+        "codigo": "BRAP3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BRAP4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BRASILAGRO",
+    "cnpj": "7628528000159",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "codigos": [
+      {
+        "codigo": "AGRO3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BRASKEM",
+    "cnpj": "42150391000170",
+    "industria": "Materiais Básicos",
+    "segmento": "Petroquímicos",
+    "codigos": [
+      {
+        "codigo": "BRKM3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BRKM5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BRKM6",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BRAVA",
+    "cnpj": "12091809000155",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "BRAV3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BRB BANCO",
+    "cnpj": "208000100",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "BSLI3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BSLI4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BRF SA",
+    "cnpj": "1838723000127",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Carnes e Derivados",
+    "codigos": [
+      {
+        "codigo": "BRFS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BRISANET",
+    "cnpj": "4601397000128",
+    "industria": "Comunicações",
+    "segmento": "Telecomunicações",
+    "codigos": [
+      {
+        "codigo": "BRST3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CAIXA SEGURI",
+    "cnpj": "22543331000100",
+    "industria": "Financeiro",
+    "segmento": "Seguradoras",
+    "codigos": [
+      {
+        "codigo": "CXSE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CAMBUCI",
+    "cnpj": "61088894000108",
+    "industria": "Consumo Cíclico",
+    "segmento": "Calçados",
+    "codigos": [
+      {
+        "codigo": "CAMB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CAMIL",
+    "cnpj": "64904295000103",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos Diversos",
+    "codigos": [
+      {
+        "codigo": "CAML3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CCR SA",
+    "cnpj": "2846056000197",
+    "industria": "Bens Industriais",
+    "segmento": "Exploração de Rodovias",
+    "codigos": [
+      {
+        "codigo": "CCRO3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CEA MODAS",
+    "cnpj": "45242914000105",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "codigos": [
+      {
+        "codigo": "CEAB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CEMEPE",
+    "cnpj": "93828986000173",
+    "industria": "Outros",
+    "segmento": "Outros",
+    "codigos": [
+      {
+        "codigo": "MAPT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "MAPT4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ELETROBRAS",
+    "cnpj": "1180000126",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "ELET3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "ELET5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "ELET6",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CELESC",
+    "cnpj": "83878892000155",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CLSC3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CLSC4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "P.ACUCAR-CBD",
+    "cnpj": "47508411000156",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos",
+    "codigos": [
+      {
+        "codigo": "PCAR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CASAN",
+    "cnpj": "82508433000117",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "codigos": [
+      {
+        "codigo": "CASN3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CELGPAR",
+    "cnpj": "8560444000193",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "GPAR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CEG",
+    "cnpj": "33938119000169",
+    "industria": "Utilidade Pública",
+    "segmento": "Gás",
+    "codigos": [
+      {
+        "codigo": "CEGR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "COELBA",
+    "cnpj": "15139629000194",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CEEB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CEEB5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CEB",
+    "cnpj": "70698000111",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CEBR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CEBR5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CEBR6",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CEMIG",
+    "cnpj": "17155730000164",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CMIG3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CMIG4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "COELCE",
+    "cnpj": "7047251000170",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "COCE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "COCE5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CEEE-D",
+    "cnpj": "8467115000100",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CEED3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CEED4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FERBASA",
+    "cnpj": "15141799000103",
+    "industria": "Materiais Básicos",
+    "segmento": "Siderurgia",
+    "codigos": [
+      {
+        "codigo": "FESA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "FESA4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CEDRO",
+    "cnpj": "17245234000100",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "CEDO3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CEDO4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "COMGAS",
+    "cnpj": "61856571000117",
+    "industria": "Utilidade Pública",
+    "segmento": "Gás",
+    "codigos": [
+      {
+        "codigo": "CGAS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CGAS5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "HABITASUL",
+    "cnpj": "87762563000103",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "HBTS5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MELHOR SP",
+    "cnpj": "60730348000166",
+    "industria": "Materiais Básicos",
+    "segmento": "Papel e Celulose",
+    "codigos": [
+      {
+        "codigo": "MSPA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "MSPA4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "COPEL",
+    "cnpj": "76483817000120",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CPLE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CPLE5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CPLE6",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PAR AL BAHIA",
+    "cnpj": "1938783000111",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "PEAB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "PEAB4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SABESP",
+    "cnpj": "43776517000180",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "codigos": [
+      {
+        "codigo": "SBSP3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "COPASA",
+    "cnpj": "17281106000103",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "codigos": [
+      {
+        "codigo": "CSMG3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SANEPAR",
+    "cnpj": "76484013000145",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "codigos": [
+      {
+        "codigo": "SAPR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "SAPR4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SID NACIONAL",
+    "cnpj": "33042730000104",
+    "industria": "Materiais Básicos",
+    "segmento": "Siderurgia",
+    "codigos": [
+      {
+        "codigo": "CSNA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "COTEMINAS",
+    "cnpj": "22677520000176",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "CTNM3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CTNM4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SANTANENSE",
+    "cnpj": "21255567000189",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "CTSA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CTSA4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "VIVEO",
+    "cnpj": "12420164000157",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "VVEO3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "COGNA ON",
+    "cnpj": "2800026000140",
+    "industria": "Consumo Cíclico",
+    "segmento": "Serviços Educacionais",
+    "codigos": [
+      {
+        "codigo": "COGN3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CBA",
+    "cnpj": "61409892000173",
+    "industria": "Materiais Básicos",
+    "segmento": "Minerais Metálicos",
+    "codigos": [
+      {
+        "codigo": "CBAV3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TENDA",
+    "cnpj": "71476527000135",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "TEND3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "COSAN",
+    "cnpj": "50746577000115",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "CSAN3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CPFL ENERGIA",
+    "cnpj": "2429144000193",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "CPFE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CRUZEIRO EDU",
+    "cnpj": "62984091000102",
+    "industria": "Consumo Cíclico",
+    "segmento": "Serviços Educacionais",
+    "codigos": [
+      {
+        "codigo": "CSED3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CSNMINERACAO",
+    "cnpj": "8902291000115",
+    "industria": "Materiais Básicos",
+    "segmento": "Minerais Metálicos",
+    "codigos": [
+      {
+        "codigo": "CMIN3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CSU DIGITAL",
+    "cnpj": "1896779000138",
+    "industria": "Financeiro",
+    "segmento": "Serviços Financeiros Diversos",
+    "codigos": [
+      {
+        "codigo": "CSUD3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CURY S/A",
+    "cnpj": "8797760000183",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "CURY3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CVC BRASIL",
+    "cnpj": "10760260000119",
+    "industria": "Consumo Cíclico",
+    "segmento": "Viagens e Turismo",
+    "codigos": [
+      {
+        "codigo": "CVCB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CYRELA REALT",
+    "cnpj": "73178600000118",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "CYRE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "D1000VFARMA",
+    "cnpj": "12108897000150",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "DMVF3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "DESKTOP",
+    "cnpj": "8170849000115",
+    "industria": "Comunicações",
+    "segmento": "Telecomunicações",
+    "codigos": [
+      {
+        "codigo": "DESK3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "DEXCO",
+    "cnpj": "97837181000147",
+    "industria": "Materiais Básicos",
+    "segmento": "Madeira",
+    "codigos": [
+      {
+        "codigo": "DXCO3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "DEXXOS PAR",
+    "cnpj": "2193750000152",
+    "industria": "Materiais Básicos",
+    "segmento": "Petroquímicos",
+    "codigos": [
+      {
+        "codigo": "DEXP3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "DEXP4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "DASA",
+    "cnpj": "61486650000183",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "DASA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "DIMED",
+    "cnpj": "92665611000177",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "PNVL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "DIRECIONAL",
+    "cnpj": "16614075000100",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "DIRR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "DMFINANCEIRA",
+    "cnpj": "91669747000192",
+    "industria": "Financeiro",
+    "segmento": "Soc. Crédito e Financiamento",
+    "codigos": [
+      {
+        "codigo": "DMFN3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "DOHLER",
+    "cnpj": "84683408000103",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "DOHL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "DOHL4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "DOTZ SA",
+    "cnpj": "18174270000184",
+    "industria": "Consumo Cíclico",
+    "segmento": "Programas de Fidelização",
+    "codigos": [
+      {
+        "codigo": "DOTZ3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "DTCOM-DIRECT",
+    "cnpj": "3303999000136",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "codigos": [
+      {
+        "codigo": "DTCY3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ECORODOVIAS",
+    "cnpj": "4149454000180",
+    "industria": "Bens Industriais",
+    "segmento": "Exploração de Rodovias",
+    "codigos": [
+      {
+        "codigo": "ECOR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ACO ALTONA",
+    "cnpj": "82643537000134",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "EALT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "EALT4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ELEKTRO",
+    "cnpj": "2328280000197",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "EKTR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "EKTR4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ELETROPAR",
+    "cnpj": "1104937000170",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "LIPR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ELETROMIDIA",
+    "cnpj": "9347516000181",
+    "industria": "Comunicações",
+    "segmento": "Publicidade e Propaganda",
+    "codigos": [
+      {
+        "codigo": "ELMD3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "EMAE",
+    "cnpj": "2302101000142",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "EMAE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "EMAE4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "EMBPAR S/A",
+    "cnpj": "42331462000131",
+    "industria": "Bens Industriais",
+    "segmento": "Material de Transporte",
+    "codigos": [
+      {
+        "codigo": "EPAR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "EMBRAER",
+    "cnpj": "7689002000189",
+    "industria": "Bens Industriais",
+    "segmento": "Material Aeronáutico e de Defesa",
+    "codigos": [
+      {
+        "codigo": "EMBR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PAGUE MENOS",
+    "cnpj": "6626253000151",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "PGMN3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ENERGISA MT",
+    "cnpj": "3467321000199",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "ENMT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "ENMT4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ENERGISA",
+    "cnpj": "864214000106",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "ENGI3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "ENGI4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ENEVA",
+    "cnpj": "4423567000121",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "ENEV3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ENGIE BRASIL",
+    "cnpj": "2474103000119",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "EGIE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ENJOEI",
+    "cnpj": "16922038000151",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "ENJU3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "EQTL PARA",
+    "cnpj": "4895728000180",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "EQPA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "EQPA5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "EQPA6",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "EQPA7",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "EQUATORIAL",
+    "cnpj": "3220438000173",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "EQTL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "EQUIFAXBRL",
+    "cnpj": "47321544000119",
+    "industria": "Financeiro",
+    "segmento": "Serviços Financeiros Diversos",
+    "codigos": [
+      {
+        "codigo": "EFXB31",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ETERNIT",
+    "cnpj": "61092037000181",
+    "industria": "Bens Industriais",
+    "segmento": "Produtos para Construção",
+    "codigos": [
+      {
+        "codigo": "ETER3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "EUCATEX",
+    "cnpj": "56643018000166",
+    "industria": "Materiais Básicos",
+    "segmento": "Madeira",
+    "codigos": [
+      {
+        "codigo": "EUCA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "EUCA4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "EVEN",
+    "cnpj": "43470988000165",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "EVEN3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "EVERTEC INC",
+    "cnpj": "51682068000139",
+    "industria": "Financeiro",
+    "segmento": "Serviços Financeiros Diversos",
+    "codigos": [
+      {
+        "codigo": "EVTC31",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "EXCELSIOR",
+    "cnpj": "95426862000197",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Carnes e Derivados",
+    "codigos": [
+      {
+        "codigo": "BAUH4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "EZTEC",
+    "cnpj": "8312229000173",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "EZTC3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FER HERINGER",
+    "cnpj": "22266175000188",
+    "industria": "Materiais Básicos",
+    "segmento": "Fertilizantes e Defensivos",
+    "codigos": [
+      {
+        "codigo": "FHER3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FICA",
+    "cnpj": "7820907000146",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "FIEI3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FICTORALIMEN",
+    "cnpj": "359742000108",
+    "industria": "Outros",
+    "segmento": "Outros",
+    "codigos": [
+      {
+        "codigo": "FICT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FLEURY",
+    "cnpj": "60840055000131",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "FLRY3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FRAS-LE",
+    "cnpj": "88610126000129",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "codigos": [
+      {
+        "codigo": "FRAS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "GAFISA",
+    "cnpj": "1545826000107",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "GFSA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "GENERALSHOPP",
+    "cnpj": "8764621000153",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "GSHP3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "GERDAU",
+    "cnpj": "33611500000119",
+    "industria": "Materiais Básicos",
+    "segmento": "Siderurgia",
+    "codigos": [
+      {
+        "codigo": "GGBR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "GGBR4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "GOL",
+    "cnpj": "6164253000187",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Aéreo",
+    "codigos": [
+      {
+        "codigo": "GOLL4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "GP INVEST",
+    "cnpj": "7857850000150",
+    "industria": "Financeiro",
+    "segmento": "Gestão de Recursos e Investimentos",
+    "codigos": [
+      {
+        "codigo": "GPIV33",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "GPS",
+    "cnpj": "9229201000130",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "codigos": [
+      {
+        "codigo": "GGPS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "GRAZZIOTIN",
+    "cnpj": "92012467000170",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "codigos": [
+      {
+        "codigo": "CGRA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CGRA4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "GRENDENE",
+    "cnpj": "89850341000160",
+    "industria": "Consumo Cíclico",
+    "segmento": "Calçados",
+    "codigos": [
+      {
+        "codigo": "GRND3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CASAS BAHIA",
+    "cnpj": "33041260065290",
+    "industria": "Consumo Cíclico",
+    "segmento": "Eletrodomésticos",
+    "codigos": [
+      {
+        "codigo": "BHIA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "GRUPO MATEUS",
+    "cnpj": "24990777000109",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos",
+    "codigos": [
+      {
+        "codigo": "GMAT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MULTILASER",
+    "cnpj": "59717553000102",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Computadores e Equipamentos",
+    "codigos": [
+      {
+        "codigo": "MLAS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "GRUPO SBF",
+    "cnpj": "13217485000111",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produtos Diversos",
+    "codigos": [
+      {
+        "codigo": "SBFG3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "GUARARAPES",
+    "cnpj": "8402943000152",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "codigos": [
+      {
+        "codigo": "GUAR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "HAGA S/A",
+    "cnpj": "30540991000166",
+    "industria": "Bens Industriais",
+    "segmento": "Produtos para Construção",
+    "codigos": [
+      {
+        "codigo": "HAGA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "HAGA4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "HAPVIDA",
+    "cnpj": "5197443000138",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "HAPV3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "HBR REALTY",
+    "cnpj": "14785152000151",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "HBRE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "HELBOR",
+    "cnpj": "49263189000102",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "HBOR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "HERCULES",
+    "cnpj": "92749225000163",
+    "industria": "Consumo Cíclico",
+    "segmento": "Utensílios Domésticos",
+    "codigos": [
+      {
+        "codigo": "HETA4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "HIDROVIAS",
+    "cnpj": "12648327000153",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Hidroviário",
+    "codigos": [
+      {
+        "codigo": "HBSA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MATER DEI",
+    "cnpj": "16676520000159",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "MATD3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "HOTEIS OTHON",
+    "cnpj": "33200049000147",
+    "industria": "Consumo Cíclico",
+    "segmento": "Hotelaria",
+    "codigos": [
+      {
+        "codigo": "HOOT4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "HYPERA",
+    "cnpj": "2932074000191",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "HYPE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IGUATEMI S.A",
+    "cnpj": "60543816000193",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "IGTI3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "IGTI4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INEPAR",
+    "cnpj": "76627504000106",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "INEP3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "INEP4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INFRACOMM",
+    "cnpj": "38456921000136",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "IFCM3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INTELBRAS",
+    "cnpj": "82901000000127",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Computadores e Equipamentos",
+    "codigos": [
+      {
+        "codigo": "INTB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INTER CO",
+    "cnpj": "42737954000121",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "INBR32",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IMC S/A",
+    "cnpj": "17314329000120",
+    "industria": "Consumo Cíclico",
+    "segmento": "Restaurante e Similares",
+    "codigos": [
+      {
+        "codigo": "MEAL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IOCHP-MAXION",
+    "cnpj": "61156113000175",
+    "industria": "Consumo Cíclico",
+    "segmento": "Automóveis e Motocicletas",
+    "codigos": [
+      {
+        "codigo": "MYPK3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IRANI",
+    "cnpj": "92791243000103",
+    "industria": "Materiais Básicos",
+    "segmento": "Embalagens",
+    "codigos": [
+      {
+        "codigo": "RANI3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IRBBRASIL RE",
+    "cnpj": "33376989000191",
+    "industria": "Financeiro",
+    "segmento": "Resseguradoras",
+    "codigos": [
+      {
+        "codigo": "IRBR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ISA ENERGIA",
+    "cnpj": "2998611000104",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "ISAE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "ISAE4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ITAUUNIBANCO",
+    "cnpj": "60872504000123",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "codigos": [
+      {
+        "codigo": "ITUB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "ITUB4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ITAUSA",
+    "cnpj": "61532644000115",
+    "industria": "Financeiro",
+    "segmento": "Holdings Diversificadas",
+    "codigos": [
+      {
+        "codigo": "ITSA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "ITSA4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "JALLESMACHAD",
+    "cnpj": "2635522000195",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Açucar e Alcool",
+    "codigos": [
+      {
+        "codigo": "JALL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "JBS",
+    "cnpj": "2916265000160",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Carnes e Derivados",
+    "codigos": [
+      {
+        "codigo": "JBSS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "JHSF PART",
+    "cnpj": "8294224000165",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "JHSF3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "JOAO FORTES",
+    "cnpj": "33035536000100",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "JFEN3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "JOSAPAR",
+    "cnpj": "87456562000122",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos Diversos",
+    "codigos": [
+      {
+        "codigo": "JOPA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "JOPA4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "JSL",
+    "cnpj": "52548435000179",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Rodoviário",
+    "codigos": [
+      {
+        "codigo": "JSLG3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "KARSTEN",
+    "cnpj": "82640558000104",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "CTKA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CTKA4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "KEPLER WEBER",
+    "cnpj": "91983056000169",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "KEPL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "KLABIN S/A",
+    "cnpj": "89637490000145",
+    "industria": "Materiais Básicos",
+    "segmento": "Papel e Celulose",
+    "codigos": [
+      {
+        "codigo": "KLBN3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "KLBN4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "KORA SAUDE",
+    "cnpj": "13270520000166",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "KRSA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "LAVVI",
+    "cnpj": "26462693000128",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "LAVV3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "LIGHT S/A",
+    "cnpj": "3378521000175",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "LIGT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "WDC NETWORKS",
+    "cnpj": "5917486000140",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "LVTC3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "LOCALIZA",
+    "cnpj": "16670085000155",
+    "industria": "Consumo Cíclico",
+    "segmento": "Aluguel de carros",
+    "codigos": [
+      {
+        "codigo": "RENT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "LOG COM PROP",
+    "cnpj": "9041168000110",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "LOGG3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "LOG-IN",
+    "cnpj": "42278291000124",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Hidroviário",
+    "codigos": [
+      {
+        "codigo": "LOGN3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "QUERO-QUERO",
+    "cnpj": "96418264021802",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produtos Diversos",
+    "codigos": [
+      {
+        "codigo": "LJQQ3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "LOJAS RENNER",
+    "cnpj": "92754738000162",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "codigos": [
+      {
+        "codigo": "LREN3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "LOPES BRASIL",
+    "cnpj": "8078847000109",
+    "industria": "Financeiro",
+    "segmento": "Intermediação Imobiliária",
+    "codigos": [
+      {
+        "codigo": "LPSB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "LUPATECH",
+    "cnpj": "89463822000112",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Equipamentos e Serviços",
+    "codigos": [
+      {
+        "codigo": "LUPA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "LWSA",
+    "cnpj": "2351877000152",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "LWSA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "M.DIASBRANCO",
+    "cnpj": "7206816000115",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos Diversos",
+    "codigos": [
+      {
+        "codigo": "MDIA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MAGAZ LUIZA",
+    "cnpj": "47960950000121",
+    "industria": "Consumo Cíclico",
+    "segmento": "Eletrodomésticos",
+    "codigos": [
+      {
+        "codigo": "MGLU3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "METAL LEVE",
+    "cnpj": "60476884000187",
+    "industria": "Consumo Cíclico",
+    "segmento": "Automóveis e Motocicletas",
+    "codigos": [
+      {
+        "codigo": "LEVE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MANGELS INDL",
+    "cnpj": "61065298000102",
+    "industria": "Materiais Básicos",
+    "segmento": "Artefatos de Ferro e Aço",
+    "codigos": [
+      {
+        "codigo": "MGEL4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ESTRELA",
+    "cnpj": "61082004000150",
+    "industria": "Consumo Cíclico",
+    "segmento": "Brinquedos e Jogos",
+    "codigos": [
+      {
+        "codigo": "ESTR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "ESTR4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MARCOPOLO",
+    "cnpj": "88611835000129",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "codigos": [
+      {
+        "codigo": "POMO3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "POMO4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MARFRIG",
+    "cnpj": "3853896000140",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Carnes e Derivados",
+    "codigos": [
+      {
+        "codigo": "MRFG3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "LOJAS MARISA",
+    "cnpj": "61189288000189",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "codigos": [
+      {
+        "codigo": "AMAR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MELIUZ",
+    "cnpj": "14110585000107",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "CASH3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MELNICK",
+    "cnpj": "12181987000177",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "MELK3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MERC FINANC",
+    "cnpj": "33040601000187",
+    "industria": "Financeiro",
+    "segmento": "Soc. Crédito e Financiamento",
+    "codigos": [
+      {
+        "codigo": "MERC4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "METALFRIO",
+    "cnpj": "4821041000108",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "FRIO3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "GERDAU MET",
+    "cnpj": "92690783000109",
+    "industria": "Materiais Básicos",
+    "segmento": "Siderurgia",
+    "codigos": [
+      {
+        "codigo": "GOAU3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "GOAU4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "RIOSULENSE",
+    "cnpj": "85778074000106",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "codigos": [
+      {
+        "codigo": "RSUL4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "METISA",
+    "cnpj": "86375425000109",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Construção e Agrícolas",
+    "codigos": [
+      {
+        "codigo": "MTSA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "MTSA4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MILLS",
+    "cnpj": "27093558000115",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "MILS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MINASMAQUINA",
+    "cnpj": "17161241000115",
+    "industria": "Bens Industriais",
+    "segmento": "Material de Transporte",
+    "codigos": [
+      {
+        "codigo": "MMAQ3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "MMAQ4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MINERVA",
+    "cnpj": "67620377000114",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Carnes e Derivados",
+    "codigos": [
+      {
+        "codigo": "BEEF3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MINUPAR",
+    "cnpj": "90076886000140",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Carnes e Derivados",
+    "codigos": [
+      {
+        "codigo": "MNPR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MITRE REALTY",
+    "cnpj": "7882930000165",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "MTRE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MOBLY",
+    "cnpj": "31553627000101",
+    "industria": "Consumo Cíclico",
+    "segmento": "Móveis",
+    "codigos": [
+      {
+        "codigo": "MBLY3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MONT ARANHA",
+    "cnpj": "33102476000192",
+    "industria": "Financeiro",
+    "segmento": "Holdings Diversificadas",
+    "codigos": [
+      {
+        "codigo": "MOAR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MOURA DUBEUX",
+    "cnpj": "12049631000184",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "MDNE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MOVIDA",
+    "cnpj": "21314559000166",
+    "industria": "Consumo Cíclico",
+    "segmento": "Aluguel de carros",
+    "codigos": [
+      {
+        "codigo": "MOVI3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ESPACOLASER",
+    "cnpj": "26659061000159",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produtos Diversos",
+    "codigos": [
+      {
+        "codigo": "ESPA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MRV",
+    "cnpj": "8343492000120",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "MRVE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MULTIPLAN",
+    "cnpj": "7816890000153",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "MULT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "MUNDIAL",
+    "cnpj": "88610191000154",
+    "industria": "Consumo Cíclico",
+    "segmento": "Acessórios",
+    "codigos": [
+      {
+        "codigo": "MNDL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "GRUPO NATURA",
+    "cnpj": "32785497000197",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Produtos de Uso Pessoal",
+    "codigos": [
+      {
+        "codigo": "NTCO3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "NEOENERGIA",
+    "cnpj": "1083200000118",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "NEOE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "NEOGRID",
+    "cnpj": "10139870000108",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "NGRD3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "NEXPE",
+    "cnpj": "8613550000198",
+    "industria": "Financeiro",
+    "segmento": "Intermediação Imobiliária",
+    "codigos": [
+      {
+        "codigo": "NEXP3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "NORDON MET",
+    "cnpj": "60884319000159",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "NORD3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "NUTRIPLANT",
+    "cnpj": "51128999000190",
+    "industria": "Materiais Básicos",
+    "segmento": "Fertilizantes e Defensivos",
+    "codigos": [
+      {
+        "codigo": "NUTR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "OCEANPACT",
+    "cnpj": "9114805000130",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Equipamentos e Serviços",
+    "codigos": [
+      {
+        "codigo": "OPCT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ODONTOPREV",
+    "cnpj": "58119199000151",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "ODPV3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "OI",
+    "cnpj": "76535764000143",
+    "industria": "Comunicações",
+    "segmento": "Telecomunicações",
+    "codigos": [
+      {
+        "codigo": "OIBR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "OIBR4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ONCOCLINICAS",
+    "cnpj": "12104241000402",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "ONCO3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ORIZON",
+    "cnpj": "11421994000136",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "codigos": [
+      {
+        "codigo": "ORVR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "OSX BRASIL",
+    "cnpj": "9112685000132",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Equipamentos e Serviços",
+    "codigos": [
+      {
+        "codigo": "OSXB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "OUROFINO S/A",
+    "cnpj": "20258278000170",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "OFSA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PADTEC",
+    "cnpj": "2365069000144",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "PDTC3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PANATLANTICA",
+    "cnpj": "92693019000189",
+    "industria": "Materiais Básicos",
+    "segmento": "Artefatos de Ferro e Aço",
+    "codigos": [
+      {
+        "codigo": "PATI3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "PATI4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PARANAPANEMA",
+    "cnpj": "60398369000479",
+    "industria": "Materiais Básicos",
+    "segmento": "Artefatos de Cobre",
+    "codigos": [
+      {
+        "codigo": "PMAM3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PORTOBELLO",
+    "cnpj": "83475913000191",
+    "industria": "Bens Industriais",
+    "segmento": "Produtos para Construção",
+    "codigos": [
+      {
+        "codigo": "PTBL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PDG REALT",
+    "cnpj": "2950811000189",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "PDGR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PETZ",
+    "cnpj": "18328118000109",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produtos Diversos",
+    "codigos": [
+      {
+        "codigo": "PETZ3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PETROBRAS",
+    "cnpj": "33000167000101",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "PETR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "PETR4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PETRORECSA",
+    "cnpj": "3342704000130",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "RECV3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PETTENATI",
+    "cnpj": "88613658000110",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "PTNT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "PTNT4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PLANOEPLANO",
+    "cnpj": "24230275000180",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "PLPL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PLASCAR PART",
+    "cnpj": "51928174000150",
+    "industria": "Consumo Cíclico",
+    "segmento": "Automóveis e Motocicletas",
+    "codigos": [
+      {
+        "codigo": "PLAS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PORTO SEGURO",
+    "cnpj": "2149205000169",
+    "industria": "Financeiro",
+    "segmento": "Seguradoras",
+    "codigos": [
+      {
+        "codigo": "PSSA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "POSITIVO TEC",
+    "cnpj": "81243735000148",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Computadores e Equipamentos",
+    "codigos": [
+      {
+        "codigo": "POSI3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PRINER",
+    "cnpj": "18593815000197",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "codigos": [
+      {
+        "codigo": "PRNR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PETRORIO",
+    "cnpj": "10629105000168",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "PRIO3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PROFARMA",
+    "cnpj": "45453214000151",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "PFRM3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "QUALICORP",
+    "cnpj": "11992680000193",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "QUAL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "RAIADROGASIL",
+    "cnpj": "61585865000151",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "codigos": [
+      {
+        "codigo": "RADL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "RAIZEN",
+    "cnpj": "33453598000123",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "RAIZ4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "RANDON PART",
+    "cnpj": "89086144000116",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "codigos": [
+      {
+        "codigo": "RAPT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "RAPT4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "REAGINVEST",
+    "cnpj": "14127813000151",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "REAG3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "RECRUSUL",
+    "cnpj": "91333666000117",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "codigos": [
+      {
+        "codigo": "RCSL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "RCSL4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "REDE D OR",
+    "cnpj": "6047087000139",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "codigos": [
+      {
+        "codigo": "RDOR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "REDE ENERGIA",
+    "cnpj": "61584140000149",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "REDE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PET MANGUINH",
+    "cnpj": "33412081000196",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "RPMG3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "RENOVA",
+    "cnpj": "8534605000174",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "RNEW3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "RNEW4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "GER PARANAP",
+    "cnpj": "2998301000181",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "GEPA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "GEPA4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "RNI",
+    "cnpj": "67010660000124",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "RDNI3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ROMI",
+    "cnpj": "56720428000163",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "codigos": [
+      {
+        "codigo": "ROMI3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ROSSI RESID",
+    "cnpj": "61065751000180",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "RSID3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "RUMO S.A.",
+    "cnpj": "2387241000160",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Ferroviário",
+    "codigos": [
+      {
+        "codigo": "RAIL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SANSUY",
+    "cnpj": "14807945000124",
+    "industria": "Materiais Básicos",
+    "segmento": "Materiais Diversos",
+    "codigos": [
+      {
+        "codigo": "SNSY3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "SNSY5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SANTOS BRP",
+    "cnpj": "2762121000104",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços de Apoio e Armazenagem",
+    "codigos": [
+      {
+        "codigo": "STBP3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SAO CARLOS",
+    "cnpj": "29780061000109",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "SCAR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SAO MARTINHO",
+    "cnpj": "51466860000156",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Açucar e Alcool",
+    "codigos": [
+      {
+        "codigo": "SMTO3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SPTURIS",
+    "cnpj": "62002886000160",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produção de Eventos e Shows",
+    "codigos": [
+      {
+        "codigo": "AHEB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "AHEB5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "AHEB6",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SCHULZ",
+    "cnpj": "84693183000168",
+    "industria": "Bens Industriais",
+    "segmento": "Motores . Compressores e Outros",
+    "codigos": [
+      {
+        "codigo": "SHUL4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ASSAI",
+    "cnpj": "6057223000171",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Alimentos",
+    "codigos": [
+      {
+        "codigo": "ASAI3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SEQUOIA LOG",
+    "cnpj": "1599101000193",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "codigos": [
+      {
+        "codigo": "SEQL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SER EDUCA",
+    "cnpj": "4986320000113",
+    "industria": "Consumo Cíclico",
+    "segmento": "Serviços Educacionais",
+    "codigos": [
+      {
+        "codigo": "SEER3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SERENA",
+    "cnpj": "42500384000151",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "SRNA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ALIPERTI",
+    "cnpj": "61156931000178",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "codigos": [
+      {
+        "codigo": "APTI4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SIMPAR",
+    "cnpj": "7415333000120",
+    "industria": "Financeiro",
+    "segmento": "Holdings Diversificadas",
+    "codigos": [
+      {
+        "codigo": "SIMH3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SLC AGRICOLA",
+    "cnpj": "89096457000155",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "codigos": [
+      {
+        "codigo": "SLCE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SMART FIT",
+    "cnpj": "7594978000178",
+    "industria": "Consumo Cíclico",
+    "segmento": "Atividades Esportivas",
+    "codigos": [
+      {
+        "codigo": "SMFT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SONDOTECNICA",
+    "cnpj": "33386210000119",
+    "industria": "Bens Industriais",
+    "segmento": "Engenharia Consultiva",
+    "codigos": [
+      {
+        "codigo": "SOND3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "SOND5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "SOND6",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SPRINGS",
+    "cnpj": "7718269000157",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "SGPS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SUZANO S.A.",
+    "cnpj": "16404287000155",
+    "industria": "Materiais Básicos",
+    "segmento": "Papel e Celulose",
+    "codigos": [
+      {
+        "codigo": "SUZB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SYN PROP TEC",
+    "cnpj": "8801621000186",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "codigos": [
+      {
+        "codigo": "SYNE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TIME FOR FUN",
+    "cnpj": "2860694000162",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produção de Eventos e Shows",
+    "codigos": [
+      {
+        "codigo": "SHOW3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TAURUS ARMAS",
+    "cnpj": "92781335000102",
+    "industria": "Bens Industriais",
+    "segmento": "Armas e Munições",
+    "codigos": [
+      {
+        "codigo": "TASA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "TASA4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TC",
+    "cnpj": "26345998000150",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "TRAD3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TECHNOS",
+    "cnpj": "9295063000197",
+    "industria": "Consumo Cíclico",
+    "segmento": "Acessórios",
+    "codigos": [
+      {
+        "codigo": "TECN3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TECNISA",
+    "cnpj": "8065557000112",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "TCSA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TEGMA",
+    "cnpj": "2351144000118",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Rodoviário",
+    "codigos": [
+      {
+        "codigo": "TGMA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TEKNO",
+    "cnpj": "33467572000134",
+    "industria": "Materiais Básicos",
+    "segmento": "Artefatos de Ferro e Aço",
+    "codigos": [
+      {
+        "codigo": "TKNO3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "TKNO4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TELEBRAS",
+    "cnpj": "336701000104",
+    "industria": "Comunicações",
+    "segmento": "Telecomunicações",
+    "codigos": [
+      {
+        "codigo": "TELB3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "TELB4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TELEF BRASIL",
+    "cnpj": "2558157000162",
+    "industria": "Comunicações",
+    "segmento": "Telecomunicações",
+    "codigos": [
+      {
+        "codigo": "VIVT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TERRASANTAPA",
+    "cnpj": "40337136000106",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "codigos": [
+      {
+        "codigo": "LAND3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TEX RENAUX",
+    "cnpj": "82982075000180",
+    "industria": "Consumo Cíclico",
+    "segmento": "Fios e Tecidos",
+    "codigos": [
+      {
+        "codigo": "TXRX3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "TXRX4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TIM",
+    "cnpj": "2421421000111",
+    "industria": "Comunicações",
+    "segmento": "Telecomunicações",
+    "codigos": [
+      {
+        "codigo": "TIMS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TOTVS",
+    "cnpj": "53113791000122",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "codigos": [
+      {
+        "codigo": "TOTS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TRIUNFO PART",
+    "cnpj": "3014553000191",
+    "industria": "Bens Industriais",
+    "segmento": "Exploração de Rodovias",
+    "codigos": [
+      {
+        "codigo": "TPIS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TRACK FIELD",
+    "cnpj": "59418806000147",
+    "industria": "Consumo Cíclico",
+    "segmento": "Vestuário",
+    "codigos": [
+      {
+        "codigo": "TFCO4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TAESA",
+    "cnpj": "7859971000130",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "codigos": [
+      {
+        "codigo": "TAEE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "TAEE4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "3TENTOS",
+    "cnpj": "94813102000170",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "codigos": [
+      {
+        "codigo": "TTEN3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TREVISA",
+    "cnpj": "92660570000126",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Hidroviário",
+    "codigos": [
+      {
+        "codigo": "LUXM4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TRISUL",
+    "cnpj": "8811643000127",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "TRIS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CRISTAL",
+    "cnpj": "15115504000124",
+    "industria": "Materiais Básicos",
+    "segmento": "Químicos Diversos",
+    "codigos": [
+      {
+        "codigo": "CRPG3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CRPG5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "CRPG6",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TUPY",
+    "cnpj": "84683374000300",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "codigos": [
+      {
+        "codigo": "TUPY3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ULTRAPAR",
+    "cnpj": "33256439000139",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "UGPA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "UNICASA",
+    "cnpj": "90441460000148",
+    "industria": "Consumo Cíclico",
+    "segmento": "Móveis",
+    "codigos": [
+      {
+        "codigo": "UCAS3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "UNIFIQUE",
+    "cnpj": "2255187000108",
+    "industria": "Comunicações",
+    "segmento": "Telecomunicações",
+    "codigos": [
+      {
+        "codigo": "FIQE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "UNIPAR",
+    "cnpj": "33958695000178",
+    "industria": "Materiais Básicos",
+    "segmento": "Químicos Diversos",
+    "codigos": [
+      {
+        "codigo": "UNIP3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "UNIP5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "UNIP6",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "USIMINAS",
+    "cnpj": "60894730000105",
+    "industria": "Materiais Básicos",
+    "segmento": "Siderurgia",
+    "codigos": [
+      {
+        "codigo": "USIM3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "USIM5",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "USIM6",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "VALE",
+    "cnpj": "33592510000154",
+    "industria": "Materiais Básicos",
+    "segmento": "Minerais Metálicos",
+    "codigos": [
+      {
+        "codigo": "VALE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "VALID",
+    "cnpj": "33113309000147",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "codigos": [
+      {
+        "codigo": "VLID3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "VAMOS",
+    "cnpj": "23373000000132",
+    "industria": "Consumo Cíclico",
+    "segmento": "Aluguel de carros",
+    "codigos": [
+      {
+        "codigo": "VAMO3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "VESTE",
+    "cnpj": "49669856000143",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "codigos": [
+      {
+        "codigo": "VSTE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "VIBRA",
+    "cnpj": "34274233000102",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "codigos": [
+      {
+        "codigo": "VBBR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "VITRUEDUCA",
+    "cnpj": "20512706000140",
+    "industria": "Consumo Cíclico",
+    "segmento": "Serviços Educacionais",
+    "codigos": [
+      {
+        "codigo": "VTRU3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "VITTIA",
+    "cnpj": "45365558000109",
+    "industria": "Materiais Básicos",
+    "segmento": "Fertilizantes e Defensivos",
+    "codigos": [
+      {
+        "codigo": "VITT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "VIVARA S.A.",
+    "cnpj": "33839910000111",
+    "industria": "Consumo Cíclico",
+    "segmento": "Acessórios",
+    "codigos": [
+      {
+        "codigo": "VIVA3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "VIVER",
+    "cnpj": "67571414000141",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "codigos": [
+      {
+        "codigo": "VIVR3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "VULCABRAS",
+    "cnpj": "50926955000142",
+    "industria": "Consumo Cíclico",
+    "segmento": "Calçados",
+    "codigos": [
+      {
+        "codigo": "VULC3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "WEG",
+    "cnpj": "84429695000111",
+    "industria": "Bens Industriais",
+    "segmento": "Motores . Compressores e Outros",
+    "codigos": [
+      {
+        "codigo": "WEGE3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "WESTWING",
+    "cnpj": "14776142000150",
+    "industria": "Consumo Cíclico",
+    "segmento": "Móveis",
+    "codigos": [
+      {
+        "codigo": "WEST3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "WETZEL S/A",
+    "cnpj": "84683671000194",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "codigos": [
+      {
+        "codigo": "MWET3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "MWET4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "WHIRLPOOL",
+    "cnpj": "59105999000186",
+    "industria": "Consumo Cíclico",
+    "segmento": "Eletrodomésticos",
+    "codigos": [
+      {
+        "codigo": "WHRL3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "WHRL4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "WILSON SONS",
+    "cnpj": "33130691000105",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços de Apoio e Armazenagem",
+    "codigos": [
+      {
+        "codigo": "PORT3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "WIZ CO",
+    "cnpj": "42278473000103",
+    "industria": "Financeiro",
+    "segmento": "Corretoras de Seguros e Resseguros",
+    "codigos": [
+      {
+        "codigo": "WIZC3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "WLM IND COM",
+    "cnpj": "33228024000151",
+    "industria": "Bens Industriais",
+    "segmento": "Material de Transporte",
+    "codigos": [
+      {
+        "codigo": "WLMM3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "WLMM4",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "XP INC",
+    "cnpj": "35306280000145",
+    "industria": "Financeiro",
+    "segmento": "Serviços Financeiros Diversos",
+    "codigos": [
+      {
+        "codigo": "XPBR31",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "YDUQS PART",
+    "cnpj": "8807432000110",
+    "industria": "Consumo Cíclico",
+    "segmento": "Serviços Educacionais",
+    "codigos": [
+      {
+        "codigo": "YDUQ3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ZAMP S.A.",
+    "cnpj": "13574594000196",
+    "industria": "Consumo Cíclico",
+    "segmento": "Restaurante e Similares",
+    "codigos": [
+      {
+        "codigo": "ZAMP3",
+        "preco": null,
+        "valor mercado": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,3030 @@
+Relatório de Empresas gerado em: 04 / 04 / 2025  03:30
+
+Tempo de execução: 84 minutos e 20 segundos.
+
+Total companhias: 2956
+Companhias com código: 638
+Companhias sem código: 2318
+
+Empresas Adicionadas:
+- 524 PARTICIP (CVM: 16284)
+- ABDEN GOLD (CVM: 50335)
+- ABDEN SILV (CVM: 50327)
+- ATOM EDUC (CVM: 27677)
+- AESOPERACOES (CVM: 26174)
+- AZT ENERGIA (CVM: 27626)
+- BBMLOGISTICA (CVM: 24660)
+- BANPARA (CVM: 1171)
+- BETAPART (CVM: 17884)
+- BRAZILIAN SC (CVM: 18759)
+- BR PARTNERS (CVM: 25860)
+- BRQ (CVM: 23817)
+- IND CATAGUAS (CVM: 3395)
+- CIABRASF (CVM: 27634)
+- COMERC PAR (CVM: 26280)
+- COMPASS (CVM: 25127)
+- GRUAIRPORT (CVM: 23515)
+- CONC RIO TER (CVM: 19208)
+- ROD TIETE (CVM: 22721)
+- ODERICH (CVM: 4693)
+- CONST A LIND (CVM: 4723)
+- CTC S.A. (CVM: 23981)
+- LE BISCUIT (CVM: 25542)
+- EQTLMARANHAO (CVM: 16608)
+- EXPERIAN PLC (CVM: 59420)
+- FER C ATLANT (CVM: 15369)
+- FT CAPSTRENG (CVM: 79740)
+- FT CLOUD CPT (CVM: 79782)
+- FT DJ INTERN (CVM: 79804)
+- FT EMERMARKT (CVM: 50060)
+- FT GROW STRE (CVM: 50061)
+- FT HCAREALPH (CVM: 79820)
+- FT INTL EQOP (CVM: 79693)
+- FT LCAPGROW (CVM: 79731)
+- FTMOR DV LEA (CVM: 79707)
+- FT NSDQ ROBT (CVM: 50046)
+- FT NSQ GREEN (CVM: 50203)
+- FT NSDQ GRID (CVM: 50042)
+- FT NASDCYBER (CVM: 79715)
+- FT NASD100EQ (CVM: 79758)
+- FT NASD100TC (CVM: 79766)
+- FT NAT GAS (CVM: 79723)
+- FT NYSE BIOT (CVM: 79790)
+- FT RBA AIRR (CVM: 50043)
+- FT RISIDIVID (CVM: 79774)
+- FT SMID CAP (CVM: 50039)
+- FT TECH ALPH (CVM: 79839)
+- FT EQ OPPORT (CVM: 79685)
+- FT VLINE DIV (CVM: 79812)
+- FT WATER (CVM: 50047)
+- G2D INVEST (CVM: 80195)
+- GAMA PART (CVM: 17965)
+- GX T BILL (CVM: 50038)
+- GX AI TECH (CVM: 50035)
+- GX AEVEHICLE (CVM: 50076)
+- GX BLOCKCHAI (CVM: 50808)
+- GX CLEANCH (CVM: 50809)
+- GX CLOUD CPT (CVM: 50122)
+- GX COPPER MN (CVM: 50084)
+- GX CYBERSECT (CVM: 50165)
+- GX FINTECH (CVM: 50114)
+- GX GENOMBIOT (CVM: 79810)
+- GX INTERTHGS (CVM: 79809)
+- GX LITHIUM B (CVM: 50025)
+- GX MILLECONM (CVM: 79811)
+- GX MLP EN IN (CVM: 50041)
+- GX MLP ETF (CVM: 50068)
+- GX MSCICHINA (CVM: 50181)
+- GX NASDAQ100 (CVM: 50149)
+- GX ROBOTC AI (CVM: 50131)
+- GX CATHOLVAL (CVM: 50818)
+- GX SILVER MN (CVM: 50106)
+- GX SOCIAL MD (CVM: 50157)
+- GX SUPERDIVD (CVM: 50092)
+- GX SUDIVREIT (CVM: 50611)
+- GX SUPDIV US (CVM: 50191)
+- GX URANIUM (CVM: 50173)
+- GX INFRA DEV (CVM: 50017)
+- GX USPREFERR (CVM: 50816)
+- GX VAR RTPRF (CVM: 50817)
+- GX GAMES SPT (CVM: 50033)
+- GRANJA FARIA (CVM: 27219)
+- HMOBI S.A (CVM: 25674)
+- AGRIBRASIL (CVM: 25933)
+- IGUA SA (CVM: 23175)
+- INC SA (CVM: 24279)
+- INVEST BEMGE (CVM: 6041)
+- INVEPAR (CVM: 18775)
+- BKR DOLL ETF (CVM: 50821)
+- BKR 0 5 YRHY (CVM: 50826)
+- BKR STIP (CVM: 50018)
+- BKR10PLUSGC (CVM: 50053)
+- BKR 1020Y TB (CVM: 50048)
+- BKR 1 3 YRTR (CVM: 50301)
+- BKR 1 5YGRCO (CVM: 50820)
+- BKR 20YR TRS (CVM: 50319)
+- BKR TRSTRIPS (CVM: 50049)
+- BKR 3 7 YRTR (CVM: 50289)
+- BKR 7 10 YRT (CVM: 50271)
+- BKR A RATED (CVM: 50014)
+- ICE BIOTECH (CVM: 79286)
+- BKR BITCOIN (CVM: 50036)
+- CHINALARGECA (CVM: 79600)
+- BKR CNVTIBLE (CVM: 50004)
+- BKR CSV ALOC (CVM: 50010)
+- BKR MOD ALOC (CVM: 50023)
+- BKR BAL ALOC (CVM: 50022)
+- BKR AGR ALOC (CVM: 50009)
+- COREDIVGROWT (CVM: 79588)
+- BKR CORE HDV (CVM: 50408)
+- BKR INTLAGGT (CVM: 50050)
+- COREMSCIEAFE (CVM: 79170)
+- COREMSCI EMK (CVM: 79189)
+- COREMSCI EUR (CVM: 79405)
+- BKR CORPACIF (CVM: 50829)
+- BKR TI STOCK (CVM: 50056)
+- CORE SP 500 (CVM: 79154)
+- CORE MIDCAP (CVM: 79294)
+- CORESMALLCAP (CVM: 79308)
+- CORE SP TOTA (CVM: 79073)
+- BKR CORE TOT (CVM: 50221)
+- BKR US AGGRE (CVM: 50015)
+- CORE US REIT (CVM: 79650)
+- CURHEDGEMSCI (CVM: 79472)
+- BKR CH EUROZ (CVM: 50838)
+- BKR CH JAPAN (CVM: 50839)
+- BKR CYBTECH (CVM: 50467)
+- BKR EMER DIV (CVM: 50011)
+- TRTMSCI EAFE (CVM: 79260)
+- INC ESG AWAR (CVM: 79278)
+- TRUSTMSCI US (CVM: 79251)
+- BKR ESG AGGR (CVM: 50006)
+- BKR ESG AWCP (CVM: 50246)
+- ESGMSCIUSA L (CVM: 79677)
+- BKR ETHEREUM (CVM: 50037)
+- EUROPE ETF (CVM: 79430)
+- BKR TECHSOFT (CVM: 50825)
+- EXPON TECHNL (CVM: 79243)
+- BKR FLL ANGL (CVM: 50007)
+- BKR FLOAT RT (CVM: 50254)
+- BKR FUT AIT (CVM: 50556)
+- BKR GENO IMM (CVM: 50521)
+- BKR GLOB100 (CVM: 50057)
+- BKR GL CLEAN (CVM: 79901)
+- BKR GB STAMP (CVM: 50416)
+- BKR GLB ENER (CVM: 50827)
+- BKR GL FIN (CVM: 79855)
+- GLOBALHEALTH (CVM: 79324)
+- GLOBAL INFRA (CVM: 79235)
+- GLOBAL REIT (CVM: 79669)
+- GLOBAL TECH (CVM: 79332)
+- GOLD TRUST (CVM: 79006)
+- BKR COMT ROL (CVM: 50020)
+- BKR IBOXX HY (CVM: 50211)
+- BKR IBOX IGC (CVM: 50238)
+- BKR INTL SLD (CVM: 50021)
+- BKR INTL TRS (CVM: 50052)
+- LATIN AMER40 (CVM: 79146)
+- BKR MBS (CVM: 50005)
+- BKR MORTGAGE (CVM: 50475)
+- MSCI ACWI (CVM: 79162)
+- BKR LOWCARBO (CVM: 50531)
+- BKR GBL AGRO (CVM: 50835)
+- MSCI ASIA JP (CVM: 79030)
+- MSCIAUSTRALI (CVM: 79626)
+- MSCI BRAZIL (CVM: 79383)
+- MSCI CANADA (CVM: 79618)
+- BKR CHILE (CVM: 50058)
+- BKR CHINA A (CVM: 50424)
+- MSCI CHINA (CVM: 79227)
+- MSCI EAFE (CVM: 79014)
+- MSCIEAFEGROW (CVM: 79537)
+- MSCIMINVOL F (CVM: 79464)
+- BKR MS EAFE (CVM: 79880)
+- MSCIEAFEVALU (CVM: 79561)
+- MSCI EMGMARK (CVM: 79022)
+- BKR EME XCHI (CVM: 50012)
+- MSCIEMMRKMI (CVM: 79499)
+- BKR EURP FNC (CVM: 50483)
+- MSCIEUROZONE (CVM: 79391)
+- MSCI FRANCE (CVM: 79642)
+- MSCI GERMANY (CVM: 79103)
+- BKR GBMM PRD (CVM: 50548)
+- MSCIGLMIVOLF (CVM: 79596)
+- BKR GB SDVGO (CVM: 50564)
+- MSCIHONGKONG (CVM: 79359)
+- MSCI INDIA (CVM: 79375)
+- MSCI JAPAN (CVM: 79200)
+- MSCI MEXICO (CVM: 79111)
+- BKR MSCI JPN (CVM: 50837)
+- BKR MS RUSS (CVM: 79871)
+- BKR SAUDARAB (CVM: 50432)
+- MSCISOUTHKOR (CVM: 79340)
+- MSCI SPAIN (CVM: 79120)
+- MSCI SWITZER (CVM: 79634)
+- MSCI TAIWAN (CVM: 79367)
+- MSCI UK (CVM: 79090)
+- BKR EQUALWG (CVM: 50055)
+- BKR MS USA S (CVM: 79928)
+- MSCI US MVOL (CVM: 79081)
+- MSCIUSAMOM F (CVM: 79480)
+- MSCIUSQUAL F (CVM: 79502)
+- MSCIUSASIZF (CVM: 79510)
+- MSCIUSVALUEF (CVM: 79545)
+- BKR MS WLD (CVM: 79910)
+- BKR NAM NATU (CVM: 50823)
+- BKR RESMULTS (CVM: 50491)
+- RUSSEL1000GR (CVM: 79570)
+- RUSSELL 2000 (CVM: 79065)
+- BKR SP100 (CVM: 79847)
+- SP500GROWTH (CVM: 79456)
+- SP500 VALUE (CVM: 79448)
+- BKR SPSM600V (CVM: 50441)
+- SELECT DIVID (CVM: 79049)
+- BKR SELFDRIV (CVM: 50505)
+- BKR SEMICOND (CVM: 79898)
+- BKR SHORT TR (CVM: 50297)
+- SILVER TRUST (CVM: 79057)
+- BKR TIP (CVM: 50019)
+- BKR FLOT RTE (CVM: 50013)
+- BKR BASICMAT (CVM: 50833)
+- BKR US ENER (CVM: 79863)
+- USFINANCSERV (CVM: 79553)
+- BKR HEALTHPR (CVM: 50834)
+- BKR HM CNSTR (CVM: 50828)
+- BKR US INDLS (CVM: 50831)
+- USMEDICDEVIC (CVM: 79529)
+- BKR REGBANK (CVM: 50054)
+- US AEROSPACE (CVM: 79138)
+- BKR CODISCRT (CVM: 50459)
+- BKR COSTAPLE (CVM: 50513)
+- US FINANCIAL (CVM: 79219)
+- BKR US INFRA (CVM: 50572)
+- BKR OIL GAS (CVM: 50836)
+- BKR PHARMACL (CVM: 50832)
+- US TECHNOLOG (CVM: 79197)
+- BKR TRANSPTN (CVM: 50840)
+- BKR US TREAS (CVM: 50262)
+- BKR US UTILT (CVM: 50581)
+- BKR US GREEN (CVM: 50001)
+- JP BTB CANAD (CVM: 50696)
+- JP BTB ASIA (CVM: 79808)
+- JP BTB EUROP (CVM: 79805)
+- JP BTB INTL (CVM: 79807)
+- JP BTB JAPAO (CVM: 79806)
+- JP BTB REIT (CVM: 50701)
+- JP BTB USEQ (CVM: 50734)
+- JP BTB RETUR (CVM: 50726)
+- JP DV US EME (CVM: 50769)
+- JP RETU INTL (CVM: 50718)
+- JP DIVRET US (CVM: 50751)
+- JP DV USMID (CVM: 50785)
+- JP DV US SM (CVM: 50807)
+- JP US MO FAC (CVM: 50793)
+- JP QLT FACT (CVM: 50742)
+- JP US VL FAC (CVM: 50777)
+- KALLAS (CVM: 25798)
+- KR MSCI CH50 (CVM: 50045)
+- KR CSI CHINA (CVM: 50044)
+- LIFEMED (CVM: 24872)
+- LIGHT (CVM: 8036)
+- LITEL (CVM: 15091)
+- LITELA (CVM: 24759)
+- MRS LOGIST (CVM: 17949)
+- NORTCQUIMICA (CVM: 22985)
+- PCOM 0T5 HY (CVM: 50347)
+- PMCO 15 YRTP (CVM: 50345)
+- PMCO 1T5 YRT (CVM: 50343)
+- PCOM 25 YRZC (CVM: 50348)
+- PMCO BROAD (CVM: 50344)
+- PMCO IGR CPI (CVM: 50346)
+- PIMCO MF EME (CVM: 50810)
+- POLPAR (CVM: 13447)
+- PORTO VM (CVM: 23523)
+- PPLA (CVM: 80152)
+- PRATICA (CVM: 24546)
+- PROMAN (CVM: 19232)
+- PROMPT PART (CVM: 18333)
+- QUALITY SOFT (CVM: 23302)
+- RODOBENS (CVM: 25801)
+- ALL NORTE (CVM: 15300)
+- SUDESTE S/A (CVM: 16586)
+- SUL 116 PART (CVM: 16438)
+- SUZANO HOLD (CVM: 9067)
+- TEGRA INCORP (CVM: 25844)
+- MENEZES CORT (CVM: 18538)
+- VANECK EMERG (CVM: 50812)
+- VANECK ANGL (CVM: 50813)
+- VE GOLD ETF (CVM: 79995)
+- VANECK JPM E (CVM: 50000)
+- VE MOAT ETF (CVM: 79987)
+- VANECK PREF (CVM: 50815)
+- VE STEEL ETF (CVM: 79944)
+- VE BUZZ ETF (CVM: 79979)
+- WT CLOU COMP (CVM: 50811)
+- WT FLOATRATE (CVM: 50031)
+- WT YIELD ENH (CVM: 50034)
+- XTRACKERCHIN (CVM: 50843)
+- XTRACKEREMM (CVM: 50844)
+- XTRACKEREUR (CVM: 50845)
+- XTRACKERJAP (CVM: 50846)
+- XTRACKERUSA (CVM: 50847)
+- XTRACKERENGY (CVM: 50848)
+- XTRACKERWRLD (CVM: 50850)
+- XTRACKERWRVL (CVM: 50851)
+- XTRACKER2000 (CVM: 50854)
+- XTRACKERWEIG (CVM: 50852)
+Alterações nas Empresas:
+- ALPHAVILLE (CVM: 25275)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "ALPHAVILLE S.A.",
+    "nomeEmpresa": "ALPHAVILLE",
+    "codigoEmpresa": "AVLL",
+    "codigoCVM": "25275",
+    "dataInicio": "10/12/2020",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "atividade": "Holding controladora de empresas que atuam no setor de urbanismo e desenvolvimento de empreendimentos imobiliários.",
+    "codigos": [
+        "AVLL3"
+    ],
+    "informacoes": {
+        "cnpj": "16811931000100",
+        "site": "",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "ALPHAVILLE S.A.",
+    "nomeEmpresa": "ALPHAVILLE",
+    "codigoEmpresa": "AVLL",
+    "codigoCVM": "25275",
+    "dataInicio": "10/12/2020",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "atividade": "Holding controladora de empresas que atuam no setor de urbanismo e desenvolvimento de empreendimentos imobiliários.",
+    "codigos": [
+        "AVLL3",
+        "AVLL11",
+        "AVLL12"
+    ],
+    "informacoes": {
+        "cnpj": "16811931000100",
+        "site": "",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+
+- ALUPAR (CVM: 21490)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "ALUPAR INVESTIMENTO S/A",
+    "nomeEmpresa": "ALUPAR",
+    "codigoEmpresa": "ALUP",
+    "codigoCVM": "21490",
+    "dataInicio": "02/04/2013",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "a participação em outras sociedades atuantes nos setores de energia e infra-estrutura. no Brasil ou no exterior; a geração. transformação. transporte. a distribuiçãoe o comércio de energia.",
+    "codigos": [
+        "ALUP3",
+        "ALUP4"
+    ],
+    "informacoes": {
+        "cnpj": "8364948000138",
+        "site": "www.alupar.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "ALUPAR INVESTIMENTO S/A",
+    "nomeEmpresa": "ALUPAR",
+    "codigoEmpresa": "ALUP",
+    "codigoCVM": "21490",
+    "dataInicio": "02/04/2013",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "a participação em outras sociedades atuantes nos setores de energia e infra-estrutura. no Brasil ou no exterior; a geração. transformação. transporte. a distribuiçãoe o comércio de energia.",
+    "codigos": [
+        "ALUP3",
+        "ALUP4",
+        "ALUP11"
+    ],
+    "informacoes": {
+        "cnpj": "8364948000138",
+        "site": "www.alupar.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+
+- AMERICANAS (CVM: 20990)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "AMERICANAS S.A",
+    "nomeEmpresa": "AMERICANAS",
+    "codigoEmpresa": "AMER",
+    "codigoCVM": "20990",
+    "dataInicio": "26/07/2007",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produtos Diversos",
+    "atividade": "Comércio varejista e atacadista em geral de quaisquer bens e serviços por meio de diversos meios. em especial. da Internet e de lojas físicas. sem restrição a outros meios.",
+    "codigos": [
+        "AMER3"
+    ],
+    "informacoes": {
+        "cnpj": "776574000156",
+        "site": "http://www.b2wdigital.com",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "AMERICANAS S.A",
+    "nomeEmpresa": "AMERICANAS",
+    "codigoEmpresa": "AMER",
+    "codigoCVM": "20990",
+    "dataInicio": "26/07/2007",
+    "industria": "Consumo Cíclico",
+    "segmento": "Produtos Diversos",
+    "atividade": "Comércio varejista e atacadista em geral de quaisquer bens e serviços por meio de diversos meios. em especial. da Internet e de lojas físicas. sem restrição a outros meios.",
+    "codigos": [
+        "AMER3",
+        "AMER11"
+    ],
+    "informacoes": {
+        "cnpj": "776574000156",
+        "site": "http://www.b2wdigital.com",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+
+- AUREN (CVM: 26620)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "AUREN ENERGIA S.A.",
+    "nomeEmpresa": "AUREN",
+    "codigoEmpresa": "AURE",
+    "codigoCVM": "26620",
+    "dataInicio": "25/03/2022",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Participação em empresas de geração. transmissão e comercialização de energia elétrica e a prestação de serviços correlatos.",
+    "codigos": [
+        "AURE3"
+    ],
+    "informacoes": {
+        "cnpj": "28594234000123",
+        "site": "",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "AUREN ENERGIA S.A.",
+    "nomeEmpresa": "AUREN",
+    "codigoEmpresa": "AURE",
+    "codigoCVM": "26620",
+    "dataInicio": "25/03/2022",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Participação em empresas de geração. transmissão e comercialização de energia elétrica e a prestação de serviços correlatos.",
+    "codigos": [
+        "AURE3",
+        "AURE99"
+    ],
+    "informacoes": {
+        "cnpj": "28594234000123",
+        "site": "",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+
+- AZEVEDO (CVM: 11975)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "AZEVEDO E TRAVASSOS S.A.",
+    "nomeEmpresa": "AZEVEDO",
+    "codigoEmpresa": "AZEV",
+    "codigoCVM": "11975",
+    "dataInicio": "20/08/1984",
+    "industria": "Bens Industriais",
+    "segmento": "Construção Pesada",
+    "atividade": "Execução de obras de construção pesada junto à órgãos púbicos e iniciativa privada.",
+    "codigos": [
+        "AZEV3",
+        "AZEV4"
+    ],
+    "informacoes": {
+        "cnpj": "61351532000168",
+        "site": "www.azevedotravassos.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "AZEVEDO E TRAVASSOS S.A.",
+    "nomeEmpresa": "AZEVEDO",
+    "codigoEmpresa": "AZEV",
+    "codigoCVM": "11975",
+    "dataInicio": "20/08/1984",
+    "industria": "Bens Industriais",
+    "segmento": "Construção Pesada",
+    "atividade": "Execução de obras de construção pesada junto à órgãos púbicos e iniciativa privada.",
+    "codigos": [
+        "AZEV3",
+        "AZEV4",
+        "AZEV11",
+        "AZEV12"
+    ],
+    "informacoes": {
+        "cnpj": "61351532000168",
+        "site": "www.azevedotravassos.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- AZUL (CVM: 24112)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "AZUL S.A.",
+    "nomeEmpresa": "AZUL",
+    "codigoEmpresa": "AZUL",
+    "codigoCVM": "24112",
+    "dataInicio": "07/04/2017",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Aéreo",
+    "atividade": "Transporte e Logística",
+    "codigos": [
+        "AZUL4"
+    ],
+    "informacoes": {
+        "cnpj": "9305994000129",
+        "site": "www.voeazul.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "AZUL S.A.",
+    "nomeEmpresa": "AZUL",
+    "codigoEmpresa": "AZUL",
+    "codigoCVM": "24112",
+    "dataInicio": "07/04/2017",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Aéreo",
+    "atividade": "Transporte e Logística",
+    "codigos": [
+        "AZUL4",
+        "AZUL16"
+    ],
+    "informacoes": {
+        "cnpj": "9305994000129",
+        "site": "www.voeazul.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+
+- BTGP BANCO (CVM: 22616)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "BCO BTG PACTUAL S.A.",
+    "nomeEmpresa": "BTGP BANCO",
+    "codigoEmpresa": "BPAC",
+    "codigoCVM": "22616",
+    "dataInicio": "10/11/2011",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "atividade": "A Companhia e suas controladas formam um grupo de prestação de serviços financeiros sediado no Brasil. atuando como banco múltiplo. com carteira de investimento. nos termos da legislação aplicável.",
+    "codigos": [
+        "BPAC3",
+        "BPAC5"
+    ],
+    "informacoes": {
+        "cnpj": "30306294000145",
+        "site": "www.btgpactual.com",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "BCO BTG PACTUAL S.A.",
+    "nomeEmpresa": "BTGP BANCO",
+    "codigoEmpresa": "BPAC",
+    "codigoCVM": "22616",
+    "dataInicio": "10/11/2011",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "atividade": "A Companhia e suas controladas formam um grupo de prestação de serviços financeiros sediado no Brasil. atuando como banco múltiplo. com carteira de investimento. nos termos da legislação aplicável.",
+    "codigos": [
+        "BPAC3",
+        "BPAC5",
+        "BPAC11"
+    ],
+    "informacoes": {
+        "cnpj": "30306294000145",
+        "site": "www.btgpactual.com",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+
+- BANESE (CVM: 1120)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "BCO ESTADO DE SERGIPE S.A. - BANESE",
+    "nomeEmpresa": "BANESE",
+    "codigoEmpresa": "BGIP",
+    "codigoCVM": "1120",
+    "dataInicio": "03/01/1972",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "atividade": null,
+    "codigos": [
+        "BGIP3",
+        "BGIP4"
+    ],
+    "informacoes": {
+        "cnpj": "13009717000146",
+        "site": "www.banese.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "BCO ESTADO DE SERGIPE S.A. - BANESE",
+    "nomeEmpresa": "BANESE",
+    "codigoEmpresa": "BGIP",
+    "codigoCVM": "1120",
+    "dataInicio": "03/01/1972",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "atividade": null,
+    "codigos": [
+        "BGIP3",
+        "BGIP4",
+        "BGIP9",
+        "BGIP10"
+    ],
+    "informacoes": {
+        "cnpj": "13009717000146",
+        "site": "www.banese.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- PINE (CVM: 20567)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "BCO PINE S.A.",
+    "nomeEmpresa": "PINE",
+    "codigoEmpresa": "PINE",
+    "codigoCVM": "20567",
+    "dataInicio": "27/03/2007",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "atividade": "Banco regional brasileiro. de capital aberto. que há mais de vinte e cinco anos destaca-se em financiar e assessorar grandes e médias empresas.",
+    "codigos": [
+        "PINE3",
+        "PINE4"
+    ],
+    "informacoes": {
+        "cnpj": "62144175000120",
+        "site": "www.pine.com",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "BCO PINE S.A.",
+    "nomeEmpresa": "PINE",
+    "codigoEmpresa": "PINE",
+    "codigoCVM": "20567",
+    "dataInicio": "27/03/2007",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "atividade": "Banco regional brasileiro. de capital aberto. que há mais de vinte e cinco anos destaca-se em financiar e assessorar grandes e médias empresas.",
+    "codigos": [
+        "PINE3",
+        "PINE4",
+        "PINE11",
+        "PINE13"
+    ],
+    "informacoes": {
+        "cnpj": "62144175000120",
+        "site": "www.pine.com",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+
+- SANTANDER BR (CVM: 20532)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "BCO SANTANDER (BRASIL) S.A.",
+    "nomeEmpresa": "SANTANDER BR",
+    "codigoEmpresa": "SANB",
+    "codigoCVM": "20532",
+    "dataInicio": "02/03/2007",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "atividade": "Banco Múltiplo com Carteira Comercial",
+    "codigos": [
+        "SANB3",
+        "SANB4"
+    ],
+    "informacoes": {
+        "cnpj": "90400888000142",
+        "site": "www.santander.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "BCO SANTANDER (BRASIL) S.A.",
+    "nomeEmpresa": "SANTANDER BR",
+    "codigoEmpresa": "SANB",
+    "codigoCVM": "20532",
+    "dataInicio": "02/03/2007",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "atividade": "Banco Múltiplo com Carteira Comercial",
+    "codigos": [
+        "SANB3",
+        "SANB4",
+        "SANB11"
+    ],
+    "informacoes": {
+        "cnpj": "90400888000142",
+        "site": "www.santander.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- BIOMM (CVM: 19305)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "BIOMM S.A.",
+    "nomeEmpresa": "BIOMM",
+    "codigoEmpresa": "BIOM",
+    "codigoCVM": "19305",
+    "dataInicio": "19/08/2002",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "atividade": "Empresa brasileira com sua atividade focada no desenvolvimento e comercialização de medicamentos biotecnológicos por meio de parcerias estratégicas e fábrica própria.",
+    "codigos": [
+        "BIOM3"
+    ],
+    "informacoes": {
+        "cnpj": "4752991000110",
+        "site": "www.biomm.com",
+        "marketIndicator": "24",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "MA"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "BIOMM S.A.",
+    "nomeEmpresa": "BIOMM",
+    "codigoEmpresa": "BIOM",
+    "codigoCVM": "19305",
+    "dataInicio": "19/08/2002",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "atividade": "Empresa brasileira com sua atividade focada no desenvolvimento e comercialização de medicamentos biotecnológicos por meio de parcerias estratégicas e fábrica própria.",
+    "codigos": [
+        "BIOM3",
+        "BIOM12",
+        "BIOM13",
+        "BIOM14"
+    ],
+    "informacoes": {
+        "cnpj": "4752991000110",
+        "site": "www.biomm.com",
+        "marketIndicator": "24",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "MA"
+    }
+}
+
+- BOMBRIL (CVM: 12190)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "BOMBRIL S.A.",
+    "nomeEmpresa": "BOMBRIL",
+    "codigoEmpresa": "BOBR",
+    "codigoCVM": "12190",
+    "dataInicio": "09/10/1984",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Produtos de Limpeza",
+    "atividade": "1080",
+    "codigos": [
+        "BOBR4"
+    ],
+    "informacoes": {
+        "cnpj": "50564053000103",
+        "site": "www.bombril.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "BOMBRIL S.A.",
+    "nomeEmpresa": "BOMBRIL",
+    "codigoEmpresa": "BOBR",
+    "codigoCVM": "12190",
+    "dataInicio": "09/10/1984",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Produtos de Limpeza",
+    "atividade": "1080",
+    "codigos": [
+        "BOBR3",
+        "BOBR4"
+    ],
+    "informacoes": {
+        "cnpj": "50564053000103",
+        "site": "www.bombril.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- BRB BANCO (CVM: 14206)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "BRB BCO DE BRASILIA S.A.",
+    "nomeEmpresa": "BRB BANCO",
+    "codigoEmpresa": "BSLI",
+    "codigoCVM": "14206",
+    "dataInicio": "24/09/1993",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "atividade": "O BRB é uma instituição financeira de economia mista. controlada pelo Governo do Distrito Federal. organizada sob a forma de banco múltiplo.",
+    "codigos": [
+        "BSLI3",
+        "BSLI4"
+    ],
+    "informacoes": {
+        "cnpj": "208000100",
+        "site": "www.brb.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "BRB BCO DE BRASILIA S.A.",
+    "nomeEmpresa": "BRB BANCO",
+    "codigoEmpresa": "BSLI",
+    "codigoCVM": "14206",
+    "dataInicio": "24/09/1993",
+    "industria": "Financeiro",
+    "segmento": "Bancos",
+    "atividade": "O BRB é uma instituição financeira de economia mista. controlada pelo Governo do Distrito Federal. organizada sob a forma de banco múltiplo.",
+    "codigos": [
+        "BSLI3",
+        "BSLI4",
+        "BSLI10",
+        "BSLI9"
+    ],
+    "informacoes": {
+        "cnpj": "208000100",
+        "site": "www.brb.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- CASAN (CVM: 16861)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "CIA CATARINENSE DE AGUAS E SANEAM.-CASAN",
+    "nomeEmpresa": "CASAN",
+    "codigoEmpresa": "CASN",
+    "codigoCVM": "16861",
+    "dataInicio": "04/05/1998",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "atividade": "Atuar como instituição integrante do sistema de saneamento básico e de saúde do Estado de Santa Catarina através dos serviços de captação. tratamento e distribuição de água e tratamento de esgoto.",
+    "codigos": [
+        "CASN3"
+    ],
+    "informacoes": {
+        "cnpj": "82508433000117",
+        "site": "www.casan.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "CIA CATARINENSE DE AGUAS E SANEAM.-CASAN",
+    "nomeEmpresa": "CASAN",
+    "codigoEmpresa": "CASN",
+    "codigoCVM": "16861",
+    "dataInicio": "04/05/1998",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "atividade": "Atuar como instituição integrante do sistema de saneamento básico e de saúde do Estado de Santa Catarina através dos serviços de captação. tratamento e distribuição de água e tratamento de esgoto.",
+    "codigos": [
+        "CASN3",
+        "CASN4"
+    ],
+    "informacoes": {
+        "cnpj": "82508433000117",
+        "site": "www.casan.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- COELBA (CVM: 14524)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "CIA ELETRICIDADE EST. DA BAHIA - COELBA",
+    "nomeEmpresa": "COELBA",
+    "codigoEmpresa": "CEEB",
+    "codigoCVM": "14524",
+    "dataInicio": "28/07/1994",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Serviço Público de Distribuição de Energia Elétrica",
+    "codigos": [
+        "CEEB3",
+        "CEEB5"
+    ],
+    "informacoes": {
+        "cnpj": "15139629000194",
+        "site": "www.coelba.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "CIA ELETRICIDADE EST. DA BAHIA - COELBA",
+    "nomeEmpresa": "COELBA",
+    "codigoEmpresa": "CEEB",
+    "codigoCVM": "14524",
+    "dataInicio": "28/07/1994",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Serviço Público de Distribuição de Energia Elétrica",
+    "codigos": [
+        "CEEB3",
+        "CEEB5",
+        "CEEB6"
+    ],
+    "informacoes": {
+        "cnpj": "15139629000194",
+        "site": "www.coelba.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- COELCE (CVM: 14869)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "CIA ENERGETICA DO CEARA - COELCE",
+    "nomeEmpresa": "COELCE",
+    "codigoEmpresa": "COCE",
+    "codigoCVM": "14869",
+    "dataInicio": "18/07/1995",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Distribuição de energia elétrica.",
+    "codigos": [
+        "COCE3",
+        "COCE5"
+    ],
+    "informacoes": {
+        "cnpj": "7047251000170",
+        "site": "http://www.eneldistribuicao.com.br/ce/",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "CIA ENERGETICA DO CEARA - COELCE",
+    "nomeEmpresa": "COELCE",
+    "codigoEmpresa": "COCE",
+    "codigoCVM": "14869",
+    "dataInicio": "18/07/1995",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Distribuição de energia elétrica.",
+    "codigos": [
+        "COCE3",
+        "COCE5",
+        "COCE6"
+    ],
+    "informacoes": {
+        "cnpj": "7047251000170",
+        "site": "http://www.eneldistribuicao.com.br/ce/",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- COMGAS (CVM: 15636)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "CIA GAS DE SAO PAULO - COMGAS",
+    "nomeEmpresa": "COMGAS",
+    "codigoEmpresa": "CGAS",
+    "codigoCVM": "15636",
+    "dataInicio": "27/08/1997",
+    "industria": "Utilidade Pública",
+    "segmento": "Gás",
+    "atividade": "Setor de atividade: Utilidade Pública: Distribuição de gás natural canalizado.",
+    "codigos": [
+        "CGAS3",
+        "CGAS5"
+    ],
+    "informacoes": {
+        "cnpj": "61856571000117",
+        "site": "www.comgas.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "CIA GAS DE SAO PAULO - COMGAS",
+    "nomeEmpresa": "COMGAS",
+    "codigoEmpresa": "CGAS",
+    "codigoCVM": "15636",
+    "dataInicio": "27/08/1997",
+    "industria": "Utilidade Pública",
+    "segmento": "Gás",
+    "atividade": "Setor de atividade: Utilidade Pública: Distribuição de gás natural canalizado.",
+    "codigos": [
+        "CGAS3",
+        "CGAS5",
+        "CGAS-DEB43"
+    ],
+    "informacoes": {
+        "cnpj": "61856571000117",
+        "site": "www.comgas.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- HABITASUL (CVM: 3298)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "CIA HABITASUL DE PARTICIPACOES",
+    "nomeEmpresa": "HABITASUL",
+    "codigoEmpresa": "HBTS",
+    "codigoCVM": "3298",
+    "dataInicio": "03/09/1984",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "atividade": "Participação em sociedades. civis ou comerciais; prestação de serviços técnicos de planejamento. organização e estruturação de empresas ou grupos empresariais.",
+    "codigos": [
+        "HBTS5"
+    ],
+    "informacoes": {
+        "cnpj": "87762563000103",
+        "site": "www.habitasul.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "CIA HABITASUL DE PARTICIPACOES",
+    "nomeEmpresa": "HABITASUL",
+    "codigoEmpresa": "HBTS",
+    "codigoCVM": "3298",
+    "dataInicio": "03/09/1984",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "atividade": "Participação em sociedades. civis ou comerciais; prestação de serviços técnicos de planejamento. organização e estruturação de empresas ou grupos empresariais.",
+    "codigos": [
+        "HBTS3",
+        "HBTS5",
+        "HBTS6"
+    ],
+    "informacoes": {
+        "cnpj": "87762563000103",
+        "site": "www.habitasul.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- SANEPAR (CVM: 18627)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "CIA SANEAMENTO DO PARANA - SANEPAR",
+    "nomeEmpresa": "SANEPAR",
+    "codigoEmpresa": "SAPR",
+    "codigoCVM": "18627",
+    "dataInicio": "02/05/2002",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "atividade": "EXPLORAÇÃO DE SERVIÇOS PÚBLICOS E DE SISTEMAS PRIVADOS DE ABASTECIMENTO DE ÁGUA. DE COLETA. REMOÇÃO E DESTINAÇÃO FINAL DE EFLUENTES E RESÍDUOS SÓLIDOS DOMÉSTICOS E INDUSTRIAIS E SEUS SUBPRODUTOS.",
+    "codigos": [
+        "SAPR3",
+        "SAPR4"
+    ],
+    "informacoes": {
+        "cnpj": "76484013000145",
+        "site": "www.sanepar.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "CIA SANEAMENTO DO PARANA - SANEPAR",
+    "nomeEmpresa": "SANEPAR",
+    "codigoEmpresa": "SAPR",
+    "codigoCVM": "18627",
+    "dataInicio": "02/05/2002",
+    "industria": "Utilidade Pública",
+    "segmento": "Água e Saneamento",
+    "atividade": "EXPLORAÇÃO DE SERVIÇOS PÚBLICOS E DE SISTEMAS PRIVADOS DE ABASTECIMENTO DE ÁGUA. DE COLETA. REMOÇÃO E DESTINAÇÃO FINAL DE EFLUENTES E RESÍDUOS SÓLIDOS DOMÉSTICOS E INDUSTRIAIS E SEUS SUBPRODUTOS.",
+    "codigos": [
+        "SAPR3",
+        "SAPR4",
+        "SAPR11"
+    ],
+    "informacoes": {
+        "cnpj": "76484013000145",
+        "site": "www.sanepar.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+
+- DASA (CVM: 19623)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "DIAGNOSTICOS DA AMERICA S.A.",
+    "nomeEmpresa": "DASA",
+    "codigoEmpresa": "DASA",
+    "codigoCVM": "19623",
+    "dataInicio": "05/11/2004",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "atividade": "Medicina Diagnóstica. Hospitais e Oncologia.",
+    "codigos": [
+        "DASA3"
+    ],
+    "informacoes": {
+        "cnpj": "61486650000183",
+        "site": "www.dasa3.com.br",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "DIAGNOSTICOS DA AMERICA S.A.",
+    "nomeEmpresa": "DASA",
+    "codigoEmpresa": "DASA",
+    "codigoCVM": "19623",
+    "dataInicio": "05/11/2004",
+    "industria": "Saúde",
+    "segmento": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "atividade": "Medicina Diagnóstica. Hospitais e Oncologia.",
+    "codigos": [
+        "DASA3",
+        "DASA11"
+    ],
+    "informacoes": {
+        "cnpj": "61486650000183",
+        "site": "www.dasa3.com.br",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+
+- DTCOM-DIRECT (CVM: 18597)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "DTCOM - DIRECT TO COMPANY S.A.",
+    "nomeEmpresa": "DTCOM-DIRECT",
+    "codigoEmpresa": "DTCY",
+    "codigoCVM": "18597",
+    "dataInicio": "12/07/2001",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "atividade": "TREINAMENTO EM DESENVOLVIMENTO PROFISSIONAL E GERENCIAL",
+    "codigos": [
+        "DTCY3"
+    ],
+    "informacoes": {
+        "cnpj": "3303999000136",
+        "site": "www.dtcom.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "DTCOM - DIRECT TO COMPANY S.A.",
+    "nomeEmpresa": "DTCOM-DIRECT",
+    "codigoEmpresa": "DTCY",
+    "codigoCVM": "18597",
+    "dataInicio": "12/07/2001",
+    "industria": "Bens Industriais",
+    "segmento": "Serviços Diversos",
+    "atividade": "TREINAMENTO EM DESENVOLVIMENTO PROFISSIONAL E GERENCIAL",
+    "codigos": [
+        "DTCY3",
+        "DTCY4"
+    ],
+    "informacoes": {
+        "cnpj": "3303999000136",
+        "site": "www.dtcom.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- PAGUE MENOS (CVM: 22608)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+    "nomeEmpresa": "PAGUE MENOS",
+    "codigoEmpresa": "PGMN",
+    "codigoCVM": "22608",
+    "dataInicio": "27/08/2020",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "atividade": "Comércio de produtos farmacêuticos. perfumarias e afins. sem manipulação de fórmulas.",
+    "codigos": [
+        "PGMN3"
+    ],
+    "informacoes": {
+        "cnpj": "6626253000151",
+        "site": "www.paguemenos.com.br/ri",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+    "nomeEmpresa": "PAGUE MENOS",
+    "codigoEmpresa": "PGMN",
+    "codigoCVM": "22608",
+    "dataInicio": "27/08/2020",
+    "industria": "Saúde",
+    "segmento": "Medicamentos e Outros Produtos",
+    "atividade": "Comércio de produtos farmacêuticos. perfumarias e afins. sem manipulação de fórmulas.",
+    "codigos": [
+        "PGMN3",
+        "PGMN11"
+    ],
+    "informacoes": {
+        "cnpj": "6626253000151",
+        "site": "www.paguemenos.com.br/ri",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+
+- ENERGISA (CVM: 15253)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "ENERGISA S.A.",
+    "nomeEmpresa": "ENERGISA",
+    "codigoEmpresa": "ENGI",
+    "codigoCVM": "15253",
+    "dataInicio": "02/03/2007",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Sociedade de participações em outras empresas. predominantemente em distribuidoras de energia elétrica.",
+    "codigos": [
+        "ENGI3",
+        "ENGI4"
+    ],
+    "informacoes": {
+        "cnpj": "864214000106",
+        "site": "www.energisa.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "ENERGISA S.A.",
+    "nomeEmpresa": "ENERGISA",
+    "codigoEmpresa": "ENGI",
+    "codigoCVM": "15253",
+    "dataInicio": "02/03/2007",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Sociedade de participações em outras empresas. predominantemente em distribuidoras de energia elétrica.",
+    "codigos": [
+        "ENGI3",
+        "ENGI4",
+        "ENGI11",
+        "ENGI12"
+    ],
+    "informacoes": {
+        "cnpj": "864214000106",
+        "site": "www.energisa.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+
+- ENGIE BRASIL (CVM: 17329)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "ENGIE BRASIL ENERGIA S.A.",
+    "nomeEmpresa": "ENGIE BRASIL",
+    "codigoEmpresa": "EGIE",
+    "codigoCVM": "17329",
+    "dataInicio": "28/05/1998",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Realizar estudos. projetos. construção e operação de usinas produtoras de energia elétrica. bem como a celebração de atos de comércio decorrentes dessas atividades.",
+    "codigos": [
+        "EGIE3"
+    ],
+    "informacoes": {
+        "cnpj": "2474103000119",
+        "site": "www.engie.com.br",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "ENGIE BRASIL ENERGIA S.A.",
+    "nomeEmpresa": "ENGIE BRASIL",
+    "codigoEmpresa": "EGIE",
+    "codigoCVM": "17329",
+    "dataInicio": "28/05/1998",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Realizar estudos. projetos. construção e operação de usinas produtoras de energia elétrica. bem como a celebração de atos de comércio decorrentes dessas atividades.",
+    "codigos": [
+        "EGIE3",
+        "EGIE-DEB71",
+        "EGIE-DEB72"
+    ],
+    "informacoes": {
+        "cnpj": "2474103000119",
+        "site": "www.engie.com.br",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+
+- EXCELSIOR (CVM: 1570)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "EXCELSIOR ALIMENTOS S.A.",
+    "nomeEmpresa": "EXCELSIOR",
+    "codigoEmpresa": "BAUH",
+    "codigoCVM": "1570",
+    "dataInicio": "18/11/1980",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Carnes e Derivados",
+    "atividade": "Atua na produção e comercialização de patês em bisnagas. sendo seus principais produtos: presuntos. fiambres. mortadelas. linguiças. salsichas e patês.",
+    "codigos": [
+        "BAUH4"
+    ],
+    "informacoes": {
+        "cnpj": "95426862000197",
+        "site": "www.excelsior.ind.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "EXCELSIOR ALIMENTOS S.A.",
+    "nomeEmpresa": "EXCELSIOR",
+    "codigoEmpresa": "BAUH",
+    "codigoCVM": "1570",
+    "dataInicio": "18/11/1980",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Carnes e Derivados",
+    "atividade": "Atua na produção e comercialização de patês em bisnagas. sendo seus principais produtos: presuntos. fiambres. mortadelas. linguiças. salsichas e patês.",
+    "codigos": [
+        "BAUH3",
+        "BAUH4"
+    ],
+    "informacoes": {
+        "cnpj": "95426862000197",
+        "site": "www.excelsior.ind.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- GOL (CVM: 19569)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+    "nomeEmpresa": "GOL",
+    "codigoEmpresa": "GOLL",
+    "codigoCVM": "19569",
+    "dataInicio": "09/06/2004",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Aéreo",
+    "atividade": "Gestão de Participação Societária",
+    "codigos": [
+        "GOLL4"
+    ],
+    "informacoes": {
+        "cnpj": "6164253000187",
+        "site": "www.voegol.com.br/ri",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+    "nomeEmpresa": "GOL",
+    "codigoEmpresa": "GOLL",
+    "codigoCVM": "19569",
+    "dataInicio": "09/06/2004",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Aéreo",
+    "atividade": "Gestão de Participação Societária",
+    "codigos": [
+        "GOLL3",
+        "GOLL3",
+        "GOLL4",
+        "GOLL13"
+    ],
+    "informacoes": {
+        "cnpj": "6164253000187",
+        "site": "www.voegol.com.br/ri",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+
+- HERCULES (CVM: 6629)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "HERCULES S.A. FABRICA DE TALHERES",
+    "nomeEmpresa": "HERCULES",
+    "codigoEmpresa": "HETA",
+    "codigoCVM": "6629",
+    "dataInicio": "10/08/1971",
+    "industria": "Consumo Cíclico",
+    "segmento": "Utensílios Domésticos",
+    "atividade": "Fabricação e a comercialização de toda a espécie de talheres e outros artigos de mesa para uso doméstico. artigos de adorno. beleza. higiene. móveis. material escolar. de escritório e profissional.",
+    "codigos": [
+        "HETA4"
+    ],
+    "informacoes": {
+        "cnpj": "92749225000163",
+        "site": "http://www.hercules.ind.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "HERCULES S.A. FABRICA DE TALHERES",
+    "nomeEmpresa": "HERCULES",
+    "codigoEmpresa": "HETA",
+    "codigoCVM": "6629",
+    "dataInicio": "10/08/1971",
+    "industria": "Consumo Cíclico",
+    "segmento": "Utensílios Domésticos",
+    "atividade": "Fabricação e a comercialização de toda a espécie de talheres e outros artigos de mesa para uso doméstico. artigos de adorno. beleza. higiene. móveis. material escolar. de escritório e profissional.",
+    "codigos": [
+        "HETA3",
+        "HETA4"
+    ],
+    "informacoes": {
+        "cnpj": "92749225000163",
+        "site": "http://www.hercules.ind.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- HIDROVIAS (CVM: 22675)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "HIDROVIAS DO BRASIL S.A.",
+    "nomeEmpresa": "HIDROVIAS",
+    "codigoEmpresa": "HBSA",
+    "codigoCVM": "22675",
+    "dataInicio": "22/09/2020",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Hidroviário",
+    "atividade": "Operador de logística hidroviária para clientes de commodities agrícolas. minerais. combustíveis e derivados e carga. integrando o transporte por barcaças com operação de terminais de origem e destino",
+    "codigos": [
+        "HBSA3"
+    ],
+    "informacoes": {
+        "cnpj": "12648327000153",
+        "site": "www.hbsa.com.br",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "HIDROVIAS DO BRASIL S.A.",
+    "nomeEmpresa": "HIDROVIAS",
+    "codigoEmpresa": "HBSA",
+    "codigoCVM": "22675",
+    "dataInicio": "22/09/2020",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Hidroviário",
+    "atividade": "Operador de logística hidroviária para clientes de commodities agrícolas. minerais. combustíveis e derivados e carga. integrando o transporte por barcaças com operação de terminais de origem e destino",
+    "codigos": [
+        "HBSA3",
+        "HBSA1"
+    ],
+    "informacoes": {
+        "cnpj": "12648327000153",
+        "site": "www.hbsa.com.br",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+
+- HOTEIS OTHON (CVM: 6700)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "HOTEIS OTHON S.A.",
+    "nomeEmpresa": "HOTEIS OTHON",
+    "codigoEmpresa": "HOOT",
+    "codigoCVM": "6700",
+    "dataInicio": "01/06/1981",
+    "industria": "Consumo Cíclico",
+    "segmento": "Hotelaria",
+    "atividade": "Prestação de Serviços na Indústria Hoteleira",
+    "codigos": [
+        "HOOT4"
+    ],
+    "informacoes": {
+        "cnpj": "33200049000147",
+        "site": "www.ciahoteisothon.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "HOTEIS OTHON S.A.",
+    "nomeEmpresa": "HOTEIS OTHON",
+    "codigoEmpresa": "HOOT",
+    "codigoCVM": "6700",
+    "dataInicio": "01/06/1981",
+    "industria": "Consumo Cíclico",
+    "segmento": "Hotelaria",
+    "atividade": "Prestação de Serviços na Indústria Hoteleira",
+    "codigos": [
+        "HOOT3",
+        "HOOT4"
+    ],
+    "informacoes": {
+        "cnpj": "33200049000147",
+        "site": "www.ciahoteisothon.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- IGUATEMI S.A (CVM: 8672)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "IGUATEMI S.A.",
+    "nomeEmpresa": "IGUATEMI S.A",
+    "codigoEmpresa": "IGTI",
+    "codigoCVM": "8672",
+    "dataInicio": "15/01/1974",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "atividade": "Exploração comercial. adminstração e planejamento de shopping centers (Conforme Artigo 3o. do Estatuto Social)",
+    "codigos": [
+        "IGTI3",
+        "IGTI4"
+    ],
+    "informacoes": {
+        "cnpj": "60543816000193",
+        "site": "ri.iguatemi.com.br",
+        "marketIndicator": "16",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N1"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "IGUATEMI S.A.",
+    "nomeEmpresa": "IGUATEMI S.A",
+    "codigoEmpresa": "IGTI",
+    "codigoCVM": "8672",
+    "dataInicio": "15/01/1974",
+    "industria": "Financeiro",
+    "segmento": "Exploração de Imóveis",
+    "atividade": "Exploração comercial. adminstração e planejamento de shopping centers (Conforme Artigo 3o. do Estatuto Social)",
+    "codigos": [
+        "IGTI3",
+        "IGTI4",
+        "IGTI11"
+    ],
+    "informacoes": {
+        "cnpj": "60543816000193",
+        "site": "ri.iguatemi.com.br",
+        "marketIndicator": "16",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N1"
+    }
+}
+
+- INEPAR (CVM: 7595)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "INEPAR S.A. INDUSTRIA E CONSTRUCOES",
+    "nomeEmpresa": "INEPAR",
+    "codigoEmpresa": "INEP",
+    "codigoCVM": "7595",
+    "dataInicio": "13/12/1985",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "atividade": "Fabricação de equipamentos e sistemas elétricos . fabricação de torres e acessórios para transmissão de energia e telecomunicações. fabricação de bens de capital e sitemas industriais sob encomenda.",
+    "codigos": [
+        "INEP3",
+        "INEP4"
+    ],
+    "informacoes": {
+        "cnpj": "76627504000106",
+        "site": "www.inepar.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "INEPAR S.A. INDUSTRIA E CONSTRUCOES",
+    "nomeEmpresa": "INEPAR",
+    "codigoEmpresa": "INEP",
+    "codigoCVM": "7595",
+    "dataInicio": "13/12/1985",
+    "industria": "Bens Industriais",
+    "segmento": "Máq. e Equip. Industriais",
+    "atividade": "Fabricação de equipamentos e sistemas elétricos . fabricação de torres e acessórios para transmissão de energia e telecomunicações. fabricação de bens de capital e sitemas industriais sob encomenda.",
+    "codigos": [
+        "INEP3",
+        "INEP4",
+        "INEP-DCA61"
+    ],
+    "informacoes": {
+        "cnpj": "76627504000106",
+        "site": "www.inepar.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- INFRACOMM (CVM: 25747)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "INFRACOMMERCE CXAAS S.A.",
+    "nomeEmpresa": "INFRACOMM",
+    "codigoEmpresa": "IFCM",
+    "codigoCVM": "25747",
+    "dataInicio": "30/04/2021",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "atividade": "Soluções digitais integradas a partir de um white-label digital ecosystem para clientes liderarem suas jornadas de digitalização no go-to-market. levando uma experiência excepcional ao consumidor.",
+    "codigos": [
+        "IFCM3"
+    ],
+    "informacoes": {
+        "cnpj": "38456921000136",
+        "site": "http://www.ri.infracommerce.com.br",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "INFRACOMMERCE CXAAS S.A.",
+    "nomeEmpresa": "INFRACOMM",
+    "codigoEmpresa": "IFCM",
+    "codigoCVM": "25747",
+    "dataInicio": "30/04/2021",
+    "industria": "Tecnologia da Informação",
+    "segmento": "Programas e Serviços",
+    "atividade": "Soluções digitais integradas a partir de um white-label digital ecosystem para clientes liderarem suas jornadas de digitalização no go-to-market. levando uma experiência excepcional ao consumidor.",
+    "codigos": [
+        "IFCM3",
+        "IFCM1"
+    ],
+    "informacoes": {
+        "cnpj": "38456921000136",
+        "site": "http://www.ri.infracommerce.com.br",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+
+- ISA ENERGIA (CVM: 18376)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "ISA ENERGIA BRASIL S.A",
+    "nomeEmpresa": "ISA ENERGIA",
+    "codigoEmpresa": "ISAE",
+    "codigoCVM": "18376",
+    "dataInicio": "14/07/1999",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Transmissão de Energia Elétrica",
+    "codigos": [
+        "ISAE3",
+        "ISAE4"
+    ],
+    "informacoes": {
+        "cnpj": "2998611000104",
+        "site": "http://www.isaenergiabrasil.com.br/",
+        "marketIndicator": "16",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N1"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "ISA ENERGIA BRASIL S.A",
+    "nomeEmpresa": "ISA ENERGIA",
+    "codigoEmpresa": "ISAE",
+    "codigoCVM": "18376",
+    "dataInicio": "14/07/1999",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Transmissão de Energia Elétrica",
+    "codigos": [
+        "ISAE3",
+        "ISAE4",
+        "ISAE-DEB71"
+    ],
+    "informacoes": {
+        "cnpj": "2998611000104",
+        "site": "http://www.isaenergiabrasil.com.br/",
+        "marketIndicator": "16",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N1"
+    }
+}
+
+- ITAUSA (CVM: 7617)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "ITAUSA S.A.",
+    "nomeEmpresa": "ITAUSA",
+    "codigoEmpresa": "ITSA",
+    "codigoCVM": "7617",
+    "dataInicio": "30/06/1966",
+    "industria": "Financeiro",
+    "segmento": "Holdings Diversificadas",
+    "atividade": "Gestão de Participações Societárias (Holding)",
+    "codigos": [
+        "ITSA3",
+        "ITSA4"
+    ],
+    "informacoes": {
+        "cnpj": "61532644000115",
+        "site": "www.itausa.com.br",
+        "marketIndicator": "16",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N1"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "ITAUSA S.A.",
+    "nomeEmpresa": "ITAUSA",
+    "codigoEmpresa": "ITSA",
+    "codigoCVM": "7617",
+    "dataInicio": "30/06/1966",
+    "industria": "Financeiro",
+    "segmento": "Holdings Diversificadas",
+    "atividade": "Gestão de Participações Societárias (Holding)",
+    "codigos": [
+        "ITSA3",
+        "ITSA4",
+        "ITSA2",
+        "ITSA1"
+    ],
+    "informacoes": {
+        "cnpj": "61532644000115",
+        "site": "www.itausa.com.br",
+        "marketIndicator": "16",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N1"
+    }
+}
+
+- KLABIN S/A (CVM: 12653)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "KLABIN S.A.",
+    "nomeEmpresa": "KLABIN S/A",
+    "codigoEmpresa": "KLBN",
+    "codigoCVM": "12653",
+    "dataInicio": "24/01/1991",
+    "industria": "Materiais Básicos",
+    "segmento": "Papel e Celulose",
+    "atividade": "Empresa brasileira de base florestal. Produtora de papéis e cartões para embalagens. embalagens de papelão ondulado e sacos industriais. além de ser recicladora e produtora de toras para serrarias.",
+    "codigos": [
+        "KLBN3",
+        "KLBN4"
+    ],
+    "informacoes": {
+        "cnpj": "89637490000145",
+        "site": "www.klabin.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "KLABIN S.A.",
+    "nomeEmpresa": "KLABIN S/A",
+    "codigoEmpresa": "KLBN",
+    "codigoCVM": "12653",
+    "dataInicio": "24/01/1991",
+    "industria": "Materiais Básicos",
+    "segmento": "Papel e Celulose",
+    "atividade": "Empresa brasileira de base florestal. Produtora de papéis e cartões para embalagens. embalagens de papelão ondulado e sacos industriais. além de ser recicladora e produtora de toras para serrarias.",
+    "codigos": [
+        "KLBN3",
+        "KLBN4",
+        "KLBN11"
+    ],
+    "informacoes": {
+        "cnpj": "89637490000145",
+        "site": "www.klabin.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+
+- LIGHT S/A (CVM: 19879)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "LIGHT S.A.",
+    "nomeEmpresa": "LIGHT S/A",
+    "codigoEmpresa": "LIGT",
+    "codigoCVM": "19879",
+    "dataInicio": "12/12/2005",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Participação em sociedades p/ exploração serviços de energia elétrica",
+    "codigos": [
+        "LIGT3"
+    ],
+    "informacoes": {
+        "cnpj": "3378521000175",
+        "site": "www.light.com.br",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "LIGHT S.A.",
+    "nomeEmpresa": "LIGHT S/A",
+    "codigoEmpresa": "LIGT",
+    "codigoCVM": "19879",
+    "dataInicio": "12/12/2005",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Participação em sociedades p/ exploração serviços de energia elétrica",
+    "codigos": [
+        "LIGT3",
+        "LIGT12"
+    ],
+    "informacoes": {
+        "cnpj": "3378521000175",
+        "site": "www.light.com.br",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+
+- LUPATECH (CVM: 20060)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "LUPATECH S.A.",
+    "nomeEmpresa": "LUPATECH",
+    "codigoEmpresa": "LUPA",
+    "codigoCVM": "20060",
+    "dataInicio": "08/05/2006",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Equipamentos e Serviços",
+    "atividade": "Fabricante de equipamentos e provedor de serviços para o setor de Petróleo e Gás.",
+    "codigos": [
+        "LUPA3"
+    ],
+    "informacoes": {
+        "cnpj": "89463822000112",
+        "site": "www.lupatech.com.br",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "LUPATECH S.A.",
+    "nomeEmpresa": "LUPATECH",
+    "codigoEmpresa": "LUPA",
+    "codigoCVM": "20060",
+    "dataInicio": "08/05/2006",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Equipamentos e Serviços",
+    "atividade": "Fabricante de equipamentos e provedor de serviços para o setor de Petróleo e Gás.",
+    "codigos": [
+        "LUPA3",
+        "LUPA11",
+        "LUPA12",
+        "LUPA13"
+    ],
+    "informacoes": {
+        "cnpj": "89463822000112",
+        "site": "www.lupatech.com.br",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+
+- MANGELS INDL (CVM: 8397)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "MANGELS INDUSTRIAL S.A.",
+    "nomeEmpresa": "MANGELS INDL",
+    "codigoEmpresa": "MGEL",
+    "codigoCVM": "8397",
+    "dataInicio": "24/02/1972",
+    "industria": "Materiais Básicos",
+    "segmento": "Artefatos de Ferro e Aço",
+    "atividade": "Produção de relaminados. trefilados e perfilados de aço. exceto arames.",
+    "codigos": [
+        "MGEL4"
+    ],
+    "informacoes": {
+        "cnpj": "61065298000102",
+        "site": "www.mangels.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "MANGELS INDUSTRIAL S.A.",
+    "nomeEmpresa": "MANGELS INDL",
+    "codigoEmpresa": "MGEL",
+    "codigoCVM": "8397",
+    "dataInicio": "24/02/1972",
+    "industria": "Materiais Básicos",
+    "segmento": "Artefatos de Ferro e Aço",
+    "atividade": "Produção de relaminados. trefilados e perfilados de aço. exceto arames.",
+    "codigos": [
+        "MGEL3",
+        "MGEL4"
+    ],
+    "informacoes": {
+        "cnpj": "61065298000102",
+        "site": "www.mangels.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- LOJAS MARISA (CVM: 22055)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "MARISA LOJAS S.A.",
+    "nomeEmpresa": "LOJAS MARISA",
+    "codigoEmpresa": "AMAR",
+    "codigoCVM": "22055",
+    "dataInicio": "14/06/2010",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "atividade": "Comércio varejista de artigos do vestuário e acessórios. prestação de serviços de correspondente bancário. intermediação de negócios e congêneres. atuação como representante de seguros.",
+    "codigos": [
+        "AMAR3"
+    ],
+    "informacoes": {
+        "cnpj": "61189288000189",
+        "site": "www.marisa.com.br",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "MARISA LOJAS S.A.",
+    "nomeEmpresa": "LOJAS MARISA",
+    "codigoEmpresa": "AMAR",
+    "codigoCVM": "22055",
+    "dataInicio": "14/06/2010",
+    "industria": "Consumo Cíclico",
+    "segmento": "Tecidos. Vestuário e Calçados",
+    "atividade": "Comércio varejista de artigos do vestuário e acessórios. prestação de serviços de correspondente bancário. intermediação de negócios e congêneres. atuação como representante de seguros.",
+    "codigos": [
+        "AMAR3",
+        "AMAR11"
+    ],
+    "informacoes": {
+        "cnpj": "61189288000189",
+        "site": "www.marisa.com.br",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+
+- MERC FINANC (CVM: 8540)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "MERCANTIL FINANCEIRA S.A.  CRED. FINANC. E INVEST",
+    "nomeEmpresa": "MERC FINANC",
+    "codigoEmpresa": "MERC",
+    "codigoCVM": "8540",
+    "dataInicio": "09/05/1983",
+    "industria": "Financeiro",
+    "segmento": "Soc. Crédito e Financiamento",
+    "atividade": "Crédito. Financiamento e Investimento",
+    "codigos": [
+        "MERC4"
+    ],
+    "informacoes": {
+        "cnpj": "33040601000187",
+        "site": "www.mercantildobrasil.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "MERCANTIL FINANCEIRA S.A.  CRED. FINANC. E INVEST",
+    "nomeEmpresa": "MERC FINANC",
+    "codigoEmpresa": "MERC",
+    "codigoCVM": "8540",
+    "dataInicio": "09/05/1983",
+    "industria": "Financeiro",
+    "segmento": "Soc. Crédito e Financiamento",
+    "atividade": "Crédito. Financiamento e Investimento",
+    "codigos": [
+        "MERC3",
+        "MERC4"
+    ],
+    "informacoes": {
+        "cnpj": "33040601000187",
+        "site": "www.mercantildobrasil.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- RIOSULENSE (CVM: 13439)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "METALURGICA RIOSULENSE S.A.",
+    "nomeEmpresa": "RIOSULENSE",
+    "codigoEmpresa": "RSUL",
+    "codigoCVM": "13439",
+    "dataInicio": "29/11/1988",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "atividade": null,
+    "codigos": [
+        "RSUL4"
+    ],
+    "informacoes": {
+        "cnpj": "85778074000106",
+        "site": "www.riosulense.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "METALURGICA RIOSULENSE S.A.",
+    "nomeEmpresa": "RIOSULENSE",
+    "codigoEmpresa": "RSUL",
+    "codigoCVM": "13439",
+    "dataInicio": "29/11/1988",
+    "industria": "Bens Industriais",
+    "segmento": "Material Rodoviário",
+    "atividade": null,
+    "codigos": [
+        "RSUL3",
+        "RSUL4"
+    ],
+    "informacoes": {
+        "cnpj": "85778074000106",
+        "site": "www.riosulense.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- MOBLY (CVM: 25461)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "MOBLY S.A.",
+    "nomeEmpresa": "MOBLY",
+    "codigoEmpresa": "MBLY",
+    "codigoCVM": "25461",
+    "dataInicio": "03/02/2021",
+    "industria": "Consumo Cíclico",
+    "segmento": "Móveis",
+    "atividade": "Intermediação. importação. exportação e comércio varejista de móveis e artigos domésticos em geral; serviços de montagem; comércio varejista de materiais de construção em geral; e outros.",
+    "codigos": [
+        "MBLY3"
+    ],
+    "informacoes": {
+        "cnpj": "31553627000101",
+        "site": "",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "MOBLY S.A.",
+    "nomeEmpresa": "MOBLY",
+    "codigoEmpresa": "MBLY",
+    "codigoCVM": "25461",
+    "dataInicio": "03/02/2021",
+    "industria": "Consumo Cíclico",
+    "segmento": "Móveis",
+    "atividade": "Intermediação. importação. exportação e comércio varejista de móveis e artigos domésticos em geral; serviços de montagem; comércio varejista de materiais de construção em geral; e outros.",
+    "codigos": [
+        "MBLY3",
+        "MBLY12"
+    ],
+    "informacoes": {
+        "cnpj": "31553627000101",
+        "site": "",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+
+- PETROBRAS (CVM: 9512)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+    "nomeEmpresa": "PETROBRAS",
+    "codigoEmpresa": "PETR",
+    "codigoCVM": "9512",
+    "dataInicio": "27/08/1968",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "atividade": "Pesquisa. lavra. refinação. processamento. comércio e transporte de petróleo. de seus derivados. de gás natural e de outros hidrocarbonetos fluidos. além das atividades vinculadas à energia.",
+    "codigos": [
+        "PETR3",
+        "PETR4"
+    ],
+    "informacoes": {
+        "cnpj": "33000167000101",
+        "site": "www.petrobras.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+    "nomeEmpresa": "PETROBRAS",
+    "codigoEmpresa": "PETR",
+    "codigoCVM": "9512",
+    "dataInicio": "27/08/1968",
+    "industria": "Petróleo. Gás e Biocombustíveis",
+    "segmento": "Exploração. Refino e Distribuição",
+    "atividade": "Pesquisa. lavra. refinação. processamento. comércio e transporte de petróleo. de seus derivados. de gás natural e de outros hidrocarbonetos fluidos. além das atividades vinculadas à energia.",
+    "codigos": [
+        "PETR3",
+        "PETR4",
+        "PETR-DEB61",
+        "PETR-DEB62"
+    ],
+    "informacoes": {
+        "cnpj": "33000167000101",
+        "site": "www.petrobras.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+
+- RENOVA (CVM: 21636)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "RENOVA ENERGIA S.A.",
+    "nomeEmpresa": "RENOVA",
+    "codigoEmpresa": "RNEW",
+    "codigoCVM": "21636",
+    "dataInicio": "19/03/2010",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Geração de energia por meio de fontes renováveis.",
+    "codigos": [
+        "RNEW3",
+        "RNEW4"
+    ],
+    "informacoes": {
+        "cnpj": "8534605000174",
+        "site": "www.renovaenergia.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "RENOVA ENERGIA S.A.",
+    "nomeEmpresa": "RENOVA",
+    "codigoEmpresa": "RNEW",
+    "codigoCVM": "21636",
+    "dataInicio": "19/03/2010",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Geração de energia por meio de fontes renováveis.",
+    "codigos": [
+        "RNEW3",
+        "RNEW4",
+        "RNEW11",
+        "RNEW1"
+    ],
+    "informacoes": {
+        "cnpj": "8534605000174",
+        "site": "www.renovaenergia.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+
+- SANSUY (CVM: 12696)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "SANSUY S.A. INDUSTRIA DE PLASTICOS",
+    "nomeEmpresa": "SANSUY",
+    "codigoEmpresa": "SNSY",
+    "codigoCVM": "12696",
+    "dataInicio": "06/05/1986",
+    "industria": "Materiais Básicos",
+    "segmento": "Materiais Diversos",
+    "atividade": "INDÚSTRIA E COMÉRCIO DE ARTEFATOS PLÁSTICOS",
+    "codigos": [
+        "SNSY3",
+        "SNSY5"
+    ],
+    "informacoes": {
+        "cnpj": "14807945000124",
+        "site": "www.sansuy.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "SANSUY S.A. INDUSTRIA DE PLASTICOS",
+    "nomeEmpresa": "SANSUY",
+    "codigoEmpresa": "SNSY",
+    "codigoCVM": "12696",
+    "dataInicio": "06/05/1986",
+    "industria": "Materiais Básicos",
+    "segmento": "Materiais Diversos",
+    "atividade": "INDÚSTRIA E COMÉRCIO DE ARTEFATOS PLÁSTICOS",
+    "codigos": [
+        "SNSY3",
+        "SNSY5",
+        "SNSY6"
+    ],
+    "informacoes": {
+        "cnpj": "14807945000124",
+        "site": "www.sansuy.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- SCHULZ (CVM: 14664)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "SCHULZ S.A.",
+    "nomeEmpresa": "SCHULZ",
+    "codigoEmpresa": "SHUL",
+    "codigoCVM": "14664",
+    "dataInicio": "19/12/1994",
+    "industria": "Bens Industriais",
+    "segmento": "Motores . Compressores e Outros",
+    "atividade": "Indústria Metalúrgica",
+    "codigos": [
+        "SHUL4"
+    ],
+    "informacoes": {
+        "cnpj": "84693183000168",
+        "site": "www.schulz.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "SCHULZ S.A.",
+    "nomeEmpresa": "SCHULZ",
+    "codigoEmpresa": "SHUL",
+    "codigoCVM": "14664",
+    "dataInicio": "19/12/1994",
+    "industria": "Bens Industriais",
+    "segmento": "Motores . Compressores e Outros",
+    "atividade": "Indústria Metalúrgica",
+    "codigos": [
+        "SHUL3",
+        "SHUL4"
+    ],
+    "informacoes": {
+        "cnpj": "84693183000168",
+        "site": "www.schulz.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- ALIPERTI (CVM: 12823)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "SIDERURGICA J. L. ALIPERTI S.A.",
+    "nomeEmpresa": "ALIPERTI",
+    "codigoEmpresa": "APTI",
+    "codigoCVM": "12823",
+    "dataInicio": "06/06/1986",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "atividade": "Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores",
+    "codigos": [
+        "APTI4"
+    ],
+    "informacoes": {
+        "cnpj": "61156931000178",
+        "site": "www.aliperti.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "SIDERURGICA J. L. ALIPERTI S.A.",
+    "nomeEmpresa": "ALIPERTI",
+    "codigoEmpresa": "APTI",
+    "codigoCVM": "12823",
+    "dataInicio": "06/06/1986",
+    "industria": "Consumo não Cíclico",
+    "segmento": "Agricultura",
+    "atividade": "Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores",
+    "codigos": [
+        "APTI3",
+        "APTI4"
+    ],
+    "informacoes": {
+        "cnpj": "61156931000178",
+        "site": "www.aliperti.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- TAESA (CVM: 20257)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+    "nomeEmpresa": "TAESA",
+    "codigoEmpresa": "TAEE",
+    "codigoCVM": "20257",
+    "dataInicio": "10/10/2006",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Transmissão de Energia Elétrica.",
+    "codigos": [
+        "TAEE3",
+        "TAEE4"
+    ],
+    "informacoes": {
+        "cnpj": "7859971000130",
+        "site": "www.taesa.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+    "nomeEmpresa": "TAESA",
+    "codigoEmpresa": "TAEE",
+    "codigoCVM": "20257",
+    "dataInicio": "10/10/2006",
+    "industria": "Utilidade Pública",
+    "segmento": "Energia Elétrica",
+    "atividade": "Transmissão de Energia Elétrica.",
+    "codigos": [
+        "TAEE3",
+        "TAEE4",
+        "TAEE11",
+        "TAEE-DEB51"
+    ],
+    "informacoes": {
+        "cnpj": "7859971000130",
+        "site": "www.taesa.com.br",
+        "marketIndicator": "17",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "N2"
+    }
+}
+
+- TREVISA (CVM: 8192)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "TREVISA INVESTIMENTOS S.A.",
+    "nomeEmpresa": "TREVISA",
+    "codigoEmpresa": "LUXM",
+    "codigoCVM": "8192",
+    "dataInicio": "26/02/1981",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Hidroviário",
+    "atividade": "Part. Capital outras empresas qualquer setor econômico. Locação de conjuntos comerciais.",
+    "codigos": [
+        "LUXM4"
+    ],
+    "informacoes": {
+        "cnpj": "92660570000126",
+        "site": "www.trevisa.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "TREVISA INVESTIMENTOS S.A.",
+    "nomeEmpresa": "TREVISA",
+    "codigoEmpresa": "LUXM",
+    "codigoCVM": "8192",
+    "dataInicio": "26/02/1981",
+    "industria": "Bens Industriais",
+    "segmento": "Transporte Hidroviário",
+    "atividade": "Part. Capital outras empresas qualquer setor econômico. Locação de conjuntos comerciais.",
+    "codigos": [
+        "LUXM3",
+        "LUXM4"
+    ],
+    "informacoes": {
+        "cnpj": "92660570000126",
+        "site": "www.trevisa.com.br",
+        "marketIndicator": "1",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": ""
+    }
+}
+
+- VALE (CVM: 4170)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "VALE S.A.",
+    "nomeEmpresa": "VALE",
+    "codigoEmpresa": "VALE",
+    "codigoCVM": "4170",
+    "dataInicio": "04/04/1968",
+    "industria": "Materiais Básicos",
+    "segmento": "Minerais Metálicos",
+    "atividade": "Mineração",
+    "codigos": [
+        "VALE3"
+    ],
+    "informacoes": {
+        "cnpj": "33592510000154",
+        "site": "",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "VALE S.A.",
+    "nomeEmpresa": "VALE",
+    "codigoEmpresa": "VALE",
+    "codigoCVM": "4170",
+    "dataInicio": "04/04/1968",
+    "industria": "Materiais Básicos",
+    "segmento": "Minerais Metálicos",
+    "atividade": "Mineração",
+    "codigos": [
+        "VALE3",
+        "VALE-DEB83",
+        "VALE-DEB84"
+    ],
+    "informacoes": {
+        "cnpj": "33592510000154",
+        "site": "",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+
+- VAMOS (CVM: 24716)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "VAMOS LOCAÇÃO DE CAMINHÕES. MÁQUINAS E EQUIP. S.A.",
+    "nomeEmpresa": "VAMOS",
+    "codigoEmpresa": "VAMO",
+    "codigoCVM": "24716",
+    "dataInicio": "26/01/2021",
+    "industria": "Consumo Cíclico",
+    "segmento": "Aluguel de carros",
+    "atividade": "Locação e venda de caminhões. máquinas e equipamentos pesados e a prestação de serviços de manutenção de frota. tanto preventiva. quanto corretiva.",
+    "codigos": [
+        "VAMO3"
+    ],
+    "informacoes": {
+        "cnpj": "23373000000132",
+        "site": "http://www.grupovamos.com.br/",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "VAMOS LOCAÇÃO DE CAMINHÕES. MÁQUINAS E EQUIP. S.A.",
+    "nomeEmpresa": "VAMOS",
+    "codigoEmpresa": "VAMO",
+    "codigoCVM": "24716",
+    "dataInicio": "26/01/2021",
+    "industria": "Consumo Cíclico",
+    "segmento": "Aluguel de carros",
+    "atividade": "Locação e venda de caminhões. máquinas e equipamentos pesados e a prestação de serviços de manutenção de frota. tanto preventiva. quanto corretiva.",
+    "codigos": [
+        "VAMO3",
+        "VAMO99"
+    ],
+    "informacoes": {
+        "cnpj": "23373000000132",
+        "site": "http://www.grupovamos.com.br/",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+
+- VIVER (CVM: 20702)
+  Antigo:
+{
+    "nomeEmpresaCompleto": "VIVER INCORPORADORA E CONSTRUTORA S.A.",
+    "nomeEmpresa": "VIVER",
+    "codigoEmpresa": "VIVR",
+    "codigoCVM": "20702",
+    "dataInicio": "23/05/2007",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "atividade": "Construção. incorporação. aquisição de créditos com lastro em ativos imobiliários. obras paradas. vendas. repasse. cobrança. assistência técnica. negociação de dívidas e processos judiciais.",
+    "codigos": [
+        "VIVR3"
+    ],
+    "informacoes": {
+        "cnpj": "67571414000141",
+        "site": "http://www.viver.com.vc",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+  Novo:
+{
+    "nomeEmpresaCompleto": "VIVER INCORPORADORA E CONSTRUTORA S.A.",
+    "nomeEmpresa": "VIVER",
+    "codigoEmpresa": "VIVR",
+    "codigoCVM": "20702",
+    "dataInicio": "23/05/2007",
+    "industria": "Consumo Cíclico",
+    "segmento": "Incorporações",
+    "atividade": "Construção. incorporação. aquisição de créditos com lastro em ativos imobiliários. obras paradas. vendas. repasse. cobrança. assistência técnica. negociação de dívidas e processos judiciais.",
+    "codigos": [
+        "VIVR3",
+        "VIVR11"
+    ],
+    "informacoes": {
+        "cnpj": "67571414000141",
+        "site": "http://www.viver.com.vc",
+        "marketIndicator": "18",
+        "temBDR": false,
+        "tipoBDR": "",
+        "status": "A",
+        "tipo": "1",
+        "mercado": "NM"
+    }
+}
+

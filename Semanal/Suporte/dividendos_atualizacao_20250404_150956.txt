@@ -1,0 +1,24 @@
+Relatório de Atualização de Dividendos - 04/04/2025 15:09
+
+Tempo total de execução: 41.57 minutos (2494.15 segundos)
+
+=== Empresas ===
+Processados: 331
+Novas empresas: 0
+Empresas atualizadas: 2
+Erros: 0
+Tempo: 8.81 minutos
+
+=== BDRs ===
+Processados: 814
+Novos BDRs: 0
+BDRs atualizados: 0
+Erros: 0
+Tempo: 19.43 minutos
+
+=== FIIs ===
+Processados: 520
+Novos FIIs: 26
+FIIs atualizados: 4
+Erros: 0
+Tempo: 13.33 minutos

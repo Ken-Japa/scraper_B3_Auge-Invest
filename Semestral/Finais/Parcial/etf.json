@@ -1,0 +1,1388 @@
+[
+    {
+        "nomeCompletoETF": "BB ETF IAGROFFS B3 FUNDO DE ÍNDICE",
+        "nomeETF": "BB ETF IAGRO",
+        "codigoETF": "AGRI",
+        "codigo": "AGRI11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "45081470000165",
+            "site": "https://www.bb.com.br/pbb/pagina-inicial/bb-dtvm/fundos/etf/bb-etf-iagro---fss-b3#/"
+        }
+    },
+    {
+        "nomeCompletoETF": "BB ETF IBOVESPA B3 BR+ FUNDO DE ÍNDICE RESP LIM",
+        "nomeETF": "BB ETF BRAZ",
+        "codigoETF": "BRAZ",
+        "codigo": "BRAZ11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "57848980000102",
+            "site": "https://www.bb.com.br/site/bb-asset-management/"
+        }
+    },
+    {
+        "nomeCompletoETF": "BB ETF IBOVESPA FUNDO DE ÍNDICE",
+        "nomeETF": "BB ETF IBOV",
+        "codigoETF": "BBOV",
+        "codigo": "BBOV11",
+        "quotaCount": "8800000",
+        "quotaDateApproved": "14/08/2020",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "34606480000150",
+            "site": "WWW.BB.COM.BR/PBB/PAGINA-INICIAL/BB-DTVM#/"
+        }
+    },
+    {
+        "nomeCompletoETF": "BB ETF ÍNDICE DIVERSIDADE B3 INV SUSTENT FDO IND",
+        "nomeETF": "BB ETF DVER",
+        "codigoETF": "DVER",
+        "codigo": "DVER11",
+        "quotaCount": "1750000",
+        "quotaDateApproved": "17/10/2023",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "52203750000164",
+            "site": "https://WWW.BB.COM.BR/PBB/PAGINA-INICIAL/BB-DTVM#/"
+        }
+    },
+    {
+        "nomeCompletoETF": "BB ETF ÍNDICE FUTURO DE BOI GORDO B3 FDO DE ÍNDICE",
+        "nomeETF": "BB ETF BOI G",
+        "codigoETF": "BBOI",
+        "codigo": "BBOI11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "46610422000180",
+            "site": "https://www.bb.com.br/pbb/s001t010p004,503845,507514,1,1,1,1,b.bb#/"
+        }
+    },
+    {
+        "nomeCompletoETF": "BB ETF ÍNDICE FUTURO DE DOLAR S&P/B3 FDO IND RESP",
+        "nomeETF": "BB ETF DOLAR",
+        "codigoETF": "DOLA",
+        "codigo": "DOLA11",
+        "quotaCount": "5850000",
+        "quotaDateApproved": "25/07/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "55620015000144",
+            "site": "https://www.bb.com.br/pbb/pagina-inicial/bb-asset/sobre-a-empresa#/"
+        }
+    },
+    {
+        "nomeCompletoETF": "BB ETF ÍNDICE FUTURO DE MILHO B3 FUNDO DE ÍNDICE",
+        "nomeETF": "BB ETF MILHO",
+        "codigoETF": "CORN",
+        "codigo": "CORN11",
+        "quotaCount": "4673872",
+        "quotaDateApproved": "24/10/2022",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "46467170000181",
+            "site": "https://www.bb.com.br/pbb/pagina-inicial/bb-asset/fundos/etf/bb-etf-ifmilho-b3#/"
+        }
+    },
+    {
+        "nomeCompletoETF": "BB ETF S&P DIVIDENDOS BRASIL FUNDO DE ÍNDICE",
+        "nomeETF": "BB ETF SP DV",
+        "codigoETF": "BBSD",
+        "codigo": "BBSD11",
+        "quotaCount": "285526316",
+        "quotaDateApproved": "01/11/2013",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "17817528000150",
+            "site": "www.bb.com.br"
+        }
+    },
+    {
+        "nomeCompletoETF": "B-INDEX MORNINGSTAR BRASIL MOMENTO FUNDO DE ÍNDICE",
+        "nomeETF": "B INDEX MOME",
+        "codigoETF": "BMMT",
+        "codigo": "BMMT11",
+        "quotaCount": "650000",
+        "quotaDateApproved": "13/02/2023",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "48643091000100",
+            "site": "www.bradescoasset.com.br/SiteBram/ptbr/ETF-BMMT11"
+        }
+    },
+    {
+        "nomeCompletoETF": "B-INDEX MORNINGSTAR BRASIL PESOS IGUAIS FDO IND",
+        "nomeETF": "B INDEX BREW",
+        "codigoETF": "BREW",
+        "codigo": "BREW11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "48643130000179",
+            "site": "https://www.bradescoasset.com.br/SiteBram/ptbr/ETF-BREW11"
+        }
+    },
+    {
+        "nomeCompletoETF": "B-INDEX MORNINGSTAR SETORES DEFENSIVOS BRASIL FI",
+        "nomeETF": "B INDEX DEFE",
+        "codigoETF": "BDEF",
+        "codigo": "BDEF11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "48643220000160",
+            "site": "www.bradescoasset.com.br/SiteBram/ptbr/ETF-BDEF11"
+        }
+    },
+    {
+        "nomeCompletoETF": "BTG PACTUAL B3 IBOVESPA FUNDO DE ÍNDICE",
+        "nomeETF": "PACTUAL IBOV",
+        "codigoETF": "IBOB",
+        "codigo": "IBOB11",
+        "quotaCount": "800000",
+        "quotaDateApproved": "08/07/2021",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "42427783000134",
+            "site": "www.btgpactual.com"
+        }
+    },
+    {
+        "nomeCompletoETF": "BTG PACTUAL ESG FUNDO DE ÍNDICE S&P/B3 BRAZIL ES",
+        "nomeETF": "ETF ESG BTG",
+        "codigoETF": "ESGB",
+        "codigo": "ESGB11",
+        "quotaCount": "50000",
+        "quotaDateApproved": "08/09/2020",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "37843293000189",
+            "site": "www.btgpactual.com/asset-management/etf-esg"
+        }
+    },
+    {
+        "nomeCompletoETF": "BTG PACTUAL S&P 500 FUNDO DE ÍNDICE",
+        "nomeETF": "BTG S&P 500",
+        "codigoETF": "SPXB",
+        "codigo": "SPXB11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "42682199000125",
+            "site": "WWW.BTGPACTUAL.COM"
+        }
+    },
+    {
+        "nomeCompletoETF": "BTG PACTUAL S&P/B3 INGENIUS FUNDO DE ÍNDICE",
+        "nomeETF": "ETF BTG GENB",
+        "codigoETF": "GENB",
+        "codigo": "GENB11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "42134357000102",
+            "site": "www.btgpactual.com/asset-management/etf-ingenius"
+        }
+    },
+    {
+        "nomeCompletoETF": "BTG PACTUAL SMLL B3 FUNDO DE ÍNDICE",
+        "nomeETF": "BTG SMLL CAP",
+        "codigoETF": "SMAB",
+        "codigo": "SMAB11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "42682281000150",
+            "site": "WWW.BTGPACTUAL.COM"
+        }
+    },
+    {
+        "nomeCompletoETF": "BTG PACTUAL TEVA AÇÕES COMMODITIES BRASIL FDO IND",
+        "nomeETF": "BTG COMMODIT",
+        "codigoETF": "CMDB",
+        "codigo": "CMDB11",
+        "quotaCount": "1054618",
+        "quotaDateApproved": "29/11/2021",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "43391410000113",
+            "site": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "BTG PACTUAL TEVA DIVID ATIVOS REAIS LIST FDO IND",
+        "nomeETF": "BTG DIV REAL",
+        "codigoETF": "TIRB",
+        "codigo": "TIRB11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "57063444000193",
+            "site": "https://www.btgpactual.com/asset-management/etf-dividendos/sobre-dividendos-ativos-reais-listados-e-"
+        }
+    },
+    {
+        "nomeCompletoETF": "BTG PACTUAL TEVA IABR SELECTOR FDO DE INDI – RES L",
+        "nomeETF": "BTGIABRSELEC",
+        "codigoETF": "BRXC",
+        "codigo": "BRXC11",
+        "quotaCount": "200000",
+        "quotaDateApproved": "10/03/2025",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "59506849000184",
+            "site": "selector.btgpactual.com/asset-management/etf-selector"
+        }
+    },
+    {
+        "nomeCompletoETF": "BUENA VISTA I FUNDO DE ÍNDICE",
+        "nomeETF": "ETF BV SPYI",
+        "codigoETF": "SPYI",
+        "codigo": "SPYI11",
+        "quotaCount": "10000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "51949867000129",
+            "site": "https://buenavista.capital/etf/"
+        }
+    },
+    {
+        "nomeCompletoETF": "BUENA VISTA IV FUNDO DE ÍNDICE",
+        "nomeETF": "ETF BV IWMI",
+        "codigoETF": "IWMI",
+        "codigo": "IWMI11",
+        "quotaCount": "18413",
+        "quotaDateApproved": "12/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "57922206000196",
+            "site": "https://buenavista.capital/iwmi11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "BUENA VISTA NEOS BITCOIN HIGH INCOME INDEX FDO IND",
+        "nomeETF": "ETF BV COIN",
+        "codigoETF": "COIN",
+        "codigo": "COIN11",
+        "quotaCount": "14962",
+        "quotaDateApproved": "12/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "57920798000107",
+            "site": "https://buenavista.capital/coin11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "BUENA VISTA V FUNDO DE ÍNDICE",
+        "nomeETF": "ETF QQQQ",
+        "codigoETF": "QQQQ",
+        "codigo": "QQQQ11",
+        "quotaCount": "30000",
+        "quotaDateApproved": "17/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "58348330000152",
+            "site": "https://buenavista.capital/qqqq11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "CAIXA ETF IBOVESPA FUNDO DE INDICE",
+        "nomeETF": "CAIXAETFXBOV",
+        "codigoETF": "XBOV",
+        "codigo": "XBOV11",
+        "quotaCount": "8414375000",
+        "quotaDateApproved": "06/11/2012",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "14120533000111",
+            "site": "http://www.caixa.gov.br/fundos-investimento/fundos-de-indices/etf-ibovespa-fundo-de-indice/Paginas/default.aspx"
+        }
+    },
+    {
+        "nomeCompletoETF": "EMPIRICUS TEVA CRIPTOMOEDAS TOP20 FDO IND IE",
+        "nomeETF": "CRIPTO20 EMP",
+        "codigoETF": "CRPT",
+        "codigo": "CRPT11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "36669709000121",
+            "site": "https://www.vitreo.com.br/investir/fundos-de-investimento/crpt11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "ETF BRADESCO IBOVESPA FDO DE INDICE",
+        "nomeETF": "ETF BRA IBOV",
+        "codigoETF": "BOVB",
+        "codigo": "BOVB11",
+        "quotaCount": "8500000000",
+        "quotaDateApproved": "05/04/2019",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "32203211000118",
+            "site": "https://www.bradescoasset.com.br/SiteBram/pt/Fundos-de-Investimento/ETFs/ETF-Bradesco-Ibovespa-Fundo"
+        }
+    },
+    {
+        "nomeCompletoETF": "ETF TRÍGONO TEVA AÇÕES M CAP/SMALL CAP FDO ÍNDICE",
+        "nomeETF": "TRG SMIC CAP",
+        "codigoETF": "TRIG",
+        "codigo": "TRIG11",
+        "quotaCount": "2855743",
+        "quotaDateApproved": "14/10/2021",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "43140303000112",
+            "site": "www.btgpactual.com"
+        }
+    },
+    {
+        "nomeCompletoETF": "FUNDO BUENA VISTA II FUNDO DE ÍNDICE",
+        "nomeETF": "ETF BV QQQI",
+        "codigoETF": "QQQI",
+        "codigo": "QQQI11",
+        "quotaCount": "30000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "54825284000184",
+            "site": "https://buenavista.capital/qqqi11-taxas/"
+        }
+    },
+    {
+        "nomeCompletoETF": "HASHDEX CRYPTO METAVERSE FUNDO DE ÍNDICE",
+        "nomeETF": "META HASH",
+        "codigoETF": "META",
+        "codigo": "META11",
+        "quotaCount": "301351",
+        "quotaDateApproved": "30/05/2022",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "44124505000133",
+            "site": "www.hashdex.com/meta11"
+        }
+    },
+    {
+        "nomeCompletoETF": "HASHDEX DEFI INDEX FUNDO DE ÍNDICE",
+        "nomeETF": "DEFI HASH",
+        "codigoETF": "DEFI",
+        "codigo": "DEFI11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "40755515000116",
+            "site": "https://www.hashdex.com/"
+        }
+    },
+    {
+        "nomeCompletoETF": "HASHDEX MOMENTUM FUNDO DE ÍNDICE – RESP LIMIT",
+        "nomeETF": "FOMO HASH",
+        "codigoETF": "FOMO",
+        "codigo": "",
+        "quotaCount": "4000000",
+        "quotaDateApproved": "07/12/2022",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "47758831000190",
+            "site": "https://hashdex.com/pt-BR/products/fomo111"
+        }
+    },
+    {
+        "nomeCompletoETF": "HASHDEX NASDAQ BITCOIN REFERENCE RATE FDO. IND.",
+        "nomeETF": "BITCOIN HASH",
+        "codigoETF": "BITH",
+        "codigo": "BITH11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "41256573000168",
+            "site": "www.hashdex.com.br"
+        }
+    },
+    {
+        "nomeCompletoETF": "HASHDEX NASDAQ CRYPTO INDEX FUNDO DE ÍNDICE",
+        "nomeETF": "HASHDEX NCI",
+        "codigoETF": "HASH",
+        "codigo": "HASH11",
+        "quotaCount": "50000",
+        "quotaDateApproved": "12/03/2021",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "38314708000190",
+            "site": "www.hashdex.com.br/hash11"
+        }
+    },
+    {
+        "nomeCompletoETF": "HASHDEX NASDAQ ETHEREUM REFERENCE PRICE FDO. IND.",
+        "nomeETF": "ETHER HASH",
+        "codigoETF": "ETHE",
+        "codigo": "ETHE11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "41907631000176",
+            "site": "www.genialinvestimentos.com.br"
+        }
+    },
+    {
+        "nomeCompletoETF": "HASHDEX NASDAQ SOLANA FUNDO DE ÍNDICE",
+        "nomeETF": "SOLANA HASH",
+        "codigoETF": "SOLH",
+        "codigo": "SOLH11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "56746166000106",
+            "site": "https://hashdex.com/pt-BR"
+        }
+    },
+    {
+        "nomeCompletoETF": "HASHDEX NASDAQ XRP FUNDO DE ÍNDICE - RESP LIMITADA",
+        "nomeETF": "XRP HASH",
+        "codigoETF": "XRPH",
+        "codigo": "",
+        "quotaCount": "500",
+        "quotaDateApproved": "26/02/2025",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "58430507000165",
+            "site": "https://hashdex.com/pt-BR/products/xrph11"
+        }
+    },
+    {
+        "nomeCompletoETF": "HASHDEX SMART CONTRACT PLATFORMS FUNDO DE ÍNDICE",
+        "nomeETF": "SMART HASH",
+        "codigoETF": "WEB3",
+        "codigo": "WEB311",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "43951717000121",
+            "site": "www.hashdex.com/web311"
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO BLUESTAR ALTERNATIVE MANAGERS FDO DE IND",
+        "nomeETF": "INVESTO PEVC",
+        "codigoETF": "PEVC",
+        "codigo": "PEVC11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "45295262000169",
+            "site": "https://investoetf.com/pevc11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO ETF GL VI GA & ES FDO INV DE ÍNDICE IE",
+        "nomeETF": "INVESTO JOGO",
+        "codigoETF": "JOGO",
+        "codigo": "JOGO11",
+        "quotaCount": "435675",
+        "quotaDateApproved": "14/12/2021",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "43105466000164",
+            "site": "brasil.bnpparibas/pt/"
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO ETF MARKETVECTOR BITCOIN BENCHMARK RATE",
+        "nomeETF": "INVESTO HODL",
+        "codigoETF": "HODL",
+        "codigo": "HODL11",
+        "quotaCount": "121144",
+        "quotaDateApproved": "31/01/2025",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "56158890000119",
+            "site": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO ETF MSCI REAL ESTATE ETF FDO INDICE - IE",
+        "nomeETF": "INVESTO ALUG",
+        "codigoETF": "ALUG",
+        "codigo": "ALUG11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "42280328000159",
+            "site": "brasil.bnpparibas/pt/"
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO ETF MSCI US TECHNOLOGY FDO INV IND INV EXT",
+        "nomeETF": "INVESTO USTK",
+        "codigoETF": "USTK",
+        "codigo": "USTK11",
+        "quotaCount": "5281074",
+        "quotaDateApproved": "27/07/2021",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "40751130000180",
+            "site": "www.bnpparibas.com.br"
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO ETF S&P SMALLCAP 600 VALUE FDO INV ÍND IE",
+        "nomeETF": "INVESTO SVAL",
+        "codigoETF": "SVAL",
+        "codigo": "SVAL11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "43210375000199",
+            "site": "https://investoetf.com/sval11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO ETF SOLACTIVE GOLD SPOT INDEX FND DE ÍND",
+        "nomeETF": "INVESTO GLDX",
+        "codigoETF": "GLDX",
+        "codigo": "GLDX11",
+        "quotaCount": "73483",
+        "quotaDateApproved": "04/07/2022",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "43210419000180",
+            "site": "https://investoetf.com/food11"
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO ETF US  LISTED SEMICONDUCTOR 25 INDEX",
+        "nomeETF": "INVESTO CHIP",
+        "codigoETF": "CHIP",
+        "codigo": "CHIP11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "42280376000147",
+            "site": "brasil.bnpparibas/pt/"
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO FTSE GLOBAL EQUITIES ETF FDO INDICE - IE",
+        "nomeETF": "INVESTO WRLD",
+        "codigoETF": "WRLD",
+        "codigo": "WRLD11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "42280262000105",
+            "site": "brasil.bnpparibas/pt/"
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO MARKETVECTOR BRAZIL DOMESTIC EXPOSURE ETF",
+        "nomeETF": "INVESTO BDOM",
+        "codigoETF": "BDOM",
+        "codigo": "BDOM11",
+        "quotaCount": "10000",
+        "quotaDateApproved": "30/08/2022",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "45823539000189",
+            "site": "https://brasil.bnpparibas/pt/"
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO MARKETVECTOR BRAZIL GLOBAL EXPOSURE ETF",
+        "nomeETF": "INVESTO BXPO",
+        "codigoETF": "BXPO",
+        "codigo": "BXPO11",
+        "quotaCount": "10000",
+        "quotaDateApproved": "30/08/2022",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "45814375000123",
+            "site": "https://brasil.bnpparibas/pt/"
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO MARKETVECTOR BRAZIL SMALL CAP VALUE ETF",
+        "nomeETF": "INVESTO SCVB",
+        "codigoETF": "SCVB",
+        "codigo": "SCVB11",
+        "quotaCount": "10000",
+        "quotaDateApproved": "30/08/2022",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "45814400000179",
+            "site": "https://brasil.bnpparibas/pt/mapa-do-site/"
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO S&P BIOTECH SEL INDUSTRY ETF FD INV IND IE",
+        "nomeETF": "INVESTO BTEK",
+        "codigoETF": "BTEK",
+        "codigo": "BTEK11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "42280298000180",
+            "site": "brasil.bnpparibas/pt/"
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO VANECK ETF MARKETVECTOR SMART CONTRACT LEA",
+        "nomeETF": "INVESTO BLOK",
+        "codigoETF": "BLOK",
+        "codigo": "BLOK11",
+        "quotaCount": "25000",
+        "quotaDateApproved": "20/06/2022",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "44106937000111",
+            "site": "https://investoetf.com/blok11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "INVESTO VANECK ETF MVIS CRYPTO COMPARE",
+        "nomeETF": "INVESTO NFTS",
+        "codigoETF": "NFTS",
+        "codigo": "NFTS11",
+        "quotaCount": "188680",
+        "quotaDateApproved": "01/04/2022",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "44107447000130",
+            "site": "https://investoetf.com/nfts11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES BMFBOVESPA SMALL CAP FUNDO DE ÍNDICE",
+        "nomeETF": "ISHARES SMAL",
+        "codigoETF": "SMAL",
+        "codigo": "SMAL11",
+        "quotaCount": "374516100",
+        "quotaDateApproved": "05/09/2023",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "10406600000108",
+            "site": "https://www.blackrock.com/br/products/251752/ishares-bmfbovespa-small-cap-fundo-de-ndice-fund"
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES IBOVESPA FUNDO DE ÍNDICE",
+        "nomeETF": "ISHARES BOVA",
+        "codigoETF": "BOVA",
+        "codigo": "BOVA11",
+        "quotaCount": "8815059524",
+        "quotaDateApproved": "03/12/2008",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "10406511000161",
+            "site": "https://www.blackrock.com/br/products/251816/ishares-ibovespa-fundo-de-ndice-fund"
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES IBRX - ÍNDICE BRASIL (IBRX-100) FDO ÍNDICE",
+        "nomeETF": "ISHARES BRAX",
+        "codigoETF": "BRAX",
+        "codigo": "BRAX11",
+        "quotaCount": "46440000",
+        "quotaDateApproved": "04/02/2010",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "11455378000104",
+            "site": "https://www.blackrock.com/br/products/251817/ishares-ibrxndice-brasil-ibrx100-fundo-de-ndice-fund"
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES ÍNDICE CARBONO EFIC. (ICO2) BRASIL-FDO ÍND",
+        "nomeETF": "ISHARES ECOO",
+        "codigoETF": "ECOO",
+        "codigo": "ECOO11",
+        "quotaCount": "4625860465",
+        "quotaDateApproved": "11/05/2012",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "15562377000101",
+            "site": "https://www.blackrock.com/br/products/251711/ishares-ndice-carbono-eficiente-ico2-brasil-fundo-de-ndice-fund"
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES S&P 500 FDO INV COTAS FDO INDICE",
+        "nomeETF": "ISHARE SP500",
+        "codigoETF": "IVVB",
+        "codigo": "IVVB11",
+        "quotaCount": "1",
+        "quotaDateApproved": "31/03/2014",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "19909560000191",
+            "site": "https://www.blackrock.com/br/products/251902/ishares-sp-500-fi-em-cotas-de-fundo-de-ndice-inv-no-exterior-fund"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW BLOOMBERG GALAXY BITCOIN FUNDO DE ÍNDICE",
+        "nomeETF": "ETF GALAXY B",
+        "codigoETF": "BITI",
+        "codigo": "BITI11",
+        "quotaCount": "405000",
+        "quotaDateApproved": "09/11/2022",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "38000706000126",
+            "site": "http://www.itnow.com.br/"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW IBOVESPA B3 BR+ FUN DE ÍNDICE – RES LIM",
+        "nomeETF": "IT NOW B3BR+",
+        "codigoETF": "B3BR",
+        "codigo": "B3BR11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "56211321000190",
+            "site": "https://www.itnow.com.br/"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW IBOVESPA FUNDO DE ÍNDICE",
+        "nomeETF": "IT NOW IBOV",
+        "codigoETF": "BOVV",
+        "codigo": "BOVV11",
+        "quotaCount": "8414375000",
+        "quotaDateApproved": "29/07/2016",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "21407758000119",
+            "site": "https://www.itnow.com.br/bovv11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW IDIV FUNDO DE ÍNDICE",
+        "nomeETF": "IT NOW IDIV",
+        "codigoETF": "DIVO",
+        "codigo": "DIVO11",
+        "quotaCount": "1314628571",
+        "quotaDateApproved": "31/01/2012",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "13416245000146",
+            "site": "https://www.itnow.com.br/divo11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW IDIV RENDA DIV FDO DE ÍNDICE – RESP LIMIT",
+        "nomeETF": "IT NOW DIVD",
+        "codigoETF": "DIVD",
+        "codigo": "DIVD11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "54314981000170",
+            "site": "https://www.itnow.com.br/nossos-etfs/renda-variavel/"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW IFNC FUNDO DE ÍNDICE",
+        "nomeETF": "IT NOW IFNC",
+        "codigoETF": "FIND",
+        "codigo": "FIND11",
+        "quotaCount": "5080526596",
+        "quotaDateApproved": "04/11/2010",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "11961094000181",
+            "site": "https://www.itnow.com.br/find11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW IGCT FUNDO DE ÍNDICE",
+        "nomeETF": "IT NOW IGCT",
+        "codigoETF": "GOVE",
+        "codigo": "GOVE11",
+        "quotaCount": "8179911111",
+        "quotaDateApproved": "03/10/2011",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "11184136000115",
+            "site": "https://www.itnow.com.br/gove11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW IMAT FUNDO DE ÍNDICE",
+        "nomeETF": "IT NOW IMAT",
+        "codigoETF": "MATB",
+        "codigo": "MATB11",
+        "quotaCount": "4092882716",
+        "quotaDateApproved": "31/01/2012",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "13416228000109",
+            "site": "https://www.itnow.com.br/matb11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW ISE FUNDO DE ÍNDICE",
+        "nomeETF": "IT NOW ISE",
+        "codigoETF": "ISUS",
+        "codigo": "ISUS11",
+        "quotaCount": "5876706349",
+        "quotaDateApproved": "03/10/2011",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "12984444000198",
+            "site": "https://www.itnow.com.br/isus11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW MORNINGSTAR US DIGITAL LIFESTYLE FDO. IND.",
+        "nomeETF": "DIGITAL LIFE",
+        "codigoETF": "MILL",
+        "codigo": "MILL11",
+        "quotaCount": "100000",
+        "quotaDateApproved": "11/05/2021",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "41054489000161",
+            "site": "www.itnow.com.br"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW MORNINGSTAR XT US HEALTHCARE FDO. IND.",
+        "nomeETF": "IT NOW HCARE",
+        "codigoETF": "HTEK",
+        "codigo": "HTEK11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "41054515000151",
+            "site": "www.itnow.com.br/HTEK11"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW NYSE FANG+TM FUNDO DE ÍNDICE",
+        "nomeETF": "IT NOW TECK",
+        "codigoETF": "TECK",
+        "codigo": "TECK11",
+        "quotaCount": "10552792",
+        "quotaDateApproved": "30/07/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "38354844000103",
+            "site": "www.itnow.com.br/TECK11"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW PIBB IBRX-50 - FUNDO DE ÍNDICE",
+        "nomeETF": "IT NOW PIBB",
+        "codigoETF": "PIBB",
+        "codigo": "PIBB11",
+        "quotaCount": "4627906250",
+        "quotaDateApproved": "03/12/2008",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "06323688000127",
+            "site": "https://www.itnow.com.br/pibb11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW RUSSELL® 1000 GREEN REVENUES 50 FDO DE IND",
+        "nomeETF": "IT NOW GREEN",
+        "codigoETF": "REVE",
+        "codigo": "REVE11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "41054432000162",
+            "site": "www.itau.com.br"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW S&P 500 FUTURES QUANTO BRL FUNDO DE ÍNDICE",
+        "nomeETF": "IT NOW SP BR",
+        "codigoETF": "SPXR",
+        "codigo": "SPXR11",
+        "quotaCount": "3650000",
+        "quotaDateApproved": "18/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "58022660000153",
+            "site": "https://www.itnow.com.br/"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW S&P® KENSHO® HYDROGEN FUNDO DE ÍNDICE",
+        "nomeETF": "IT NOW HYDRO",
+        "codigoETF": "YDRO",
+        "codigo": "YDRO11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "42264597000121",
+            "site": "WWW.ITAU.COM.BR"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW S&P500 TRN FUNDO DE INDICE",
+        "nomeETF": "IT NOW SPXI",
+        "codigoETF": "SPXI",
+        "codigo": "SPXI11",
+        "quotaCount": "1",
+        "quotaDateApproved": "02/10/2014",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "17036289000100",
+            "site": "https://www.itnow.com.br/spxi11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "IT NOW SMALL CAPS FDO ÍNDICE",
+        "nomeETF": "IT NOW SMALL",
+        "codigoETF": "SMAC",
+        "codigo": "SMAC11",
+        "quotaCount": "2000000",
+        "quotaDateApproved": "23/01/2020",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "34803814000186",
+            "site": "https://www.itnow.com.br/smac11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "MORNINGSTAR SETORES CÍCLICOS BRASIL FDO IND",
+        "nomeETF": "B INDEX CICL",
+        "codigoETF": "BCIC",
+        "codigo": "BCIC11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "48643170000110",
+            "site": "www.bradescoasset.com.br/SiteBram/ptbr/ETF-BCIC11"
+        }
+    },
+    {
+        "nomeCompletoETF": "NU IBOV B3 BR + CL DE IND IBOV B3 B3 BR+ RESP LIM",
+        "nomeETF": "NUIBOVBRMAIS",
+        "codigoETF": "NBOV",
+        "codigo": "NBOV11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "56107650000195",
+            "site": "https://brasil.bnpparibas/pt/"
+        }
+    },
+    {
+        "nomeCompletoETF": "NU IBOV SMART DIVIDENDOS FUNDO DE ÍNDICE",
+        "nomeETF": "NU IBOV DIV",
+        "codigoETF": "NSDV",
+        "codigo": "NSDV11",
+        "quotaCount": "100000",
+        "quotaDateApproved": "29/09/2023",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "52116361000100",
+            "site": "https://www.nuasset.nu/etfs/nsdv11"
+        }
+    },
+    {
+        "nomeCompletoETF": "NU IBOV SMART HIGH BETA B3",
+        "nomeETF": "NUIBOVHIGHBT",
+        "codigoETF": "HIGH",
+        "codigo": "HIGH11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "55705611000127",
+            "site": "https://brasil.bnpparibas/pt/"
+        }
+    },
+    {
+        "nomeCompletoETF": "NU IBOV SMART LOW VOLATILITY B3",
+        "nomeETF": "NUIBOVLOWVOL",
+        "codigoETF": "LVOL",
+        "codigo": "LVOL11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "55705668000126",
+            "site": "https://brasil.bnpparibas/pt/"
+        }
+    },
+    {
+        "nomeCompletoETF": "NU RENDA IBOV SMART DIVIDENDOS FUNDO DE ÍNDICE",
+        "nomeETF": "NU REND IBOV",
+        "codigoETF": "NDIV",
+        "codigo": "NDIV11",
+        "quotaCount": "10000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "52116337000162",
+            "site": "https://www.nuasset.nu/etfs/ndiv11"
+        }
+    },
+    {
+        "nomeCompletoETF": "QR BLOOMBERG DEFI FDO DE ÍNDICE – INV NO EXTERIOR",
+        "nomeETF": "QR DEFI",
+        "codigoETF": "QDFI",
+        "codigo": "QDFI11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "42682790000182",
+            "site": "qrasset-homolog.netlify.app/qdfi11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "QR CME CF BITCOIN REFERENCE RATE FDO. IND. INV. EX",
+        "nomeETF": "QR BITCOIN",
+        "codigoETF": "QBTC",
+        "codigo": "QBTC11",
+        "quotaCount": "10415593",
+        "quotaDateApproved": "16/03/2021",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "39979022000180",
+            "site": "https://qrasset.com.br/qbtc11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "QR CME CF ETHER REFERENCE RATE FDO DE IND IE",
+        "nomeETF": "QR ETHER",
+        "codigoETF": "QETH",
+        "codigo": "QETH11",
+        "quotaCount": "8000000",
+        "quotaDateApproved": "03/08/2021",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "41706298000137",
+            "site": "vortx.com.br"
+        }
+    },
+    {
+        "nomeCompletoETF": "QR CME CF SOLANA D. R. R. F. DE Í. I. NO E. R. LIM",
+        "nomeETF": "QR SOLANA",
+        "codigoETF": "QSOL",
+        "codigo": "QSOL11",
+        "quotaCount": "1509975",
+        "quotaDateApproved": "28/08/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "56043036000107",
+            "site": "https://qrasset.com.br/qsol11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "SAFRA ETF IBOV EMP PRIVADAS FDO DE IND - RESP LIM",
+        "nomeETF": "SAFRAIBOVPVT",
+        "codigoETF": "SPVT",
+        "codigo": "SPVT11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "57091195000140",
+            "site": "https://www.safra.com.br/safra-asset/etf/spvt11.htm"
+        }
+    },
+    {
+        "nomeCompletoETF": "SAFRA ETF IBOVESPA EMPRESAS ESTATAIS FUN DE INDICE",
+        "nomeETF": "SAFRAIBOVEST",
+        "codigoETF": "SPUB",
+        "codigo": "SPUB11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "57091257000113",
+            "site": "https://www.safra.com.br/safra-asset/etf/spub11.htm"
+        }
+    },
+    {
+        "nomeCompletoETF": "SAFRA ETF MULHE NA LIDER FDO DE ÍND AÇÕES RESP LIM",
+        "nomeETF": "SAFRAETFELAS",
+        "codigoETF": "ELAS",
+        "codigo": "ELAS11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "43210658000130",
+            "site": "www.safra.com.br/safra-asset/etf/elas11"
+        }
+    },
+    {
+        "nomeCompletoETF": "SAFRA IBOVESPA FUNDO DE ÍNDICE - RESPONS LTDA.",
+        "nomeETF": "SAFRAETFIBOV",
+        "codigoETF": "BOVS",
+        "codigo": "BOVS11",
+        "quotaCount": "100000",
+        "quotaDateApproved": "16/04/2021",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "38350645000127",
+            "site": "www.safra.com.br"
+        }
+    },
+    {
+        "nomeCompletoETF": "TREND ETF BLOOMBERG ALL COUNTRIES FUNDO ÍNDICE",
+        "nomeETF": "TREND ACWI",
+        "codigoETF": "ACWI",
+        "codigo": "ACWI11",
+        "quotaCount": "7871947",
+        "quotaDateApproved": "19/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "38542889000101",
+            "site": "www.xpasset.com.br/etfs/acwi11"
+        }
+    },
+    {
+        "nomeCompletoETF": "TREND ETF BLOOMBERG CHINA F ÍND INV EXT",
+        "nomeETF": "TREND CHINA",
+        "codigoETF": "XINA",
+        "codigo": "XINA11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "38542870000165",
+            "site": "https://www.xpasset.com.br/etfs/xina11"
+        }
+    },
+    {
+        "nomeCompletoETF": "TREND ETF BLOOMBERG US 3000 TECHNOLOGY CLASSE",
+        "nomeETF": "TREND US TEC",
+        "codigoETF": "UTEC",
+        "codigo": "UTEC11",
+        "quotaCount": "5000000",
+        "quotaDateApproved": "26/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "40952802000116",
+            "site": "https://www.xpasset.com.br/etfs/utec11"
+        }
+    },
+    {
+        "nomeCompletoETF": "TREND ETF CRSP U.S. LARGE CAP FDO INV IND",
+        "nomeETF": "TREND US LRG",
+        "codigoETF": "USAL",
+        "codigo": "USAL11",
+        "quotaCount": "35594898",
+        "quotaDateApproved": "04/09/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "42101885000165",
+            "site": "www.xpasset.com.br/etfs/usal11"
+        }
+    },
+    {
+        "nomeCompletoETF": "TREND ETF FTSE US REITS FUNDO DE INVEST DE ÍNDICE",
+        "nomeETF": "TREND U REIT",
+        "codigoETF": "URET",
+        "codigo": "",
+        "quotaCount": "100000",
+        "quotaDateApproved": "18/02/2022",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "40955945000181",
+            "site": "www.xpasset.com.br/etfs/uret11"
+        }
+    },
+    {
+        "nomeCompletoETF": "TREND ETF IBOVESPA FUNDO DE ÍNDICE",
+        "nomeETF": "TREND IBOVX",
+        "codigoETF": "BOVX",
+        "codigo": "BOVX11",
+        "quotaCount": "44821544",
+        "quotaDateApproved": "18/05/2023",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "40155573000109",
+            "site": "https://www.xpasset.com.br/etfs/bovx11"
+        }
+    },
+    {
+        "nomeCompletoETF": "TREND ETF IFIX-L FUNDO DE ÍNDICE - INVEST EXTERIOR",
+        "nomeETF": "TREND IFIX-L",
+        "codigoETF": "XFIX",
+        "codigo": "XFIX11",
+        "quotaCount": "2000000",
+        "quotaDateApproved": "21/09/2020",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "36046508000178",
+            "site": "www.xpasset.com.br/etfs/xfix11/"
+        }
+    },
+    {
+        "nomeCompletoETF": "TREND ETF LBMA OURO FDO. ÍNDICE - INVEST. EXT",
+        "nomeETF": "TREND OURO",
+        "codigoETF": "GOLD",
+        "codigo": "GOLD11",
+        "quotaCount": "50000000",
+        "quotaDateApproved": "19/12/2024",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "37985763000149",
+            "site": "www.bnpparibas.com.br"
+        }
+    },
+    {
+        "nomeCompletoETF": "TREND ETF MSCI USA ESG FDO DE INV DE ÍNDICE-IE IS",
+        "nomeETF": "TREND ESG US",
+        "codigoETF": "ESGU",
+        "codigo": "",
+        "quotaCount": "200000",
+        "quotaDateApproved": "13/10/2021",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "40953254000149",
+            "site": "www.brasil.bnpparibas/pt/"
+        }
+    },
+    {
+        "nomeCompletoETF": "TREND ETF NASDAQ 100 FDO. ÍNDICE. INV. EXT. - IE",
+        "nomeETF": "TREND NASDAQ",
+        "codigoETF": "NASD",
+        "codigo": "NASD11",
+        "quotaCount": "20000",
+        "quotaDateApproved": "31/03/2021",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações",
+        "informacoes": {
+            "cnpj": "35578672000163",
+            "site": "www.bnpparibas.com.br"
+        }
+    }
+]

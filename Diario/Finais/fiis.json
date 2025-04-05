@@ -1,0 +1,6386 @@
+[
+  {
+    "nome": "FII AFHI CRI",
+    "nomeCompleto": "AF INVEST CRI FDO. INV. IMOB - RECEBÍVEIS IMOB.",
+    "cnpj": "36642293000158",
+    "dataInicio": "16/07/2024",
+    "quotaCount": "4555618",
+    "codigos": [
+      {
+        "codigo": "AFHI11",
+        "preco": 91.72,
+        "precoAnterior": 92.14,
+        "variacao": -0.46
+      }
+    ]
+  },
+  {
+    "nome": "FII AJ MALLS",
+    "nomeCompleto": "AJ MALLS FDO DE INV IMOB",
+    "cnpj": "51472985000199",
+    "dataInicio": "03/11/2023",
+    "quotaCount": "31625978",
+    "codigos": [
+      {
+        "codigo": "AJFI11",
+        "preco": 7.31,
+        "precoAnterior": 7.3,
+        "variacao": 0.14
+      }
+    ]
+  },
+  {
+    "nome": "FII ALIANZAC",
+    "nomeCompleto": "ALIANZA CRÉDITO  IMOB FUND DE INVEST IMOB RESP LIM",
+    "cnpj": "40011324000140",
+    "dataInicio": "10/02/2025",
+    "quotaCount": "2005023",
+    "codigos": [
+      {
+        "codigo": "ALZC11",
+        "preco": 79.2,
+        "precoAnterior": 79.99,
+        "variacao": -0.99
+      }
+    ]
+  },
+  {
+    "nome": "FII MULT OF1",
+    "nomeCompleto": "ALIANZA MULTIOFFICES  - FDO. INV. IMOB",
+    "cnpj": "22862226000134",
+    "dataInicio": "29/05/2023",
+    "quotaCount": "1793000",
+    "codigos": [
+      {
+        "codigo": "MTOF11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII ALIANZA",
+    "nomeCompleto": "ALIANZA TRUST RENDA IMOBILIARIA FDO INV IMOB",
+    "cnpj": "28737771000185",
+    "dataInicio": "15/05/2024",
+    "quotaCount": "12226625",
+    "codigos": [
+      {
+        "codigo": "ALZR11",
+        "preco": 96.69,
+        "precoAnterior": 97.1,
+        "variacao": -0.42
+      }
+    ]
+  },
+  {
+    "nome": "FII ALI URB",
+    "nomeCompleto": "ALIANZA URBAN HUB RENDA FUNDO DE INVESTIMENTO IMOB",
+    "cnpj": "41076823000188",
+    "dataInicio": "02/01/2024",
+    "quotaCount": "880559",
+    "codigos": [
+      {
+        "codigo": "AURB11",
+        "preco": 85,
+        "precoAnterior": 85,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII APXR",
+    "nomeCompleto": "APEX REALTY FDO DE INV IMOB  RESP LTDA",
+    "cnpj": "52446271000179",
+    "dataInicio": "06/05/2024",
+    "quotaCount": "109567",
+    "codigos": [
+      {
+        "codigo": "APXR11",
+        "preco": 99.99,
+        "precoAnterior": 99.99,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII AUTONOMY",
+    "nomeCompleto": "ARCH EDIFÍCIOS CORPORATIVOS FII - RES LTDA.",
+    "cnpj": "35765826000126",
+    "dataInicio": "10/12/2021",
+    "quotaCount": "4824987",
+    "codigos": [
+      {
+        "codigo": "AIEC11",
+        "preco": 45.3,
+        "precoAnterior": 45.39,
+        "variacao": -0.2
+      }
+    ]
+  },
+  {
+    "nome": "FII AROA",
+    "nomeCompleto": "AROEIRA 333 RENDA LOGÍSTICA FDO DE INV IMOB",
+    "cnpj": "44674528000111",
+    "dataInicio": "11/12/2023",
+    "quotaCount": "201000000",
+    "codigos": [
+      {
+        "codigo": "AROA11",
+        "preco": 0.99,
+        "precoAnterior": 0.97,
+        "variacao": 2.06
+      }
+    ]
+  },
+  {
+    "nome": "FII EIRA",
+    "nomeCompleto": "AROEIRA FII – RESPONSABILIDADE LIMITADA",
+    "cnpj": "59202651000107",
+    "dataInicio": "17/03/2025",
+    "quotaCount": "200000",
+    "codigos": [
+      {
+        "codigo": "EIRA11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII ARXD R",
+    "nomeCompleto": "ARX DOVER RECEBÍVEIS FDO DE INV IMOB",
+    "cnpj": "44527494000132",
+    "dataInicio": "24/10/2024",
+    "quotaCount": "9011170",
+    "codigos": [
+      {
+        "codigo": "ARXD11",
+        "preco": 7.45,
+        "precoAnterior": 7.51,
+        "variacao": -0.8
+      }
+    ]
+  },
+  {
+    "nome": "FII AZPE",
+    "nomeCompleto": "AZ QUEST PANORAMA CRÉDITO ESTRUTURADO FII RESP LTD",
+    "cnpj": "55985307000180",
+    "dataInicio": "20/12/2024",
+    "quotaCount": "12500000",
+    "codigos": [
+      {
+        "codigo": "AZPE11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII AZPL",
+    "nomeCompleto": "AZ QUEST PANORAMA LOGISTICA FDO INV IMOB RESP LIM",
+    "cnpj": "51890054000100",
+    "dataInicio": "05/07/2024",
+    "quotaCount": "18209646",
+    "codigos": [
+      {
+        "codigo": "AZPL11",
+        "preco": 7.17,
+        "precoAnterior": 7.17,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BEES CRI",
+    "nomeCompleto": "BANESTES RECEBÍVEIS IMOBILIÁRIOS FDO INV IMOB  FII",
+    "cnpj": "22219335000138",
+    "dataInicio": "22/07/2021",
+    "quotaCount": "6257873",
+    "codigos": [
+      {
+        "codigo": "BCRI11",
+        "preco": 65.61,
+        "precoAnterior": 65.87,
+        "variacao": -0.39
+      }
+    ]
+  },
+  {
+    "nome": "FII BANRISUL",
+    "nomeCompleto": "BANRISUL NOVAS FRONTEIRAS FDO INV IMOB - FII",
+    "cnpj": "15570431000160",
+    "dataInicio": "19/07/2012",
+    "quotaCount": "700000",
+    "codigos": [
+      {
+        "codigo": "BNFS11",
+        "preco": 69.72,
+        "precoAnterior": 69.79,
+        "variacao": -0.1
+      }
+    ]
+  },
+  {
+    "nome": "FII BR MALLS",
+    "nomeCompleto": "BARRA MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "36501210000100",
+    "dataInicio": "10/04/2023",
+    "quotaCount": "1135160",
+    "codigos": [
+      {
+        "codigo": "BTML11",
+        "preco": 111.28,
+        "precoAnterior": 111.28,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BB PROGR",
+    "nomeCompleto": "BB FDO INV IMOB PROGRESSIVO",
+    "cnpj": "07000400000146",
+    "dataInicio": "05/10/2004",
+    "quotaCount": "130000",
+    "codigos": [
+      {
+        "codigo": "BBFI11",
+        "preco": 295,
+        "precoAnterior": 300,
+        "variacao": -1.67
+      }
+    ]
+  },
+  {
+    "nome": "FII BB FOF",
+    "nomeCompleto": "BB FUNDO DE FUNDOS - FDO. INV. IMOB.",
+    "cnpj": "37180091000102",
+    "dataInicio": "05/01/2021",
+    "quotaCount": "4003900",
+    "codigos": [
+      {
+        "codigo": "BBFO11",
+        "preco": 59.5,
+        "precoAnterior": 59.3,
+        "variacao": 0.34
+      }
+    ]
+  },
+  {
+    "nome": "FII BBIG",
+    "nomeCompleto": "BB PREMIUM MALLS FDO DE INV IMOB RESP LIM",
+    "cnpj": "54375187000137",
+    "dataInicio": "02/05/2024",
+    "quotaCount": "99120994",
+    "codigos": [
+      {
+        "codigo": "BBIG11",
+        "preco": 6.99,
+        "precoAnterior": 7,
+        "variacao": -0.14
+      }
+    ]
+  },
+  {
+    "nome": "FII BB CORP",
+    "nomeCompleto": "BB RENDA CORPORATIVA FDO INV IMOB - FII",
+    "cnpj": "12681340000104",
+    "dataInicio": "14/06/2011",
+    "quotaCount": "1590000",
+    "codigos": [
+      {
+        "codigo": "BBRC11",
+        "preco": 105.59,
+        "precoAnterior": 104.94,
+        "variacao": 0.62
+      }
+    ]
+  },
+  {
+    "nome": "FII BGRB",
+    "nomeCompleto": "BGR B32 FUNDO DE INVEST IMOB RESP LIM",
+    "cnpj": "57216258000147",
+    "dataInicio": "06/01/2025",
+    "quotaCount": "1500500",
+    "codigos": [
+      {
+        "codigo": "BGRB11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII BLOG",
+    "nomeCompleto": "BLUECAP LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "49592781000140",
+    "dataInicio": "02/12/2024",
+    "quotaCount": "23562047",
+    "codigos": [
+      {
+        "codigo": "BLOG11",
+        "preco": 10.38,
+        "precoAnterior": 10.38,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BLUE LOG",
+    "nomeCompleto": "BLUEMACAW LOGÍSTICA FDO. INVEST. IMOB.",
+    "cnpj": "34081637000171",
+    "dataInicio": "17/11/2023",
+    "quotaCount": "4268807",
+    "codigos": [
+      {
+        "codigo": "BLMG11",
+        "preco": 31.2,
+        "precoAnterior": 30.86,
+        "variacao": 1.1
+      }
+    ]
+  },
+  {
+    "nome": "FII BCIA",
+    "nomeCompleto": "BRADESCO CARTEIRA IMOBILIÁRIA ATIVA - FII",
+    "cnpj": "20216935000117",
+    "dataInicio": "31/08/2020",
+    "quotaCount": "3719038",
+    "codigos": [
+      {
+        "codigo": "BCIA11",
+        "preco": 82.51,
+        "precoAnterior": 82.76,
+        "variacao": -0.3
+      }
+    ]
+  },
+  {
+    "nome": "FII DEA CARE",
+    "nomeCompleto": "BRAZILIAN GRAVEYARD DEATH CARE FDO INV IMOB - FII",
+    "cnpj": "13584584000131",
+    "dataInicio": "11/04/2022",
+    "quotaCount": "35769919",
+    "codigos": [
+      {
+        "codigo": "CARE11",
+        "preco": 1.37,
+        "precoAnterior": 1.37,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RTEL",
+    "nomeCompleto": "BRC - II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "43862625000175",
+    "dataInicio": "08/08/2024",
+    "quotaCount": "347200",
+    "codigos": [
+      {
+        "codigo": "RTEL15",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "RTEL16",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII ATHENA I",
+    "nomeCompleto": "BRC RENDA CORPORATIVA FII",
+    "cnpj": "30567216000102",
+    "dataInicio": "19/12/2024",
+    "quotaCount": "4234552",
+    "codigos": [
+      {
+        "codigo": "FATN11",
+        "preco": 75.65,
+        "precoAnterior": 75.94,
+        "variacao": -0.38
+      }
+    ]
+  },
+  {
+    "nome": "FII BRESCO",
+    "nomeCompleto": "BRESCO LOGÍSTICA - FDO INV IMOB",
+    "cnpj": "20748515000181",
+    "dataInicio": "18/03/2024",
+    "quotaCount": "15905133",
+    "codigos": [
+      {
+        "codigo": "BRCO11",
+        "preco": 104.44,
+        "precoAnterior": 104.71,
+        "variacao": -0.26
+      }
+    ]
+  },
+  {
+    "nome": "FII BRIO CRE",
+    "nomeCompleto": "BRIO CRÉDITO ESTRUTURADO - FDO. INVEST. IMOB.",
+    "cnpj": "39332032000120",
+    "dataInicio": "23/12/2024",
+    "quotaCount": "133414",
+    "codigos": [
+      {
+        "codigo": "BICE11",
+        "preco": 899,
+        "precoAnterior": 899,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BRIO ME",
+    "nomeCompleto": "BRIO MULTIESTRATÉGIA FDO INV IMOB",
+    "cnpj": "41081356000184",
+    "dataInicio": "16/09/2021",
+    "quotaCount": "5845602",
+    "codigos": [
+      {
+        "codigo": "BIME11",
+        "preco": 6.9,
+        "precoAnterior": 6.92,
+        "variacao": -0.29
+      }
+    ]
+  },
+  {
+    "nome": "FII BRIO II",
+    "nomeCompleto": "BRIO REAL ESTATE II - FDO INV IMOB",
+    "cnpj": "23964843000103",
+    "dataInicio": "26/04/2019",
+    "quotaCount": "77975",
+    "codigos": [
+      {
+        "codigo": "BRIM11",
+        "preco": 578,
+        "precoAnterior": 578,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BRIO III",
+    "nomeCompleto": "BRIO REAL ESTATE III FDO DE INVEST. IMOB.",
+    "cnpj": "34895752000180",
+    "dataInicio": "30/11/2022",
+    "quotaCount": "206474",
+    "codigos": [
+      {
+        "codigo": "BRIP11",
+        "preco": 849,
+        "precoAnterior": 849,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BRIO IV",
+    "nomeCompleto": "BRIO REAL ESTATE IV – FUNDO DE INVESTIMENTO IMOB",
+    "cnpj": "42869892000101",
+    "dataInicio": "09/12/2024",
+    "quotaCount": "105377",
+    "codigos": [
+      {
+        "codigo": "BIPD11",
+        "preco": 988.17,
+        "precoAnterior": 988.17,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BRIO V",
+    "nomeCompleto": "BRIO REAL ESTATE V - FII",
+    "cnpj": "51817522000111",
+    "dataInicio": "09/12/2024",
+    "quotaCount": "27016",
+    "codigos": [
+      {
+        "codigo": "BIPE11",
+        "preco": 1000,
+        "precoAnterior": 1000,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BRIX",
+    "nomeCompleto": "BRIX FUND INV IMOBILIÁRIO - RESP LIMITADA",
+    "cnpj": "35360651000177",
+    "dataInicio": "05/02/2025",
+    "quotaCount": "118735",
+    "codigos": [
+      {
+        "codigo": "BRIX11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BRIX15",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "BRIX16",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII BROF",
+    "nomeCompleto": "BRPR CORPORATE OFFICES FDO DE INV IMOB RESP. LTDA.",
+    "cnpj": "48978859000104",
+    "dataInicio": "06/02/2023",
+    "quotaCount": "11610812",
+    "codigos": [
+      {
+        "codigo": "BROF11",
+        "preco": 48.65,
+        "precoAnterior": 48.3,
+        "variacao": 0.72
+      }
+    ]
+  },
+  {
+    "nome": "FII BS2",
+    "nomeCompleto": "BS2 ALLINVESTMENTS FDO DE INV IMOB",
+    "cnpj": "41218404000133",
+    "dataInicio": "29/07/2022",
+    "quotaCount": "361140",
+    "codigos": [
+      {
+        "codigo": "LLAO11",
+        "preco": 64.58,
+        "precoAnterior": 64.58,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "BTG HOTEL FI",
+    "nomeCompleto": "BTG PACTUAL HOTÉIS FII RESP LIM",
+    "cnpj": "18308516000163",
+    "dataInicio": "06/09/2023",
+    "quotaCount": "9218512",
+    "codigos": [
+      {
+        "codigo": "BTHI11",
+        "preco": 39.87,
+        "precoAnterior": 40.01,
+        "variacao": -0.35
+      }
+    ]
+  },
+  {
+    "nome": "FII BTLG",
+    "nomeCompleto": "BTG PACTUAL LOGISTICA FDO INV IMOB RESP LIM",
+    "cnpj": "11839593000109",
+    "dataInicio": "30/01/2024",
+    "quotaCount": "43249151",
+    "codigos": [
+      {
+        "codigo": "BTLG11",
+        "preco": 97.49,
+        "precoAnterior": 97.37,
+        "variacao": 0.12
+      }
+    ]
+  },
+  {
+    "nome": "FII BTHF",
+    "nomeCompleto": "BTG PACTUAL REAL ESTATE HEDGE FUND FII - RESP LTDA",
+    "cnpj": "45188176000157",
+    "dataInicio": "13/12/2024",
+    "quotaCount": "205846940",
+    "codigos": [
+      {
+        "codigo": "BTHF11",
+        "preco": 7.75,
+        "precoAnterior": 7.74,
+        "variacao": 0.13
+      }
+    ]
+  },
+  {
+    "nome": "FII BTYU",
+    "nomeCompleto": "BTG PACTUAL YOU INC. DESENV. IMOB. FII RESP LIM",
+    "cnpj": "54645216000133",
+    "dataInicio": "15/10/2024",
+    "quotaCount": "30000000",
+    "codigos": [
+      {
+        "codigo": "BTYU11",
+        "preco": 10.5,
+        "precoAnterior": 10.5,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BTOWERS",
+    "nomeCompleto": "BTOWERS FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "20132453000189",
+    "dataInicio": "08/06/2021",
+    "quotaCount": "809269",
+    "codigos": [
+      {
+        "codigo": "BTWR11",
+        "preco": 105.49,
+        "precoAnterior": 105.49,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BTSP I",
+    "nomeCompleto": "BTSP I FDO. INVEST. IMOB - FII",
+    "cnpj": "36098375000183",
+    "dataInicio": "02/07/2021",
+    "quotaCount": "775015",
+    "codigos": [
+      {
+        "codigo": "BTSG11",
+        "preco": 159.05,
+        "precoAnterior": 159.05,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BTSP II",
+    "nomeCompleto": "BTSP II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "36930464000144",
+    "dataInicio": "13/12/2023",
+    "quotaCount": "4209640",
+    "codigos": [
+      {
+        "codigo": "BTSI11",
+        "preco": 111.6,
+        "precoAnterior": 111.6,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CX RBRA2",
+    "nomeCompleto": "CAIXA RIO BRAVO FDO DE FDOS INV IMOB II",
+    "cnpj": "31887401000139",
+    "dataInicio": "08/10/2018",
+    "quotaCount": "690040",
+    "codigos": [
+      {
+        "codigo": "CRFF11",
+        "preco": 69.47,
+        "precoAnterior": 69.47,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CX RBRAV",
+    "nomeCompleto": "CAIXA RIO BRAVO FUNDO DE FDO INV IMOB - FII",
+    "cnpj": "17098794000170",
+    "dataInicio": "09/09/2020",
+    "quotaCount": "1575760",
+    "codigos": [
+      {
+        "codigo": "CXRI11",
+        "preco": 62.29,
+        "precoAnterior": 62.34,
+        "variacao": -0.08
+      }
+    ]
+  },
+  {
+    "nome": "FII CANUMA",
+    "nomeCompleto": "CANUMA CAPITAL MULTI FDO DE INV IMOB RESP LIM",
+    "cnpj": "43010844000126",
+    "dataInicio": "26/04/2024",
+    "quotaCount": "67797053",
+    "codigos": [
+      {
+        "codigo": "CCME11",
+        "preco": 8.81,
+        "precoAnterior": 8.81,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CCVA",
+    "nomeCompleto": "CANUMA CAPITAL RENDA VAREJO FDO INV RESP LIMIT",
+    "cnpj": "52713882000136",
+    "dataInicio": "10/07/2024",
+    "quotaCount": "617500",
+    "codigos": [
+      {
+        "codigo": "CCVA11",
+        "preco": 100.07,
+        "precoAnterior": 100.07,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CPHBC UR",
+    "nomeCompleto": "CAPITÂNIA HBC RENDA URBANA FDO INV IMOB RESP LTDA.",
+    "cnpj": "34691520000100",
+    "dataInicio": "08/10/2024",
+    "quotaCount": "41742438",
+    "codigos": [
+      {
+        "codigo": "CPUR11",
+        "preco": 10.24,
+        "precoAnterior": 10.24,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CPLG",
+    "nomeCompleto": "CAPITÂNIA LOGÍSTICA FDO DE INV IMOB",
+    "cnpj": "52371756000140",
+    "dataInicio": "06/12/2024",
+    "quotaCount": "34345220",
+    "codigos": [
+      {
+        "codigo": "CPLG11",
+        "preco": 11.13,
+        "precoAnterior": 11.13,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CPOF",
+    "nomeCompleto": "CAPITÂNIA OFFICE FII - FDO DE INV IMOB",
+    "cnpj": "48916699000160",
+    "dataInicio": "10/05/2024",
+    "quotaCount": "2820016",
+    "codigos": [
+      {
+        "codigo": "CPOF11",
+        "preco": 108.5,
+        "precoAnterior": 108.5,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CAP REIT",
+    "nomeCompleto": "CAPITÂNIA REIT FOF - FDO. INVEST. IMOB",
+    "cnpj": "34081611000123",
+    "dataInicio": "27/10/2022",
+    "quotaCount": "2553074",
+    "codigos": [
+      {
+        "codigo": "CPFF11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII CAPI SEC",
+    "nomeCompleto": "CAPITANIA SECURITIES II FDO INV IMOB - RESP LTDA.",
+    "cnpj": "18979895000113",
+    "dataInicio": "04/09/2023",
+    "quotaCount": "317828140",
+    "codigos": [
+      {
+        "codigo": "CPTS11",
+        "preco": 7.2,
+        "precoAnterior": 7.2,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CPSH",
+    "nomeCompleto": "CAPITÂNIA SHOPPINGS FUND INV IMOB - RESPONS LTDA.",
+    "cnpj": "47896665000199",
+    "dataInicio": "30/09/2024",
+    "quotaCount": "79699818",
+    "codigos": [
+      {
+        "codigo": "CPSH11",
+        "preco": 9.01,
+        "precoAnterior": 9.01,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "CARTESIA FII",
+    "nomeCompleto": "CARTESIA RECEBÍVEIS IMOBILIÁRIOS - FUNDO DE INVEST",
+    "cnpj": "32065364000146",
+    "dataInicio": "21/05/2024",
+    "quotaCount": "4836324",
+    "codigos": [
+      {
+        "codigo": "CACR11",
+        "preco": 94.09,
+        "precoAnterior": 93.59,
+        "variacao": 0.53
+      }
+    ]
+  },
+  {
+    "nome": "FII CBOP PAX",
+    "nomeCompleto": "CASTELLO BRANCO OFFICE PARK FII - FII RESPONS LTDA",
+    "cnpj": "17144039000185",
+    "dataInicio": "16/04/2018",
+    "quotaCount": "1415000",
+    "codigos": [
+      {
+        "codigo": "CBOP11",
+        "preco": 21.3,
+        "precoAnterior": 21.3,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BLCA VBI",
+    "nomeCompleto": "CATUAÍ VBI TRIPLE A FDO DE INV IMOB",
+    "cnpj": "41076748000155",
+    "dataInicio": "23/08/2021",
+    "quotaCount": "1600000",
+    "codigos": [
+      {
+        "codigo": "BLCA11",
+        "preco": 87,
+        "precoAnterior": 87,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CENESP",
+    "nomeCompleto": "CENESP FUNDO DE INVEST IMOB RESP LIM",
+    "cnpj": "13551286000145",
+    "dataInicio": "27/02/2024",
+    "quotaCount": "34134825",
+    "codigos": [
+      {
+        "codigo": "CNES11",
+        "preco": 1.09,
+        "precoAnterior": 1.09,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CENU",
+    "nomeCompleto": "CENU - FDO DE INV IMOB",
+    "cnpj": "37899356000119",
+    "dataInicio": "19/01/2024",
+    "quotaCount": "1139780",
+    "codigos": [
+      {
+        "codigo": "CENU11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII CF2",
+    "nomeCompleto": "CF2 FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "34508923000170",
+    "dataInicio": "15/06/2023",
+    "quotaCount": "94600",
+    "codigos": [
+      {
+        "codigo": "CFHI11",
+        "preco": 626.2,
+        "precoAnterior": 626.2,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CF3 IMOB",
+    "nomeCompleto": "CF3 FUNDO DE INVESTIMENTO IMOBILIÁRIO – FII",
+    "cnpj": "41325993000159",
+    "dataInicio": "29/01/2025",
+    "quotaCount": "104619",
+    "codigos": [
+      {
+        "codigo": "CFII11",
+        "preco": 1000,
+        "precoAnterior": 1000,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CJCTOWER",
+    "nomeCompleto": "CIDADE JARDIM CONTINENAL TOWER FDO INV IMOB",
+    "cnpj": "10347985000180",
+    "dataInicio": "26/09/2022",
+    "quotaCount": "3140000",
+    "codigos": [
+      {
+        "codigo": "CJCT11",
+        "preco": 56.99,
+        "precoAnterior": 56.99,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CLAVE IN",
+    "nomeCompleto": "CLAVE ÍNDICES DE PREÇOS FDO DE INV IMOB",
+    "cnpj": "49005348000160",
+    "dataInicio": "30/10/2023",
+    "quotaCount": "4346763",
+    "codigos": [
+      {
+        "codigo": "CLIN11",
+        "preco": 87.59,
+        "precoAnterior": 88.01,
+        "variacao": -0.48
+      }
+    ]
+  },
+  {
+    "nome": "FII RENV",
+    "nomeCompleto": "CPV ENERGIA FDO DE INV IMOB RESP LIM",
+    "cnpj": "54174907000104",
+    "dataInicio": "06/08/2024",
+    "quotaCount": "1026794",
+    "codigos": [
+      {
+        "codigo": "RENV11",
+        "preco": 7.1,
+        "precoAnterior": 7.1,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CVPAR",
+    "nomeCompleto": "CVPAR FUNDO DE INVESTIMENTO IMOBILIÁRIO DE CRI",
+    "cnpj": "38294329000185",
+    "dataInicio": "16/05/2024",
+    "quotaCount": "36699",
+    "codigos": [
+      {
+        "codigo": "CVPR12",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII CYRELA",
+    "nomeCompleto": "CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "36501233000115",
+    "dataInicio": "18/10/2024",
+    "quotaCount": "36549445",
+    "codigos": [
+      {
+        "codigo": "CYCR11",
+        "preco": 8.63,
+        "precoAnterior": 8.65,
+        "variacao": -0.23
+      }
+    ]
+  },
+  {
+    "nome": "FII CYLD",
+    "nomeCompleto": "CYRELA DESENVOLVIMENTO LOGÍSTICO FDO INV IMOB",
+    "cnpj": "43010601000198",
+    "dataInicio": "22/02/2024",
+    "quotaCount": "1241847",
+    "codigos": [
+      {
+        "codigo": "CYLD11",
+        "preco": 100,
+        "precoAnterior": 100,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII DAMA",
+    "nomeCompleto": "DAMA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESP LIMITA",
+    "cnpj": "53866872000101",
+    "dataInicio": "15/10/2024",
+    "quotaCount": "5537031",
+    "codigos": [
+      {
+        "codigo": "DAMA11",
+        "preco": 7.4,
+        "precoAnterior": 7.77,
+        "variacao": -4.76
+      }
+    ]
+  },
+  {
+    "nome": "FII ASA MET",
+    "nomeCompleto": "DAYCOVAL REAL ESTATE MULTIESTRATGIA FII RESP LIM",
+    "cnpj": "38293921000162",
+    "dataInicio": "15/12/2023",
+    "quotaCount": "1081257",
+    "codigos": [
+      {
+        "codigo": "ASMT11",
+        "preco": 36,
+        "precoAnterior": 36,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII ASA RET",
+    "nomeCompleto": "DAYCOVAL RETROFITS I FDO DE INV IMOB - FII",
+    "cnpj": "45188033000145",
+    "dataInicio": "03/07/2024",
+    "quotaCount": "2942",
+    "codigos": [
+      {
+        "codigo": "ASRF11",
+        "preco": 10888,
+        "precoAnterior": 10888,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII DEVA PRO",
+    "nomeCompleto": "DEVANT PROPERTIES FUNDO DE INVESTIMENTO IMOB",
+    "cnpj": "42922127000108",
+    "dataInicio": "21/11/2023",
+    "quotaCount": "5003220",
+    "codigos": [
+      {
+        "codigo": "DPRO11",
+        "preco": 5.89,
+        "precoAnterior": 5.89,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII DEVANT",
+    "nomeCompleto": "DEVANT RECEBÍVEIS IMOBILIÁRIOS FDO. INVEST. IMOB.",
+    "cnpj": "37087810000137",
+    "dataInicio": "06/07/2022",
+    "quotaCount": "14044908",
+    "codigos": [
+      {
+        "codigo": "DEVA11",
+        "preco": 30.9,
+        "precoAnterior": 30.95,
+        "variacao": -0.16
+      }
+    ]
+  },
+  {
+    "nome": "FII DIAMANTE",
+    "nomeCompleto": "DIAMANTE FDO INV IMOB",
+    "cnpj": "26642727000166",
+    "dataInicio": "19/07/2022",
+    "quotaCount": "7111482",
+    "codigos": [
+      {
+        "codigo": "DAMT11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII DOVEL",
+    "nomeCompleto": "DOVEL FDO INV IMOB - RESPONSABILIDADE LIMITADA",
+    "cnpj": "10522648000181",
+    "dataInicio": "15/10/2020",
+    "quotaCount": "62278",
+    "codigos": [
+      {
+        "codigo": "DOVL11",
+        "preco": 666.3,
+        "precoAnterior": 666.3,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII EDGE",
+    "nomeCompleto": "EDGE FDO DE INV IMOB RESP LIM",
+    "cnpj": "54306150000157",
+    "dataInicio": "28/03/2025",
+    "quotaCount": "4785",
+    "codigos": [
+      {
+        "codigo": "EDGE11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII EMET",
+    "nomeCompleto": "EMET MULTIESTRATÉGIA FDO DE INV IMOB",
+    "cnpj": "53523736000100",
+    "dataInicio": "21/02/2024",
+    "quotaCount": "5000000",
+    "codigos": [
+      {
+        "codigo": "EMET11",
+        "preco": 10.05,
+        "precoAnterior": 10.05,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII ENERGY",
+    "nomeCompleto": "ENERGY RESORT FDO. INVEST. IMOB.",
+    "cnpj": "36969658000153",
+    "dataInicio": "22/06/2023",
+    "quotaCount": "754554",
+    "codigos": [
+      {
+        "codigo": "EGYR11",
+        "preco": 3.02,
+        "precoAnterior": 3.18,
+        "variacao": -5.03
+      }
+    ]
+  },
+  {
+    "nome": "FII EQI RECE",
+    "nomeCompleto": "EQI RECEBÍVEIS IMOBILIÁRIOS FDO DE INV IMOBILIÁRIO",
+    "cnpj": "41076380000125",
+    "dataInicio": "26/01/2024",
+    "quotaCount": "10909315",
+    "codigos": [
+      {
+        "codigo": "EQIR11",
+        "preco": 7.84,
+        "precoAnterior": 7.9,
+        "variacao": -0.76
+      }
+    ]
+  },
+  {
+    "nome": "FII ESTOQ RJ",
+    "nomeCompleto": "ESTOQUE RESIDENCIAL E COMERCIAL RJ FDO INV IMOB",
+    "cnpj": "37266902000184",
+    "dataInicio": "17/01/2022",
+    "quotaCount": "2376",
+    "codigos": [
+      {
+        "codigo": "ERCR11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "ERCR13",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII EUROPA",
+    "nomeCompleto": "EUROPA 105 - FDO INV IMOB",
+    "cnpj": "31469385000164",
+    "dataInicio": "21/03/2022",
+    "quotaCount": "500922",
+    "codigos": [
+      {
+        "codigo": "ERPA11",
+        "preco": 133.16,
+        "precoAnterior": 133.16,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII EVEN II",
+    "nomeCompleto": "EVEN II KINEA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "32317313000164",
+    "dataInicio": "20/08/2020",
+    "quotaCount": "146496",
+    "codigos": [
+      {
+        "codigo": "KEVE11",
+        "preco": 880.01,
+        "precoAnterior": 880.01,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII EXES",
+    "nomeCompleto": "EXES FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "41076851000103",
+    "dataInicio": "18/07/2024",
+    "quotaCount": "7105444",
+    "codigos": [
+      {
+        "codigo": "EXES11",
+        "preco": 9.45,
+        "precoAnterior": 9.45,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII FL RECEB",
+    "nomeCompleto": "FARIA LIMA CAPITAL RECEB. IMOB. I - FDO INV. IMOB.",
+    "cnpj": "33884145000151",
+    "dataInicio": "11/12/2024",
+    "quotaCount": "751844",
+    "codigos": [
+      {
+        "codigo": "FLCR11",
+        "preco": 97,
+        "precoAnterior": 97.05,
+        "variacao": -0.05
+      }
+    ]
+  },
+  {
+    "nome": "FII FATOR VE",
+    "nomeCompleto": "FATOR VERITA FDO INV IMOB - FII",
+    "cnpj": "11664201000100",
+    "dataInicio": "02/12/2022",
+    "quotaCount": "15592424",
+    "codigos": [
+      {
+        "codigo": "VRTA11",
+        "preco": 81.61,
+        "precoAnterior": 82.01,
+        "variacao": -0.49
+      }
+    ]
+  },
+  {
+    "nome": "FII VRTM",
+    "nomeCompleto": "FATOR VERITÀ MULTIESTRATÉGIA FDO INV IMOB",
+    "cnpj": "51870412000113",
+    "dataInicio": "22/05/2024",
+    "quotaCount": "48068138",
+    "codigos": [
+      {
+        "codigo": "VRTM11",
+        "preco": 6.97,
+        "precoAnterior": 7,
+        "variacao": -0.43
+      }
+    ]
+  },
+  {
+    "nome": "FII LEBLON",
+    "nomeCompleto": "FDO DE INV IMOB LEBLON REALTY DESENVOLVIMENTO I",
+    "cnpj": "41088534000107",
+    "dataInicio": "19/07/2024",
+    "quotaCount": "369779",
+    "codigos": [
+      {
+        "codigo": "LRDI11",
+        "preco": 100,
+        "precoAnterior": 100,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BREI",
+    "nomeCompleto": "FDO DE INV IMOBILIÁRIO DE CRI INTEGRAL BREI",
+    "cnpj": "40011251000196",
+    "dataInicio": "25/03/2022",
+    "quotaCount": "958423",
+    "codigos": [
+      {
+        "codigo": "IBCR11",
+        "preco": 61.89,
+        "precoAnterior": 61.89,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII IDUA",
+    "nomeCompleto": "FDO DE INV IMOBILIÁRIO DE UNIDADES AUTÔNOMAS IV",
+    "cnpj": "52324762000147",
+    "dataInicio": "24/11/2023",
+    "quotaCount": "402311",
+    "codigos": [
+      {
+        "codigo": "IDUA11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII GUARD MU",
+    "nomeCompleto": "FDO DE INVEST IMOB GUARDIAN MULTIESTRATÉGIA I",
+    "cnpj": "41269052000145",
+    "dataInicio": "04/11/2022",
+    "quotaCount": "21697677",
+    "codigos": [
+      {
+        "codigo": "GAME11",
+        "preco": 8.6,
+        "precoAnterior": 8.63,
+        "variacao": -0.35
+      }
+    ]
+  },
+  {
+    "nome": "FII SDI LOG",
+    "nomeCompleto": "FDO DE INVEST IMOB TELLUS RIO BRAVO RENDA LOGISTIC",
+    "cnpj": "16671412000193",
+    "dataInicio": "01/11/2023",
+    "quotaCount": "7739092",
+    "codigos": [
+      {
+        "codigo": "TRBL11",
+        "preco": 61.55,
+        "precoAnterior": 62.09,
+        "variacao": -0.87
+      }
+    ]
+  },
+  {
+    "nome": "FII ANCAR IC",
+    "nomeCompleto": "FDO INV IMOB - FII ANCAR IC",
+    "cnpj": "07789135000127",
+    "dataInicio": "19/06/2024",
+    "quotaCount": "26735040",
+    "codigos": [
+      {
+        "codigo": "ANCR11",
+        "preco": 81.12,
+        "precoAnterior": 81.12,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII ANH EDUC",
+    "nomeCompleto": "FDO INV IMOB - FII ANHANGUERA EDUCACIONAL RESP LIM",
+    "cnpj": "11179118000145",
+    "dataInicio": "02/01/2024",
+    "quotaCount": "692377",
+    "codigos": [
+      {
+        "codigo": "FAED11",
+        "preco": 135.99,
+        "precoAnterior": 134,
+        "variacao": 1.49
+      }
+    ]
+  },
+  {
+    "nome": "FII BMBRC LC",
+    "nomeCompleto": "FDO INV IMOB - FII BM BRASCAN LAJES CORPORATIVAS",
+    "cnpj": "14376247000111",
+    "dataInicio": "10/02/2012",
+    "quotaCount": "998405",
+    "codigos": [
+      {
+        "codigo": "BMLC11",
+        "preco": 97.14,
+        "precoAnterior": 97.14,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BC FUND",
+    "nomeCompleto": "FDO INV IMOB - FII BTG PACTUAL CORP. OFFICE FUND",
+    "cnpj": "08924783000101",
+    "dataInicio": "09/09/2020",
+    "quotaCount": "26638202",
+    "codigos": [
+      {
+        "codigo": "BRCR11",
+        "preco": 39.99,
+        "precoAnterior": 39.94,
+        "variacao": 0.13
+      }
+    ]
+  },
+  {
+    "nome": "FII CAMPUSFL",
+    "nomeCompleto": "FDO INV IMOB - FII CAMPUS FARIA LIMA RESP LIM",
+    "cnpj": "11602654000101",
+    "dataInicio": "21/07/2020",
+    "quotaCount": "3474010",
+    "codigos": [
+      {
+        "codigo": "FCFL11",
+        "preco": 113,
+        "precoAnterior": 113.12,
+        "variacao": -0.11
+      }
+    ]
+  },
+  {
+    "nome": "FII CEO CCP",
+    "nomeCompleto": "FDO INV IMOB - FII CEO CYRELA COMMERC. PROPERTIES",
+    "cnpj": "15799397000109",
+    "dataInicio": "10/09/2015",
+    "quotaCount": "1815696",
+    "codigos": [
+      {
+        "codigo": "CEOC11",
+        "preco": 38.36,
+        "precoAnterior": 38.61,
+        "variacao": -0.65
+      }
+    ]
+  },
+  {
+    "nome": "FII ALMIRANT",
+    "nomeCompleto": "FDO INV IMOB - FII EDIF. ALMIRANTE BARROSO REP LIM",
+    "cnpj": "05562312000102",
+    "dataInicio": "18/03/2024",
+    "quotaCount": "122538",
+    "codigos": [
+      {
+        "codigo": "FAMB11",
+        "preco": 738.07,
+        "precoAnterior": 738.07,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII GALERIA",
+    "nomeCompleto": "FDO INV IMOB - FII EDIFÍCIO GALERIA RESP LIM",
+    "cnpj": "15333306000137",
+    "dataInicio": "06/09/2012",
+    "quotaCount": "3812055",
+    "codigos": [
+      {
+        "codigo": "EDGA11",
+        "preco": 16.91,
+        "precoAnterior": 16.9,
+        "variacao": 0.06
+      }
+    ]
+  },
+  {
+    "nome": "FII ELDORADO",
+    "nomeCompleto": "FDO INV IMOB - FII ELDORADO",
+    "cnpj": "13022994000199",
+    "dataInicio": "16/03/2017",
+    "quotaCount": "787256",
+    "codigos": [
+      {
+        "codigo": "ELDO11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII CRIANCA",
+    "nomeCompleto": "FDO INV IMOB - FII HOSPITAL DA CRIANÇA RESP LIM",
+    "cnpj": "04066582000160",
+    "dataInicio": "31/12/2003",
+    "quotaCount": "200000",
+    "codigos": [
+      {
+        "codigo": "HCRI11",
+        "preco": 247,
+        "precoAnterior": 247,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII HOTEL MX",
+    "nomeCompleto": "FDO INV IMOB - FII HOTEL MAXINVEST",
+    "cnpj": "08706065000169",
+    "dataInicio": "06/11/2024",
+    "quotaCount": "2888094",
+    "codigos": [
+      {
+        "codigo": "HTMX11",
+        "preco": 142.35,
+        "precoAnterior": 142.2,
+        "variacao": 0.11
+      }
+    ]
+  },
+  {
+    "nome": "FII MAX RET",
+    "nomeCompleto": "FDO INV IMOB - FII MAX RETAIL",
+    "cnpj": "11274415000170",
+    "dataInicio": "26/04/2021",
+    "quotaCount": "1125655",
+    "codigos": [
+      {
+        "codigo": "MAXR11",
+        "preco": 66,
+        "precoAnterior": 65.89,
+        "variacao": 0.17
+      }
+    ]
+  },
+  {
+    "nome": "FII NOVOHORI",
+    "nomeCompleto": "FDO INV IMOB - FII NOVO HORIZONTE",
+    "cnpj": "17025970000144",
+    "dataInicio": "10/09/2013",
+    "quotaCount": "41494533",
+    "codigos": [
+      {
+        "codigo": "NVHO11",
+        "preco": 12.47,
+        "precoAnterior": 12.47,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII D PEDRO",
+    "nomeCompleto": "FDO INV IMOB - FII PARQUE D. PEDRO SHOPPING CENTER",
+    "cnpj": "10869155000112",
+    "dataInicio": "31/05/2024",
+    "quotaCount": "100561",
+    "codigos": [
+      {
+        "codigo": "PQDP11",
+        "preco": 2191,
+        "precoAnterior": 2191,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RBRHGRAD",
+    "nomeCompleto": "FDO INV IMOB - FII RBR RENDIMENTO HIGH GRADE",
+    "cnpj": "29467977000103",
+    "dataInicio": "14/09/2023",
+    "quotaCount": "15057201",
+    "codigos": [
+      {
+        "codigo": "RBRR11",
+        "preco": 83.82,
+        "precoAnterior": 83.93,
+        "variacao": -0.13
+      }
+    ]
+  },
+  {
+    "nome": "FII REC RECE",
+    "nomeCompleto": "FDO INV IMOB - FII REC RECEBIVEIS IMOBILIARIOS",
+    "cnpj": "28152272000126",
+    "dataInicio": "05/04/2022",
+    "quotaCount": "26441650",
+    "codigos": [
+      {
+        "codigo": "RECR11",
+        "preco": 83.37,
+        "precoAnterior": 84.3,
+        "variacao": -1.1
+      }
+    ]
+  },
+  {
+    "nome": "FII REC REND",
+    "nomeCompleto": "FDO INV IMOB - FII REC RENDA IMOBILIARIA",
+    "cnpj": "32274163000159",
+    "dataInicio": "19/05/2022",
+    "quotaCount": "8543493",
+    "codigos": [
+      {
+        "codigo": "RECT11",
+        "preco": 33,
+        "precoAnterior": 33.4,
+        "variacao": -1.2
+      }
+    ]
+  },
+  {
+    "nome": "FII SHOP PDP",
+    "nomeCompleto": "FDO INV IMOB - FII SHOPPING PARQUE D. PEDRO",
+    "cnpj": "07224019000160",
+    "dataInicio": "30/07/2024",
+    "quotaCount": "888136",
+    "codigos": [
+      {
+        "codigo": "SHDP11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII SIA CORP",
+    "nomeCompleto": "FDO INV IMOB - FII SIA CORPORATE",
+    "cnpj": "17311079000174",
+    "dataInicio": "05/01/2015",
+    "quotaCount": "1429830",
+    "codigos": [
+      {
+        "codigo": "SAIC11",
+        "preco": 34.04,
+        "precoAnterior": 34.04,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII TORRE AL",
+    "nomeCompleto": "FDO INV IMOB - FII TORRE ALMIRANTE",
+    "cnpj": "07122725000100",
+    "dataInicio": "07/12/2018",
+    "quotaCount": "111177",
+    "codigos": [
+      {
+        "codigo": "ALMI11",
+        "preco": 596,
+        "precoAnterior": 596.01,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII TORRE NO",
+    "nomeCompleto": "FDO INV IMOB - FII TORRE NORTE",
+    "cnpj": "04722883000102",
+    "dataInicio": "16/12/2024",
+    "quotaCount": "3935562",
+    "codigos": [
+      {
+        "codigo": "TRNT11",
+        "preco": 93.03,
+        "precoAnterior": 93.03,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII WTC SP",
+    "nomeCompleto": "FDO INV IMOB - OURINVEST RE I",
+    "cnpj": "28693595000127",
+    "dataInicio": "23/09/2024",
+    "quotaCount": "1238572",
+    "codigos": [
+      {
+        "codigo": "WTSP11",
+        "preco": 57,
+        "precoAnterior": 57,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII LVBI VBI",
+    "nomeCompleto": "FDO INV IMOB - VBI LOGÍSTICO",
+    "cnpj": "30629603000118",
+    "dataInicio": "05/03/2024",
+    "quotaCount": "16118565",
+    "codigos": [
+      {
+        "codigo": "LVBI11",
+        "preco": 99.81,
+        "precoAnterior": 99.54,
+        "variacao": 0.27
+      }
+    ]
+  },
+  {
+    "nome": "FII BRHOTEIS",
+    "nomeCompleto": "FDO INV IMOB BR HOTEIS - FII",
+    "cnpj": "15461076000191",
+    "dataInicio": "12/07/2013",
+    "quotaCount": "1841677",
+    "codigos": [
+      {
+        "codigo": "BRHT11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII ABSOLUTO",
+    "nomeCompleto": "FDO INV IMOB BRASIL PLURAL ABSOLUTO FDO DE FUNDOS",
+    "cnpj": "17324357000128",
+    "dataInicio": "06/11/2020",
+    "quotaCount": "4492326",
+    "codigos": [
+      {
+        "codigo": "BPFF11",
+        "preco": 57.93,
+        "precoAnterior": 57.99,
+        "variacao": -0.1
+      }
+    ]
+  },
+  {
+    "nome": "FII B VAREJO",
+    "nomeCompleto": "FDO INV IMOB BRASIL VAREJO - FII",
+    "cnpj": "21126204000143",
+    "dataInicio": "27/10/2014",
+    "quotaCount": "625540",
+    "codigos": [
+      {
+        "codigo": "BVAR11",
+        "preco": 1442.5,
+        "precoAnterior": 1442.5,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BTG SHOP",
+    "nomeCompleto": "FDO INV IMOB BTG PACTUAL SHOPPINGS",
+    "cnpj": "33046142000149",
+    "dataInicio": "11/03/2024",
+    "quotaCount": "7441745",
+    "codigos": [
+      {
+        "codigo": "BPML11",
+        "preco": 79.37,
+        "precoAnterior": 79.74,
+        "variacao": -0.46
+      }
+    ]
+  },
+  {
+    "nome": "FII BTG TAGR",
+    "nomeCompleto": "FDO INV IMOB BTG PACTUAL TERRAS AGRÍCOLAS",
+    "cnpj": "41076607000132",
+    "dataInicio": "06/07/2021",
+    "quotaCount": "3364559",
+    "codigos": [
+      {
+        "codigo": "BTRA11",
+        "preco": 56.73,
+        "precoAnterior": 56.74,
+        "variacao": -0.02
+      }
+    ]
+  },
+  {
+    "nome": "FII CAIXA CI",
+    "nomeCompleto": "FDO INV IMOB CAIXA CARTEIRA IMOBILIÁRIA",
+    "cnpj": "42066916000194",
+    "dataInicio": "17/03/2022",
+    "quotaCount": "2057726",
+    "codigos": [
+      {
+        "codigo": "CXCI11",
+        "preco": 66.97,
+        "precoAnterior": 65.77,
+        "variacao": 1.82
+      }
+    ]
+  },
+  {
+    "nome": "FII CX CEDAE",
+    "nomeCompleto": "FDO INV IMOB CAIXA CEDAE",
+    "cnpj": "10991914000115",
+    "dataInicio": "24/06/2020",
+    "quotaCount": "1712950",
+    "codigos": [
+      {
+        "codigo": "CXCE11",
+        "preco": 38.48,
+        "precoAnterior": 38.48,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII CX TRX",
+    "nomeCompleto": "FDO INV IMOB CAIXA SEQ LOGÍSTICA RENDA",
+    "cnpj": "12887506000143",
+    "dataInicio": "28/11/2011",
+    "quotaCount": "53597",
+    "codigos": [
+      {
+        "codigo": "CXTL11",
+        "preco": 220.79,
+        "precoAnterior": 220.79,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII C TEXTIL",
+    "nomeCompleto": "FDO INV IMOB CENTRO TEXTIL INTERNACIONAL",
+    "cnpj": "00762723000128",
+    "dataInicio": "05/04/2024",
+    "quotaCount": "3408759",
+    "codigos": [
+      {
+        "codigo": "CTXT11",
+        "preco": 5.98,
+        "precoAnterior": 5.91,
+        "variacao": 1.18
+      }
+    ]
+  },
+  {
+    "nome": "FII S F LIMA",
+    "nomeCompleto": "FDO INV IMOB CONTINENTAL SQUARE FARIA LIMA",
+    "cnpj": "04141645000103",
+    "dataInicio": "16/04/2021",
+    "quotaCount": "1380670",
+    "codigos": [
+      {
+        "codigo": "FLMA11",
+        "preco": 126.01,
+        "precoAnterior": 126.36,
+        "variacao": -0.28
+      }
+    ]
+  },
+  {
+    "nome": "FII EGDB",
+    "nomeCompleto": "FDO INV IMOB DESENV ESCRITÓRIOS BOUTIQUE RESP LIM",
+    "cnpj": "53866393000187",
+    "dataInicio": "24/03/2025",
+    "quotaCount": "58992",
+    "codigos": [
+      {
+        "codigo": "EGDB11",
+        "preco": 1086.28,
+        "precoAnterior": 1086.28,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII OURINVES",
+    "nomeCompleto": "FDO INV IMOB EDIFÍCIO OURINVEST",
+    "cnpj": "06175262000173",
+    "dataInicio": "30/11/2005",
+    "quotaCount": "236000",
+    "codigos": [
+      {
+        "codigo": "EDFO11",
+        "preco": 118,
+        "precoAnterior": 118,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII EUROPAR",
+    "nomeCompleto": "FDO INV IMOB EUROPAR",
+    "cnpj": "05437916000127",
+    "dataInicio": "31/03/2017",
+    "quotaCount": "383936",
+    "codigos": [
+      {
+        "codigo": "EURO11",
+        "preco": 225,
+        "precoAnterior": 225,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII ABC IMOB",
+    "nomeCompleto": "FDO INV IMOB GRAND PLAZA SHOPPING",
+    "cnpj": "01201140000190",
+    "dataInicio": "22/12/2022",
+    "quotaCount": "4709082",
+    "codigos": [
+      {
+        "codigo": "ABCP11",
+        "preco": 74.02,
+        "precoAnterior": 76,
+        "variacao": -2.61
+      }
+    ]
+  },
+  {
+    "nome": "FII G TOWERS",
+    "nomeCompleto": "FDO INV IMOB GREEN TOWERS",
+    "cnpj": "23740527000158",
+    "dataInicio": "14/12/2018",
+    "quotaCount": "12000000",
+    "codigos": [
+      {
+        "codigo": "GTWR11",
+        "preco": 68.87,
+        "precoAnterior": 68.9,
+        "variacao": -0.04
+      }
+    ]
+  },
+  {
+    "nome": "FII UNIMED C",
+    "nomeCompleto": "FDO INV IMOB HOSPITAL UNIMED CAMPINA GRANDE",
+    "cnpj": "39347413000182",
+    "dataInicio": "30/12/2021",
+    "quotaCount": "1122000",
+    "codigos": [
+      {
+        "codigo": "HUCG11",
+        "preco": 102.98,
+        "precoAnterior": 102.64,
+        "variacao": 0.33
+      }
+    ]
+  },
+  {
+    "nome": "FII H UNIMED",
+    "nomeCompleto": "FDO INV IMOB HOSPITAL UNIMED SUL CAPIXABA",
+    "cnpj": "28851767000143",
+    "dataInicio": "11/06/2018",
+    "quotaCount": "850821",
+    "codigos": [
+      {
+        "codigo": "HUSC11",
+        "preco": 95.18,
+        "precoAnterior": 95.18,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII INDL BR",
+    "nomeCompleto": "FDO INV IMOB INDUSTRIAL DO BRASIL",
+    "cnpj": "14217108000145",
+    "dataInicio": "10/10/2016",
+    "quotaCount": "685000",
+    "codigos": [
+      {
+        "codigo": "FIIB11",
+        "preco": 494.23,
+        "precoAnterior": 494.89,
+        "variacao": -0.13
+      }
+    ]
+  },
+  {
+    "nome": "FII INFRA RE",
+    "nomeCompleto": "FDO INV IMOB INFRA REAL ESTATE - FII",
+    "cnpj": "18369510000104",
+    "dataInicio": "10/02/2014",
+    "quotaCount": "666420",
+    "codigos": [
+      {
+        "codigo": "FINF11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII MEMORIAL",
+    "nomeCompleto": "FDO INV IMOB MEMORIAL OFFICE",
+    "cnpj": "01633741000172",
+    "dataInicio": "30/06/2008",
+    "quotaCount": "508008",
+    "codigos": [
+      {
+        "codigo": "FMOF11",
+        "preco": 68,
+        "precoAnterior": 68,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII OURILOG",
+    "nomeCompleto": "FDO INV IMOB OURINVEST LOGÍSTICA",
+    "cnpj": "13974819000100",
+    "dataInicio": "15/01/2020",
+    "quotaCount": "2481284",
+    "codigos": [
+      {
+        "codigo": "OULG11",
+        "preco": 36.2,
+        "precoAnterior": 36.2,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII PANAMBY",
+    "nomeCompleto": "FDO INV IMOB PANAMBY",
+    "cnpj": "00613094000174",
+    "dataInicio": "31/03/1996",
+    "quotaCount": "758400",
+    "codigos": [
+      {
+        "codigo": "PABY11",
+        "preco": 11.34,
+        "precoAnterior": 11.34,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII P NEGRA",
+    "nomeCompleto": "FDO INV IMOB PEDRA NEGRA RENDA IMOB",
+    "cnpj": "17161979000182",
+    "dataInicio": "03/05/2024",
+    "quotaCount": "2329292",
+    "codigos": [
+      {
+        "codigo": "FPNG11",
+        "preco": 326.18,
+        "precoAnterior": 326.18,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII POLO SHO",
+    "nomeCompleto": "FDO INV IMOB POLO SHOPPING INDAIATUBA - RESP. LTDA",
+    "cnpj": "14721889000100",
+    "dataInicio": "07/05/2014",
+    "quotaCount": "7849196",
+    "codigos": [
+      {
+        "codigo": "VPSI11",
+        "preco": 15.61,
+        "precoAnterior": 15.61,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII A BRANCA",
+    "nomeCompleto": "FDO INV IMOB PROJETO ÁGUA BRANCA",
+    "cnpj": "03251720000118",
+    "dataInicio": "30/06/2006",
+    "quotaCount": "750000",
+    "codigos": [
+      {
+        "codigo": "FPAB11",
+        "preco": 199.95,
+        "precoAnterior": 199.95,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RBR PCRI",
+    "nomeCompleto": "FDO INV IMOB RBR CREDITO IMOB ESTRUTURADO",
+    "cnpj": "30166700000111",
+    "dataInicio": "05/03/2024",
+    "quotaCount": "12769512",
+    "codigos": [
+      {
+        "codigo": "RBRY11",
+        "preco": 92.9,
+        "precoAnterior": 93.66,
+        "variacao": -0.81
+      }
+    ]
+  },
+  {
+    "nome": "FII RBR PROP",
+    "nomeCompleto": "FDO INV IMOB RBR PROPERTIES - FII",
+    "cnpj": "21408063000151",
+    "dataInicio": "12/04/2021",
+    "quotaCount": "12179186",
+    "codigos": [
+      {
+        "codigo": "RBRP11",
+        "preco": 44.99,
+        "precoAnterior": 45.3,
+        "variacao": -0.68
+      }
+    ]
+  },
+  {
+    "nome": "FII RIOB RC",
+    "nomeCompleto": "FDO INV IMOB RIO BRAVO RENDA CORPORATIVA",
+    "cnpj": "03683056000186",
+    "dataInicio": "06/10/2020",
+    "quotaCount": "3690695",
+    "codigos": [
+      {
+        "codigo": "RCRB11",
+        "preco": 132.56,
+        "precoAnterior": 132.02,
+        "variacao": 0.41
+      }
+    ]
+  },
+  {
+    "nome": "FII RIOB VA",
+    "nomeCompleto": "FDO INV IMOB RIO BRAVO RENDA VAREJO - FII",
+    "cnpj": "15576907000170",
+    "dataInicio": "02/09/2024",
+    "quotaCount": "15614305",
+    "codigos": [
+      {
+        "codigo": "RBVA11",
+        "preco": 80.76,
+        "precoAnterior": 81.25,
+        "variacao": -0.6
+      }
+    ]
+  },
+  {
+    "nome": "FII RIONEGRO",
+    "nomeCompleto": "FDO INV IMOB RIO NEGRO - FII",
+    "cnpj": "15006286000190",
+    "dataInicio": "01/06/2012",
+    "quotaCount": "2676000",
+    "codigos": [
+      {
+        "codigo": "RNGO11",
+        "preco": 45.07,
+        "precoAnterior": 45.07,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII SC 401",
+    "nomeCompleto": "FDO INV IMOB SC 401",
+    "cnpj": "12804013000100",
+    "dataInicio": "11/12/2020",
+    "quotaCount": "1576580",
+    "codigos": [
+      {
+        "codigo": "FISC11",
+        "preco": 65,
+        "precoAnterior": 65,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII SCP",
+    "nomeCompleto": "FDO INV IMOB SCP",
+    "cnpj": "01657856000105",
+    "dataInicio": "31/08/2006",
+    "quotaCount": "4200000",
+    "codigos": [
+      {
+        "codigo": "SCPF11",
+        "preco": 1.84,
+        "precoAnterior": 2.07,
+        "variacao": -11.11
+      }
+    ]
+  },
+  {
+    "nome": "FII HIGIENOP",
+    "nomeCompleto": "FDO INV IMOB SHOPPING PÁTIO HIGIENÓPOLIS",
+    "cnpj": "03507519000159",
+    "dataInicio": "06/02/2018",
+    "quotaCount": "608950",
+    "codigos": [
+      {
+        "codigo": "SHPH11",
+        "preco": 871.99,
+        "precoAnterior": 870.77,
+        "variacao": 0.14
+      }
+    ]
+  },
+  {
+    "nome": "FII SMRE",
+    "nomeCompleto": "FDO INV IMOB SMART REAL ESTATE - FII RESP LIMITADA",
+    "cnpj": "53730029000195",
+    "dataInicio": "23/08/2024",
+    "quotaCount": "945078",
+    "codigos": [
+      {
+        "codigo": "SMRE11",
+        "preco": 83.96,
+        "precoAnterior": 81.01,
+        "variacao": 3.64
+      }
+    ]
+  },
+  {
+    "nome": "FII TG ATIVO",
+    "nomeCompleto": "FDO INV IMOB TG ATIVO REAL",
+    "cnpj": "25032881000153",
+    "dataInicio": "31/05/2024",
+    "quotaCount": "23567968",
+    "codigos": [
+      {
+        "codigo": "TGAR11",
+        "preco": 88.24,
+        "precoAnterior": 89.45,
+        "variacao": -1.35
+      }
+    ]
+  },
+  {
+    "nome": "FII BARI VBI",
+    "nomeCompleto": "FDO INV IMOB VBI RENDIMENTOS IMOB I FII",
+    "cnpj": "29267567000100",
+    "dataInicio": "31/03/2021",
+    "quotaCount": "4634191",
+    "codigos": [
+      {
+        "codigo": "BARI11",
+        "preco": 71.5,
+        "precoAnterior": 71.86,
+        "variacao": -0.5
+      }
+    ]
+  },
+  {
+    "nome": "FII VEREDA",
+    "nomeCompleto": "FDO INV IMOB VEREDA - FII",
+    "cnpj": "08693497000182",
+    "dataInicio": "14/05/2024",
+    "quotaCount": "627813",
+    "codigos": [
+      {
+        "codigo": "VERE11",
+        "preco": 445.76,
+        "precoAnterior": 445.76,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII V PARQUE",
+    "nomeCompleto": "FDO INV IMOB VIA PARQUE SHOPPING - FII",
+    "cnpj": "00332266000131",
+    "dataInicio": "14/03/2017",
+    "quotaCount": "3422908",
+    "codigos": [
+      {
+        "codigo": "FVPQ11",
+        "preco": 50.7,
+        "precoAnterior": 50.7,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII VIDANOVA",
+    "nomeCompleto": "FDO INV IMOB VIDA NOVA - FII",
+    "cnpj": "17854016000164",
+    "dataInicio": "04/07/2014",
+    "quotaCount": "9412630",
+    "codigos": [
+      {
+        "codigo": "FIVN11",
+        "preco": 1.99,
+        "precoAnterior": 1.99,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII VOT LOG",
+    "nomeCompleto": "FDO INV IMOB VOTORANTIM LOGISTICA",
+    "cnpj": "27368600000163",
+    "dataInicio": "15/12/2017",
+    "quotaCount": "2115000",
+    "codigos": [
+      {
+        "codigo": "VTLT11",
+        "preco": 85.42,
+        "precoAnterior": 85.68,
+        "variacao": -0.3
+      }
+    ]
+  },
+  {
+    "nome": "FII VOT SHOP",
+    "nomeCompleto": "FDO INV IMOB VOTORANTIM SHOPPING",
+    "cnpj": "23740595000117",
+    "dataInicio": "21/08/2018",
+    "quotaCount": "2098800",
+    "codigos": [
+      {
+        "codigo": "VSHO11",
+        "preco": 70.33,
+        "precoAnterior": 70.28,
+        "variacao": 0.07
+      }
+    ]
+  },
+  {
+    "nome": "FII PLURAL R",
+    "nomeCompleto": "FDO INV. IMOB. PLURAL RECEBIVEIS",
+    "cnpj": "32527683000126",
+    "dataInicio": "16/09/2019",
+    "quotaCount": "2109169",
+    "codigos": [
+      {
+        "codigo": "PLCR11",
+        "preco": 78.8,
+        "precoAnterior": 79.97,
+        "variacao": -1.46
+      }
+    ]
+  },
+  {
+    "nome": "FII PLUS",
+    "nomeCompleto": "FDO INV. IMOB. PLUS",
+    "cnpj": "15098422000119",
+    "dataInicio": "19/06/2024",
+    "quotaCount": "1386242",
+    "codigos": [
+      {
+        "codigo": "VTPL11",
+        "preco": 72.1,
+        "precoAnterior": 72.1,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII REC LOG",
+    "nomeCompleto": "FDO INV. IMOB. REC LOGISTICA",
+    "cnpj": "37112770000136",
+    "dataInicio": "29/11/2021",
+    "quotaCount": "1334562",
+    "codigos": [
+      {
+        "codigo": "RELG11",
+        "preco": 67.15,
+        "precoAnterior": 68.61,
+        "variacao": -2.13
+      }
+    ]
+  },
+  {
+    "nome": "FII CVBI VBI",
+    "nomeCompleto": "FDO INV. IMOB. VBI CRI",
+    "cnpj": "28729197000113",
+    "dataInicio": "10/06/2022",
+    "quotaCount": "11010228",
+    "codigos": [
+      {
+        "codigo": "CVBI11",
+        "preco": 84.15,
+        "precoAnterior": 84.48,
+        "variacao": -0.39
+      }
+    ]
+  },
+  {
+    "nome": "FII MAUA",
+    "nomeCompleto": "FDO INV. MAUA CAPITAL RECEBIVEIS IMOB. - FII",
+    "cnpj": "23648935000184",
+    "dataInicio": "21/10/2022",
+    "quotaCount": "16960024",
+    "codigos": [
+      {
+        "codigo": "MCCI11",
+        "preco": 83.47,
+        "precoAnterior": 83.87,
+        "variacao": -0.48
+      }
+    ]
+  },
+  {
+    "nome": "FII BTG AGRO",
+    "nomeCompleto": "FDO. INV. IMOB. BTG PACTUAL AGRO LOGÍSTICA",
+    "cnpj": "36642244000115",
+    "dataInicio": "21/12/2020",
+    "quotaCount": "5982736",
+    "codigos": [
+      {
+        "codigo": "BTAL11",
+        "preco": 72.75,
+        "precoAnterior": 72.9,
+        "variacao": -0.21
+      }
+    ]
+  },
+  {
+    "nome": "FII CEF CORP",
+    "nomeCompleto": "FDO. INV. IMOB. CAIXA IMÓVEIS CORPORATIVOS",
+    "cnpj": "38658984000175",
+    "dataInicio": "28/12/2020",
+    "quotaCount": "3924500",
+    "codigos": [
+      {
+        "codigo": "CXCO11",
+        "preco": 58.54,
+        "precoAnterior": 58.54,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII HOUSI",
+    "nomeCompleto": "FDO. INV. IMOB. HOUSI",
+    "cnpj": "34081631000102",
+    "dataInicio": "17/07/2023",
+    "quotaCount": "573450",
+    "codigos": [
+      {
+        "codigo": "HOSI11",
+        "preco": 84.36,
+        "precoAnterior": 83.31,
+        "variacao": 1.26
+      }
+    ]
+  },
+  {
+    "nome": "FII MOGNO HT",
+    "nomeCompleto": "FDO. INV. IMOB. MOGNO HOTEIS",
+    "cnpj": "34197776000165",
+    "dataInicio": "29/09/2021",
+    "quotaCount": "1313784",
+    "codigos": [
+      {
+        "codigo": "MGHT11",
+        "preco": 12.66,
+        "precoAnterior": 12.61,
+        "variacao": 0.4
+      }
+    ]
+  },
+  {
+    "nome": "FII PVBI VBI",
+    "nomeCompleto": "FDO. INV. IMOB. VBI PRIME PROPERTIES",
+    "cnpj": "35652102000176",
+    "dataInicio": "13/05/2024",
+    "quotaCount": "27130067",
+    "codigos": [
+      {
+        "codigo": "PVBI11",
+        "preco": 78.63,
+        "precoAnterior": 79.14,
+        "variacao": -0.64
+      }
+    ]
+  },
+  {
+    "nome": "FII DEVA FOF",
+    "nomeCompleto": "FDO. INVEST. IMOB. DEVANT FOF IMOBILIÁRIOS",
+    "cnpj": "39863059000149",
+    "dataInicio": "21/11/2023",
+    "quotaCount": "11009500",
+    "codigos": [
+      {
+        "codigo": "DVFF11",
+        "preco": 6.23,
+        "precoAnterior": 6.25,
+        "variacao": -0.32
+      }
+    ]
+  },
+  {
+    "nome": "FII RB CFOF",
+    "nomeCompleto": "FDO. INVEST. IMOB. RB CAPITAL I FUNDO DE FUNDOS",
+    "cnpj": "34027774000128",
+    "dataInicio": "12/12/2019",
+    "quotaCount": "1078164",
+    "codigos": [
+      {
+        "codigo": "RFOF11",
+        "preco": 56.68,
+        "precoAnterior": 57.1,
+        "variacao": -0.74
+      }
+    ]
+  },
+  {
+    "nome": "FII FYTO",
+    "nomeCompleto": "FII - FII FYTO RECEBÍVEIS IMOBILIÁRIOS RESP LIM",
+    "cnpj": "18085673000157",
+    "dataInicio": "15/01/2024",
+    "quotaCount": "15281388",
+    "codigos": [
+      {
+        "codigo": "FYTO11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII BTG CRI",
+    "nomeCompleto": "FII BTG PACTUAL CRÉDITO IMOBILIÁRIO",
+    "cnpj": "09552812000114",
+    "dataInicio": "13/01/2023",
+    "quotaCount": "99521172",
+    "codigos": [
+      {
+        "codigo": "BTCI11",
+        "preco": 9.06,
+        "precoAnterior": 9.03,
+        "variacao": 0.33
+      }
+    ]
+  },
+  {
+    "nome": "FII HYPI",
+    "nomeCompleto": "FII HIRE PROPERTIES I – FUNDO DE INVESTIMENTO IMOB",
+    "cnpj": "28899178000135",
+    "dataInicio": "01/04/2025",
+    "quotaCount": "1384181",
+    "codigos": [
+      {
+        "codigo": "HYPI11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII HIRE RES",
+    "nomeCompleto": "FII HIRE RESIDENCIAL I - FDO DE INV IMOB",
+    "cnpj": "42869853000104",
+    "dataInicio": "17/06/2024",
+    "quotaCount": "468241",
+    "codigos": [
+      {
+        "codigo": "HRES11",
+        "preco": 149.25,
+        "precoAnterior": 149.25,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII LOURDES",
+    "nomeCompleto": "FII HOSPITAL NOSSA SRA DE LOURDES RESP LIM",
+    "cnpj": "08014513000163",
+    "dataInicio": "30/03/2022",
+    "quotaCount": "1293286",
+    "codigos": [
+      {
+        "codigo": "NSLU11",
+        "preco": 156.11,
+        "precoAnterior": 156.11,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII IRIDIUM",
+    "nomeCompleto": "FII IRIDIUM RECEBÍVEIS IMOBILIÁRIOS",
+    "cnpj": "28830325000110",
+    "dataInicio": "28/07/2022",
+    "quotaCount": "36433827",
+    "codigos": [
+      {
+        "codigo": "IRDM11",
+        "preco": 70.61,
+        "precoAnterior": 71.12,
+        "variacao": -0.72
+      }
+    ]
+  },
+  {
+    "nome": "FII FLNR",
+    "nomeCompleto": "FLORIANO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "41820693000146",
+    "dataInicio": "05/06/2024",
+    "quotaCount": "125672",
+    "codigos": [
+      {
+        "codigo": "FLNR11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII JCIN",
+    "nomeCompleto": "FOF JHSF CAPITAL INSTITUCIONAL – FII",
+    "cnpj": "50718976000172",
+    "dataInicio": "21/06/2024",
+    "quotaCount": "1317717",
+    "codigos": [
+      {
+        "codigo": "JCIN11",
+        "preco": 150,
+        "precoAnterior": 150,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII GUARDIAN",
+    "nomeCompleto": "FUND. DE INVEST. IMOBILIÁRIO GUARDIAN REAL ESTATE",
+    "cnpj": "37295919000160",
+    "dataInicio": "07/11/2024",
+    "quotaCount": "147458223",
+    "codigos": [
+      {
+        "codigo": "GARE11",
+        "preco": 8.45,
+        "precoAnterior": 8.46,
+        "variacao": -0.12
+      }
+    ]
+  },
+  {
+    "nome": "FII KINEAFOF",
+    "nomeCompleto": "FUNDO DE FDO INV IMOB KINEA FII",
+    "cnpj": "30091444000140",
+    "dataInicio": "08/05/2024",
+    "quotaCount": "7014565",
+    "codigos": [
+      {
+        "codigo": "KFOF11",
+        "preco": 75,
+        "precoAnterior": 75.27,
+        "variacao": -0.36
+      }
+    ]
+  },
+  {
+    "nome": "FII PULV",
+    "nomeCompleto": "FUNDO DE INV IMOB RBR CRÉD PULVERIZADO RESP LTDA",
+    "cnpj": "53018363000110",
+    "dataInicio": "08/07/2024",
+    "quotaCount": "12000240",
+    "codigos": [
+      {
+        "codigo": "PULV11",
+        "preco": 7.85,
+        "precoAnterior": 7.71,
+        "variacao": 1.82
+      }
+    ]
+  },
+  {
+    "nome": "FII HOMS",
+    "nomeCompleto": "FUNDO DE INV IMOB ROOFTOP III RESP LIMIT",
+    "cnpj": "55793516000122",
+    "dataInicio": "24/02/2025",
+    "quotaCount": "1000000",
+    "codigos": [
+      {
+        "codigo": "HOMS11",
+        "preco": 108.79,
+        "precoAnterior": 108.79,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII HBC REN",
+    "nomeCompleto": "FUNDO DE INVEST IMOB HBC RENDA URBANA RESP LIM",
+    "cnpj": "36501159000137",
+    "dataInicio": "13/06/2024",
+    "quotaCount": "1573308",
+    "codigos": [
+      {
+        "codigo": "HBCR11",
+        "preco": 135.61,
+        "precoAnterior": 135.61,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RIZA TX",
+    "nomeCompleto": "FUNDO DE INVEST IMOB RIZA TERRAX RESP LIM",
+    "cnpj": "36501128000186",
+    "dataInicio": "11/01/2024",
+    "quotaCount": "18851720",
+    "codigos": [
+      {
+        "codigo": "RZTR11",
+        "preco": 87.41,
+        "precoAnterior": 88.22,
+        "variacao": -0.92
+      }
+    ]
+  },
+  {
+    "nome": "FII SUNO EL",
+    "nomeCompleto": "FUNDO DE INVEST IMOBILIARIO SUNO ENERGIAS LIMPAS",
+    "cnpj": "43741171000184",
+    "dataInicio": "23/07/2024",
+    "quotaCount": "18898185",
+    "codigos": [
+      {
+        "codigo": "SNEL11",
+        "preco": 8.7,
+        "precoAnterior": 8.7,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII BLUE REC",
+    "nomeCompleto": "FUNDO DE INVESTIMENTO IMOBILIÁRIO – BLUE RECEBÍVEI",
+    "cnpj": "38051307000194",
+    "dataInicio": "21/03/2022",
+    "quotaCount": "90000",
+    "codigos": [
+      {
+        "codigo": "BLUR11",
+        "preco": 72.99,
+        "precoAnterior": 72.99,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII DEV ONE",
+    "nomeCompleto": "FUNDO DE INVESTIMENTO IMOBILIÁRIO – DEVELOPMENT V1",
+    "cnpj": "40102445000105",
+    "dataInicio": "02/02/2022",
+    "quotaCount": "66811",
+    "codigos": [
+      {
+        "codigo": "LKDV11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII RBR III",
+    "nomeCompleto": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RBR DESENV",
+    "cnpj": "32441656000136",
+    "dataInicio": "17/12/2021",
+    "quotaCount": "111974",
+    "codigos": [
+      {
+        "codigo": "RBRI11",
+        "preco": 919.99,
+        "precoAnterior": 919.99,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII SPX SYN",
+    "nomeCompleto": "FUNDO DE INVESTIMENTO IMOBILIÁRIO – SPX SYN MULT",
+    "cnpj": "43010543000100",
+    "dataInicio": "17/10/2023",
+    "quotaCount": "20189040",
+    "codigos": [
+      {
+        "codigo": "SPXS11",
+        "preco": 8.41,
+        "precoAnterior": 8.43,
+        "variacao": -0.24
+      }
+    ]
+  },
+  {
+    "nome": "FII APEX MS",
+    "nomeCompleto": "FUNDO DE INVESTIMENTO IMOBILIÁRIO APEX MALLS - FII",
+    "cnpj": "43010485000107",
+    "dataInicio": "23/08/2024",
+    "quotaCount": "2829142",
+    "codigos": [
+      {
+        "codigo": "APXM11",
+        "preco": 90,
+        "precoAnterior": 94,
+        "variacao": -4.26
+      }
+    ]
+  },
+  {
+    "nome": "FII CAIXA AG",
+    "nomeCompleto": "FUNDO DE INVESTIMENTO IMOBILIÁRIO CAIXA AGÊNCIAS",
+    "cnpj": "40189596000134",
+    "dataInicio": "29/11/2021",
+    "quotaCount": "2090621",
+    "codigos": [
+      {
+        "codigo": "CXAG11",
+        "preco": 69.94,
+        "precoAnterior": 69.73,
+        "variacao": 0.3
+      }
+    ]
+  },
+  {
+    "nome": "FII BLUE",
+    "nomeCompleto": "FUNDO DE INVESTIMENTO IMOBILIÁRIO MACAM SHOPPING",
+    "cnpj": "16685929000131",
+    "dataInicio": "28/01/2025",
+    "quotaCount": "872895",
+    "codigos": [
+      {
+        "codigo": "BLUE11",
+        "preco": 260,
+        "precoAnterior": 260,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII PATRI IV",
+    "nomeCompleto": "FUNDO DE INVESTIMENTO IMOBILIARIO PATRIMONIAL IV",
+    "cnpj": "09150967000124",
+    "dataInicio": "04/08/2022",
+    "quotaCount": "73304",
+    "codigos": [
+      {
+        "codigo": "OPTM11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII ROOFTOPI",
+    "nomeCompleto": "FUNDO DE INVESTIMENTO IMOBILIÁRIO ROOFTOP I",
+    "cnpj": "38456598000109",
+    "dataInicio": "01/12/2021",
+    "quotaCount": "77865",
+    "codigos": [
+      {
+        "codigo": "ROOF11",
+        "preco": 727.2,
+        "precoAnterior": 727.2,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII SOFF",
+    "nomeCompleto": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SOFIA",
+    "cnpj": "57811221000167",
+    "dataInicio": "26/11/2024",
+    "quotaCount": "50000",
+    "codigos": [
+      {
+        "codigo": "SOFF11",
+        "preco": 101.94,
+        "precoAnterior": 101.94,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII TOUR V",
+    "nomeCompleto": "G5 CIDADE NOVA FDO. INVEST. IMOB.",
+    "cnpj": "34197700000130",
+    "dataInicio": "26/09/2024",
+    "quotaCount": "831197",
+    "codigos": [
+      {
+        "codigo": "TCIN11",
+        "preco": 145.92,
+        "precoAnterior": 145.92,
+        "variacao": 0
+      },
+      {
+        "codigo": "TCIN12",
+        "preco": 1,
+        "precoAnterior": 1,
+        "variacao": 0
+      },
+      {
+        "codigo": "TCIN15",
+        "preco": 90,
+        "precoAnterior": 90,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII GCDL",
+    "nomeCompleto": "GALAPAGOS DESENVOLVIMENTO LOGÍSTICO FII RESP LIM",
+    "cnpj": "56061587000101",
+    "dataInicio": "26/03/2025",
+    "quotaCount": "256213",
+    "codigos": [
+      {
+        "codigo": "GCDL11",
+        "preco": 106.72,
+        "precoAnterior": 106.72,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII GLPF",
+    "nomeCompleto": "GALAPAGOS FEEDER LOGÍSTICO FUN DE INV IMO RESP LIM",
+    "cnpj": "58378463000171",
+    "dataInicio": "10/01/2025",
+    "quotaCount": "1505000",
+    "codigos": [
+      {
+        "codigo": "GLPF11",
+        "preco": 103.96,
+        "precoAnterior": 103.96,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII GLPG CRI",
+    "nomeCompleto": "GALAPAGOS RECEBÍVEIS IMOBILIÁRIOS - FDO. INV. IMOB",
+    "cnpj": "38293897000161",
+    "dataInicio": "03/03/2023",
+    "quotaCount": "1453859",
+    "codigos": [
+      {
+        "codigo": "GCRI11",
+        "preco": 64.18,
+        "precoAnterior": 63.9,
+        "variacao": 0.44
+      }
+    ]
+  },
+  {
+    "nome": "FII GALAP SP",
+    "nomeCompleto": "GALAPAGOS SPECIAL OPORTUNITIES FII RESP LIM",
+    "cnpj": "46285299000179",
+    "dataInicio": "02/01/2023",
+    "quotaCount": "113000",
+    "codigos": [
+      {
+        "codigo": "GCOI11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII GAZIT",
+    "nomeCompleto": "GAZIT MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "15447108000102",
+    "dataInicio": "19/12/2023",
+    "quotaCount": "21841231",
+    "codigos": [
+      {
+        "codigo": "GZIT11",
+        "preco": 48.48,
+        "precoAnterior": 48.35,
+        "variacao": 0.27
+      }
+    ]
+  },
+  {
+    "nome": "FII GENERAL",
+    "nomeCompleto": "GENERAL SHOP E OUTLETS DO BRASIL FDO INV IMOB - FI",
+    "cnpj": "11769604000113",
+    "dataInicio": "04/09/2024",
+    "quotaCount": "89927608",
+    "codigos": [
+      {
+        "codigo": "GSFI11",
+        "preco": 7.79,
+        "precoAnterior": 7.8,
+        "variacao": -0.13
+      }
+    ]
+  },
+  {
+    "nome": "FII GEN SHOP",
+    "nomeCompleto": "GENERAL SHOPPING ATIVO E RENDA FUNDO DE INV, IMOB.",
+    "cnpj": "17590518000125",
+    "dataInicio": "30/12/2019",
+    "quotaCount": "2850000",
+    "codigos": [
+      {
+        "codigo": "FIGS11",
+        "preco": 45.42,
+        "precoAnterior": 45.57,
+        "variacao": -0.33
+      }
+    ]
+  },
+  {
+    "nome": "FII VX XVI",
+    "nomeCompleto": "GENESIS MULTIESTRATÉGIA FDO INV. IMOB.",
+    "cnpj": "30982974000189",
+    "dataInicio": "28/02/2025",
+    "quotaCount": "284146",
+    "codigos": [
+      {
+        "codigo": "VXXV11",
+        "preco": 700,
+        "precoAnterior": 700,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII PLURAL L",
+    "nomeCompleto": "GENIAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "36501198000134",
+    "dataInicio": "27/10/2020",
+    "quotaCount": "750000",
+    "codigos": [
+      {
+        "codigo": "GLOG11",
+        "preco": 57.72,
+        "precoAnterior": 57.82,
+        "variacao": -0.17
+      }
+    ]
+  },
+  {
+    "nome": "FII MALLS BP",
+    "nomeCompleto": "GENIAL MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "26499833000132",
+    "dataInicio": "09/12/2024",
+    "quotaCount": "13982093",
+    "codigos": [
+      {
+        "codigo": "MALL11",
+        "preco": 99.19,
+        "precoAnterior": 98.91,
+        "variacao": 0.28
+      }
+    ]
+  },
+  {
+    "nome": "FII GGRCOVEP",
+    "nomeCompleto": "GGR COVEPI RENDA FDO INV IMOB RESPONSAB LTDA",
+    "cnpj": "26614291000100",
+    "dataInicio": "19/09/2024",
+    "quotaCount": "122285100",
+    "codigos": [
+      {
+        "codigo": "GGRC11",
+        "preco": 9.71,
+        "precoAnterior": 9.75,
+        "variacao": -0.41
+      }
+    ]
+  },
+  {
+    "nome": "FII GP RCFA",
+    "nomeCompleto": "GRUPO RCFA FDO INV IMOB",
+    "cnpj": "27771586000144",
+    "dataInicio": "01/12/2021",
+    "quotaCount": "583926",
+    "codigos": [
+      {
+        "codigo": "RCFA11",
+        "preco": 0.78,
+        "precoAnterior": 0.67,
+        "variacao": 16.42
+      }
+    ]
+  },
+  {
+    "nome": "FII HABIT II",
+    "nomeCompleto": "HABITAT RECEBÍVEIS PULVERIZADOS - FII",
+    "cnpj": "30578417000105",
+    "dataInicio": "13/12/2022",
+    "quotaCount": "8126783",
+    "codigos": [
+      {
+        "codigo": "HABT11",
+        "preco": 78.8,
+        "precoAnterior": 79.09,
+        "variacao": -0.37
+      }
+    ]
+  },
+  {
+    "nome": "FII HAZ",
+    "nomeCompleto": "HAZ FDO INV IMOB - FII",
+    "cnpj": "14631148000139",
+    "dataInicio": "03/12/2015",
+    "quotaCount": "908046",
+    "codigos": [
+      {
+        "codigo": "ATCR11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII HECTARE",
+    "nomeCompleto": "HECTARE CE - FDO INV IMOB",
+    "cnpj": "30248180000196",
+    "dataInicio": "04/02/2022",
+    "quotaCount": "22084202",
+    "codigos": [
+      {
+        "codigo": "HCTR11",
+        "preco": 21.44,
+        "precoAnterior": 21.64,
+        "variacao": -0.92
+      }
+    ]
+  },
+  {
+    "nome": "FII HECT DES",
+    "nomeCompleto": "HECTARE DESENV. STUDENT HOUSING - FDO. INV. IMOB.",
+    "cnpj": "31152015000107",
+    "dataInicio": "08/06/2022",
+    "quotaCount": "311743",
+    "codigos": [
+      {
+        "codigo": "HCST11",
+        "preco": 49.44,
+        "precoAnterior": 49.44,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII HECT CRI",
+    "nomeCompleto": "HECTARE RECEBÍVEIS HIGH GRADE FDO. INV. IMOB.",
+    "cnpj": "34508959000154",
+    "dataInicio": "16/06/2021",
+    "quotaCount": "1200000",
+    "codigos": [
+      {
+        "codigo": "HCHG11",
+        "preco": 75.85,
+        "precoAnterior": 75.85,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII HEDGEAAA",
+    "nomeCompleto": "HEDGE AAA FDO. INV. IMOB.",
+    "cnpj": "27445482000140",
+    "dataInicio": "15/07/2021",
+    "quotaCount": "3455000",
+    "codigos": [
+      {
+        "codigo": "HAAA11",
+        "preco": 25.26,
+        "precoAnterior": 25.26,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII HATRIUM",
+    "nomeCompleto": "HEDGE ATRIUM SHOPPING SANTO ANDRE FDO INV IMOB",
+    "cnpj": "12809972000100",
+    "dataInicio": "05/01/2021",
+    "quotaCount": "1751141",
+    "codigos": [
+      {
+        "codigo": "ATSA11",
+        "preco": 49.97,
+        "precoAnterior": 49.97,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII HGBL",
+    "nomeCompleto": "HEDGE BRASIL LOGÍSTICO IND FUND INV IMOB RESP LIM",
+    "cnpj": "53466467000198",
+    "dataInicio": "12/08/2024",
+    "quotaCount": "12233472",
+    "codigos": [
+      {
+        "codigo": "HGBL11",
+        "preco": 8.58,
+        "precoAnterior": 8.55,
+        "variacao": 0.35
+      }
+    ]
+  },
+  {
+    "nome": "FII HEDGEBS",
+    "nomeCompleto": "HEDGE BRASIL SHOPPING FDO INV IMOB",
+    "cnpj": "08431747000106",
+    "dataInicio": "26/11/2024",
+    "quotaCount": "12913301",
+    "codigos": [
+      {
+        "codigo": "HGBS11",
+        "preco": 191.51,
+        "precoAnterior": 193.71,
+        "variacao": -1.14
+      }
+    ]
+  },
+  {
+    "nome": "FII HEDGE DV",
+    "nomeCompleto": "HEDGE DESENVOLVIMENTO LOGÍSTICO FDO INV IMOB",
+    "cnpj": "44514162000113",
+    "dataInicio": "07/08/2023",
+    "quotaCount": "840000",
+    "codigos": [
+      {
+        "codigo": "HDEL11",
+        "preco": 99,
+        "precoAnterior": 99,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII FLORIPA",
+    "nomeCompleto": "HEDGE FLORIPA SHOPPING FUNDO INV IMOBI",
+    "cnpj": "10375382000191",
+    "dataInicio": "04/07/2024",
+    "quotaCount": "72000",
+    "codigos": [
+      {
+        "codigo": "FLRP11",
+        "preco": 1930,
+        "precoAnterior": 1930,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII HEDGELOG",
+    "nomeCompleto": "HEDGE LOGÍSTICA FDO. INV. IMOB.",
+    "cnpj": "27486542000172",
+    "dataInicio": "02/12/2020",
+    "quotaCount": "4250000",
+    "codigos": [
+      {
+        "codigo": "HLOG11",
+        "preco": 78.4,
+        "precoAnterior": 78.4,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII HOFFICEI",
+    "nomeCompleto": "HEDGE OFFICE INCOME FUNDO DE INVESTIMENTO IMOB.",
+    "cnpj": "31894369000119",
+    "dataInicio": "24/03/2020",
+    "quotaCount": "3779001",
+    "codigos": [
+      {
+        "codigo": "HOFC11",
+        "preco": 24.79,
+        "precoAnterior": 24.8,
+        "variacao": -0.04
+      }
+    ]
+  },
+  {
+    "nome": "FII HEDGE OF",
+    "nomeCompleto": "HEDGE PALADIN DESIGN OFFICES FDO INV IMOB",
+    "cnpj": "35688460000139",
+    "dataInicio": "14/01/2022",
+    "quotaCount": "1550169",
+    "codigos": [
+      {
+        "codigo": "HDOF11",
+        "preco": 100,
+        "precoAnterior": 100,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII HREALTY",
+    "nomeCompleto": "HEDGE REALTY DEVELOPMENT FDO INV IMOB",
+    "cnpj": "16929519000199",
+    "dataInicio": "28/04/2023",
+    "quotaCount": "1517425",
+    "codigos": [
+      {
+        "codigo": "HRDF11",
+        "preco": 3,
+        "precoAnterior": 3,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII HEDGEREC",
+    "nomeCompleto": "HEDGE RECEBIVEIS IMOB. FUNDO DE INVST. IMOB.",
+    "cnpj": "35507262000121",
+    "dataInicio": "23/08/2024",
+    "quotaCount": "51685917",
+    "codigos": [
+      {
+        "codigo": "HREC11",
+        "preco": 8.28,
+        "precoAnterior": 8.29,
+        "variacao": -0.12
+      }
+    ]
+  },
+  {
+    "nome": "FII HEDGE SD",
+    "nomeCompleto": "HEDGE SEED FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "35689497000181",
+    "dataInicio": "23/12/2021",
+    "quotaCount": "1640000",
+    "codigos": [
+      {
+        "codigo": "SEED11",
+        "preco": 93,
+        "precoAnterior": 93,
+        "variacao": 0
+      },
+      {
+        "codigo": "SEED13",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII HEDGEPDP",
+    "nomeCompleto": "HEDGE SHOPPING PARQUE DOM PEDRO FDO. DE INV. IMOB.",
+    "cnpj": "35586415000173",
+    "dataInicio": "03/08/2023",
+    "quotaCount": "2950649",
+    "codigos": [
+      {
+        "codigo": "HPDP11",
+        "preco": 88,
+        "precoAnterior": 88,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII HTOPFOF3",
+    "nomeCompleto": "HEDGE TOP FOFII 3 FDO INV IMOB",
+    "cnpj": "18307582000119",
+    "dataInicio": "07/01/2025",
+    "quotaCount": "23046000",
+    "codigos": [
+      {
+        "codigo": "HFOF11",
+        "preco": 54.26,
+        "precoAnterior": 54.39,
+        "variacao": -0.24
+      }
+    ]
+  },
+  {
+    "nome": "FII YEES",
+    "nomeCompleto": "HEDGE YEES HABITAÇÕES ECON FDO DE INV IMOB RESP L",
+    "cnpj": "51385174000150",
+    "dataInicio": "04/12/2024",
+    "quotaCount": "164927",
+    "codigos": [
+      {
+        "codigo": "YEES11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII HGI CRI",
+    "nomeCompleto": "HGI CRÉDITOS IMOBILIÁRIOS FDO. INV. IMOB.",
+    "cnpj": "38456508000171",
+    "dataInicio": "06/06/2023",
+    "quotaCount": "462706",
+    "codigos": [
+      {
+        "codigo": "HGIC11",
+        "preco": 79.78,
+        "precoAnterior": 79.78,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII HIRE LOG",
+    "nomeCompleto": "HIRE LOG I FDO DE INV IMOB",
+    "cnpj": "34867728000137",
+    "dataInicio": "29/12/2022",
+    "quotaCount": "522087",
+    "codigos": [
+      {
+        "codigo": "HILG11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII HSI CRI",
+    "nomeCompleto": "HSI ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBI",
+    "cnpj": "35360687000150",
+    "dataInicio": "13/12/2022",
+    "quotaCount": "2526360",
+    "codigos": [
+      {
+        "codigo": "HSAF11",
+        "preco": 78.53,
+        "precoAnterior": 78.61,
+        "variacao": -0.1
+      }
+    ]
+  },
+  {
+    "nome": "FII HSI LOG",
+    "nomeCompleto": "HSI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "32903621000171",
+    "dataInicio": "04/11/2020",
+    "quotaCount": "12660067",
+    "codigos": [
+      {
+        "codigo": "HSLG11",
+        "preco": 78.48,
+        "precoAnterior": 79.03,
+        "variacao": -0.7
+      }
+    ]
+  },
+  {
+    "nome": "FII HSI MALL",
+    "nomeCompleto": "HSI MALL FDO INV IMOB",
+    "cnpj": "32892018000131",
+    "dataInicio": "20/05/2024",
+    "quotaCount": "20808572",
+    "codigos": [
+      {
+        "codigo": "HSML11",
+        "preco": 80.15,
+        "precoAnterior": 80.49,
+        "variacao": -0.42
+      }
+    ]
+  },
+  {
+    "nome": "FII HSIRENDA",
+    "nomeCompleto": "HSI RENDA IMOB FDO INV IMOB RESPONSABILIDADE LTDA",
+    "cnpj": "08098114000128",
+    "dataInicio": "08/05/2023",
+    "quotaCount": "8898724",
+    "codigos": [
+      {
+        "codigo": "HSRE11",
+        "preco": 101.99,
+        "precoAnterior": 101.99,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII HUSI",
+    "nomeCompleto": "HUSI FDO INV. IMOB.",
+    "cnpj": "30017492000199",
+    "dataInicio": "10/11/2021",
+    "quotaCount": "114562",
+    "codigos": [
+      {
+        "codigo": "HUSI11",
+        "preco": 1230,
+        "precoAnterior": 1230,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII IVCI",
+    "nomeCompleto": "ICATU VANGUARDA CRÉDITO IMOB FDO DE INV IMOB LTDA",
+    "cnpj": "53305536000181",
+    "dataInicio": "06/08/2024",
+    "quotaCount": "500000",
+    "codigos": [
+      {
+        "codigo": "IVCI11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII GRUL",
+    "nomeCompleto": "ICATU VANGUARDA GRU LOG FDO DE INV IMOB - RESP LIM",
+    "cnpj": "54483412000159",
+    "dataInicio": "05/06/2024",
+    "quotaCount": "24700000",
+    "codigos": [
+      {
+        "codigo": "GRUL11",
+        "preco": 8.26,
+        "precoAnterior": 8.26,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII ICNE",
+    "nomeCompleto": "ÍCONE - FUNDO DE INVEST IMOB RES LIMITADA",
+    "cnpj": "53137434000102",
+    "dataInicio": "19/12/2023",
+    "quotaCount": "120000",
+    "codigos": [
+      {
+        "codigo": "ICNE11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII INDE",
+    "nomeCompleto": "INTER DESENVOLVIMENTO FDO DE INV IMOB",
+    "cnpj": "52635194000103",
+    "dataInicio": "18/06/2024",
+    "quotaCount": "56987",
+    "codigos": [
+      {
+        "codigo": "INDE11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII INTER LG",
+    "nomeCompleto": "INTER LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "34598181000111",
+    "dataInicio": "16/07/2024",
+    "quotaCount": "4512103",
+    "codigos": [
+      {
+        "codigo": "INLG11",
+        "preco": 67.5,
+        "precoAnterior": 67.75,
+        "variacao": -0.37
+      }
+    ]
+  },
+  {
+    "nome": "FII INTER RD",
+    "nomeCompleto": "INTER RESIDENCE FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "34835191000123",
+    "dataInicio": "03/11/2022",
+    "quotaCount": "1130706",
+    "codigos": [
+      {
+        "codigo": "INRD11",
+        "preco": 67.33,
+        "precoAnterior": 67,
+        "variacao": 0.49
+      }
+    ]
+  },
+  {
+    "nome": "FII INTER IP",
+    "nomeCompleto": "INTER TEVA INDICE DE PAPEL FUNDO DE INVESTIMENTO",
+    "cnpj": "36312772000106",
+    "dataInicio": "08/09/2020",
+    "quotaCount": "748151",
+    "codigos": [
+      {
+        "codigo": "ITIP11",
+        "preco": 64.45,
+        "precoAnterior": 65.04,
+        "variacao": -0.91
+      }
+    ]
+  },
+  {
+    "nome": "FII INTER IT",
+    "nomeCompleto": "INTER TEVA INDICE DE TIJOLO FUNDO DE INVESTIMENTO",
+    "cnpj": "36293425000183",
+    "dataInicio": "06/07/2020",
+    "quotaCount": "900494",
+    "codigos": [
+      {
+        "codigo": "ITIT11",
+        "preco": 66,
+        "precoAnterior": 66.21,
+        "variacao": -0.32
+      }
+    ]
+  },
+  {
+    "nome": "FII IBBP",
+    "nomeCompleto": "INVISTA BRAZILIAN BUSINESS PARK FDO DE INV IMOB",
+    "cnpj": "52551605000174",
+    "dataInicio": "13/12/2024",
+    "quotaCount": "41339653",
+    "codigos": [
+      {
+        "codigo": "IBBP11",
+        "preco": 8.2,
+        "precoAnterior": 8.2,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII ISCJ",
+    "nomeCompleto": "INVISTA SCJ - FII",
+    "cnpj": "50418740000110",
+    "dataInicio": "11/10/2023",
+    "quotaCount": "313970",
+    "codigos": [
+      {
+        "codigo": "ISCJ11",
+        "preco": 92.5,
+        "precoAnterior": 92.5,
+        "variacao": 0
+      },
+      {
+        "codigo": "ISCJ12",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII IRIM",
+    "nomeCompleto": "IRIDIUM FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "41076564000195",
+    "dataInicio": "16/03/2022",
+    "quotaCount": "1720000",
+    "codigos": [
+      {
+        "codigo": "IRIM11",
+        "preco": 68.5,
+        "precoAnterior": 68.34,
+        "variacao": 0.23
+      }
+    ]
+  },
+  {
+    "nome": "FII CI IPCA",
+    "nomeCompleto": "ITAÚ CRÉDITO IMOB IPCA FDO DE INV IMOB",
+    "cnpj": "51294441000184",
+    "dataInicio": "06/02/2024",
+    "quotaCount": "3857359",
+    "codigos": [
+      {
+        "codigo": "ICRI11",
+        "preco": 93.17,
+        "precoAnterior": 93.21,
+        "variacao": -0.04
+      }
+    ]
+  },
+  {
+    "nome": "FII ITAU TEM",
+    "nomeCompleto": "ITAÚ TEMPUS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "42737077000199",
+    "dataInicio": "19/04/2023",
+    "quotaCount": "978968",
+    "codigos": [
+      {
+        "codigo": "TMPS11",
+        "preco": 77.57,
+        "precoAnterior": 77.64,
+        "variacao": -0.09
+      }
+    ]
+  },
+  {
+    "nome": "FII ITRI",
+    "nomeCompleto": "ITAÚ TOTAL RETURN FDO DE INV IMOB",
+    "cnpj": "52270671000176",
+    "dataInicio": "22/03/2024",
+    "quotaCount": "6250000",
+    "codigos": [
+      {
+        "codigo": "ITRI11",
+        "preco": 75.74,
+        "precoAnterior": 76.35,
+        "variacao": -0.8
+      }
+    ]
+  },
+  {
+    "nome": "FII JASC REN",
+    "nomeCompleto": "JASC RENDA VAREJO ESSENCIAL FDO DE INV IMOB - FII",
+    "cnpj": "40886241000102",
+    "dataInicio": "20/11/2023",
+    "quotaCount": "3489342",
+    "codigos": [
+      {
+        "codigo": "JASC11",
+        "preco": 100,
+        "precoAnterior": 100,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII JBFO FOF",
+    "nomeCompleto": "JBFO FOF FDO INV. IMOB.",
+    "cnpj": "36615915000159",
+    "dataInicio": "11/09/2020",
+    "quotaCount": "1279070",
+    "codigos": [
+      {
+        "codigo": "JBFO11",
+        "preco": 82.01,
+        "precoAnterior": 82.01,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII JFDCAM",
+    "nomeCompleto": "JFDCAM FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
+    "cnpj": "15489509000117",
+    "dataInicio": "04/10/2021",
+    "quotaCount": "4876129",
+    "codigos": [
+      {
+        "codigo": "VJFD11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII JFL LIV",
+    "nomeCompleto": "JFL LIVING FDO. INV. IMOB.",
+    "cnpj": "36501181000187",
+    "dataInicio": "03/11/2020",
+    "quotaCount": "1500598",
+    "codigos": [
+      {
+        "codigo": "JFLL11",
+        "preco": 71.2,
+        "precoAnterior": 71.26,
+        "variacao": -0.08
+      }
+    ]
+  },
+  {
+    "nome": "FII JHSF CJ",
+    "nomeCompleto": "JHSF CAPITAL CIDADE JARDIM – FDO DE INV IMOB",
+    "cnpj": "50701686000116",
+    "dataInicio": "21/07/2023",
+    "quotaCount": "1668505",
+    "codigos": [
+      {
+        "codigo": "JCCJ11",
+        "preco": 153,
+        "precoAnterior": 153,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII JPP CAPI",
+    "nomeCompleto": "JPP CAPITAL FDO INV IMOB - FII",
+    "cnpj": "17216625000198",
+    "dataInicio": "16/04/2013",
+    "quotaCount": "55000",
+    "codigos": [
+      {
+        "codigo": "JPPC11",
+        "preco": 110.19,
+        "precoAnterior": 110.19,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII JPPA CRI",
+    "nomeCompleto": "JPP CAPITAL RECEBIVEIS IMOB. FDO. INVEST. IMOB.",
+    "cnpj": "30982880000100",
+    "dataInicio": "06/10/2022",
+    "quotaCount": "904050",
+    "codigos": [
+      {
+        "codigo": "JPPA11",
+        "preco": 81.24,
+        "precoAnterior": 81.13,
+        "variacao": 0.14
+      }
+    ]
+  },
+  {
+    "nome": "FII JS A FIN",
+    "nomeCompleto": "JS ATIVOS FINANCEIROS FDO DE INV IMOBILIÁRIO",
+    "cnpj": "42085661000107",
+    "dataInicio": "03/12/2024",
+    "quotaCount": "77523290",
+    "codigos": [
+      {
+        "codigo": "JSAF11",
+        "preco": 7.95,
+        "precoAnterior": 8.01,
+        "variacao": -0.75
+      }
+    ]
+  },
+  {
+    "nome": "FII JS REAL",
+    "nomeCompleto": "JS REAL ESTATE MULTIGESTÃO - FII",
+    "cnpj": "13371132000171",
+    "dataInicio": "03/03/2020",
+    "quotaCount": "20767328",
+    "codigos": [
+      {
+        "codigo": "JSRE11",
+        "preco": 58.87,
+        "precoAnterior": 58.8,
+        "variacao": 0.12
+      }
+    ]
+  },
+  {
+    "nome": "FII JSCR",
+    "nomeCompleto": "JS RECEBÍVEIS IMOBILIÁRIOS FDO DE INV IMOB",
+    "cnpj": "54866214000174",
+    "dataInicio": "09/01/2025",
+    "quotaCount": "22137100",
+    "codigos": [
+      {
+        "codigo": "JSCR11",
+        "preco": 8.3,
+        "precoAnterior": 8.4,
+        "variacao": -1.19
+      }
+    ]
+  },
+  {
+    "nome": "FII JT PREV",
+    "nomeCompleto": "JT PREV FDO INV IMOB DESENVOLVIMENTO HABITACIONAL",
+    "cnpj": "23876086000116",
+    "dataInicio": "28/08/2017",
+    "quotaCount": "214674",
+    "codigos": [
+      {
+        "codigo": "JTPR11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII KILIMA",
+    "nomeCompleto": "KILIMA FIC FDO. IMOB. SUNO 30",
+    "cnpj": "36669660000107",
+    "dataInicio": "22/07/2021",
+    "quotaCount": "44196050",
+    "codigos": [
+      {
+        "codigo": "KISU11",
+        "preco": 6.95,
+        "precoAnterior": 6.96,
+        "variacao": -0.14
+      }
+    ]
+  },
+  {
+    "nome": "FII KIVO",
+    "nomeCompleto": "KILIMA VOLKANO RECEBÍVEIS IMOB FDO DE INV IMOB",
+    "cnpj": "42273325000198",
+    "dataInicio": "28/12/2023",
+    "quotaCount": "2222736",
+    "codigos": [
+      {
+        "codigo": "KIVO11",
+        "preco": 64.4,
+        "precoAnterior": 64.93,
+        "variacao": -0.82
+      }
+    ]
+  },
+  {
+    "nome": "FII KINEA CR",
+    "nomeCompleto": "KINEA CREDITAS FDO DE INV IMOBILIÁRIO - FII",
+    "cnpj": "42502802000140",
+    "dataInicio": "07/06/2024",
+    "quotaCount": "36000000",
+    "codigos": [
+      {
+        "codigo": "KCRE11",
+        "preco": 8.68,
+        "precoAnterior": 8.65,
+        "variacao": 0.35
+      }
+    ]
+  },
+  {
+    "nome": "FII KFEN",
+    "nomeCompleto": "KINEA FÊNIX FII - RESP LIM",
+    "cnpj": "55753193000143",
+    "dataInicio": "13/01/2025",
+    "quotaCount": "178651",
+    "codigos": [
+      {
+        "codigo": "KFEN11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII KINEA HF",
+    "nomeCompleto": "KINEA HEDGE FUND FDO DE INV IMOB",
+    "cnpj": "42754342000147",
+    "dataInicio": "10/11/2023",
+    "quotaCount": "19663235",
+    "codigos": [
+      {
+        "codigo": "KNHF11",
+        "preco": 88.09,
+        "precoAnterior": 88.29,
+        "variacao": -0.23
+      }
+    ]
+  },
+  {
+    "nome": "FII KINEA HY",
+    "nomeCompleto": "KINEA HIGH YIELD CRI FDO INV IMOB - FII",
+    "cnpj": "30130708000128",
+    "dataInicio": "05/03/2024",
+    "quotaCount": "28169507",
+    "codigos": [
+      {
+        "codigo": "KNHY11",
+        "preco": 100.76,
+        "precoAnterior": 100.82,
+        "variacao": -0.06
+      }
+    ]
+  },
+  {
+    "nome": "FII KII REAL",
+    "nomeCompleto": "KINEA II REAL ESTATE EQUITY FDO INV IMOB",
+    "cnpj": "14423780000197",
+    "dataInicio": "25/10/2017",
+    "quotaCount": "18547161",
+    "codigos": [
+      {
+        "codigo": "KNRE11",
+        "preco": 0.2,
+        "precoAnterior": 0.19,
+        "variacao": 5.26
+      }
+    ]
+  },
+  {
+    "nome": "FII KINEA IP",
+    "nomeCompleto": "KINEA ÍNDICES DE PREÇOS FDO INV IMOB - FII",
+    "cnpj": "24960430000113",
+    "dataInicio": "06/06/2022",
+    "quotaCount": "80078186",
+    "codigos": [
+      {
+        "codigo": "KNIP11",
+        "preco": 89.56,
+        "precoAnterior": 89.56,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII KORE",
+    "nomeCompleto": "KINEA OPORTUNIDADES REAL ESTATE FDO DE INV IMOB",
+    "cnpj": "52219978000142",
+    "dataInicio": "05/12/2023",
+    "quotaCount": "9625000",
+    "codigos": [
+      {
+        "codigo": "KORE11",
+        "preco": 84.58,
+        "precoAnterior": 84.03,
+        "variacao": 0.65
+      }
+    ]
+  },
+  {
+    "nome": "FII KINEA",
+    "nomeCompleto": "KINEA RENDA IMOBILIÁRIA FDO INV IMOB - FII",
+    "cnpj": "12005956000165",
+    "dataInicio": "26/03/2024",
+    "quotaCount": "28204047",
+    "codigos": [
+      {
+        "codigo": "KNRI11",
+        "preco": 135.75,
+        "precoAnterior": 136.39,
+        "variacao": -0.47
+      }
+    ]
+  },
+  {
+    "nome": "FII KINEA RI",
+    "nomeCompleto": "KINEA RENDIMENTOS IMOBILIÁRIOS FDO INV IMOB - FII",
+    "cnpj": "16706958000132",
+    "dataInicio": "23/05/2024",
+    "quotaCount": "69489274",
+    "codigos": [
+      {
+        "codigo": "KNCR11",
+        "preco": 103.16,
+        "precoAnterior": 103,
+        "variacao": 0.16
+      }
+    ]
+  },
+  {
+    "nome": "FII KINEA SC",
+    "nomeCompleto": "KINEA SECURITIES FDO. DE INV. IMOB. - FII",
+    "cnpj": "35864448000138",
+    "dataInicio": "16/08/2024",
+    "quotaCount": "202202385",
+    "codigos": [
+      {
+        "codigo": "KNSC11",
+        "preco": 8.64,
+        "precoAnterior": 8.67,
+        "variacao": -0.35
+      }
+    ]
+  },
+  {
+    "nome": "FII KINEA UN",
+    "nomeCompleto": "KINEA UNIQUE HY CDI FUNDO DE INVESTIMENTO IMOB",
+    "cnpj": "42754362000118",
+    "dataInicio": "26/04/2024",
+    "quotaCount": "15312517",
+    "codigos": [
+      {
+        "codigo": "KNUQ11",
+        "preco": 104.24,
+        "precoAnterior": 104.16,
+        "variacao": 0.08
+      }
+    ]
+  },
+  {
+    "nome": "FII LAGO PDR",
+    "nomeCompleto": "LAGO DA PEDRA - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "37262752000130",
+    "dataInicio": "26/12/2024",
+    "quotaCount": "580510",
+    "codigos": [
+      {
+        "codigo": "LPLP11",
+        "preco": 500,
+        "precoAnterior": 500,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII LEGATUS",
+    "nomeCompleto": "LEGATUS SHOPPINGS FDO. INV. IMOB. - FII",
+    "cnpj": "30248158000146",
+    "dataInicio": "13/04/2023",
+    "quotaCount": "2940298",
+    "codigos": [
+      {
+        "codigo": "LASC11",
+        "preco": 100.93,
+        "precoAnterior": 100.93,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII LIFE",
+    "nomeCompleto": "LIFE CAPITAL PARTNERS FUNDO DE INVESTIMENTO IMOB",
+    "cnpj": "39753295000102",
+    "dataInicio": "11/02/2025",
+    "quotaCount": "37901307",
+    "codigos": [
+      {
+        "codigo": "LIFE11",
+        "preco": 8.71,
+        "precoAnterior": 8.73,
+        "variacao": -0.23
+      }
+    ]
+  },
+  {
+    "nome": "FII LOFT II",
+    "nomeCompleto": "LOFT II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "24796967000190",
+    "dataInicio": "24/07/2020",
+    "quotaCount": "2000000",
+    "codigos": [
+      {
+        "codigo": "LFTT11",
+        "preco": 5.79,
+        "precoAnterior": 6.04,
+        "variacao": -4.14
+      }
+    ]
+  },
+  {
+    "nome": "FII MANATI",
+    "nomeCompleto": "MANATÍ CAPITAL HEDGE FUND FDO INV IMOB",
+    "cnpj": "42888583000189",
+    "dataInicio": "10/06/2024",
+    "quotaCount": "37536140",
+    "codigos": [
+      {
+        "codigo": "MANA11",
+        "preco": 8.47,
+        "precoAnterior": 8.5,
+        "variacao": -0.35
+      }
+    ]
+  },
+  {
+    "nome": "FII MMVE OP",
+    "nomeCompleto": "MARESIAS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "41251337000159",
+    "dataInicio": "07/06/2022",
+    "quotaCount": "480000",
+    "codigos": [
+      {
+        "codigo": "MMVE11",
+        "preco": 157.5,
+        "precoAnterior": 157.5,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII MCLO",
+    "nomeCompleto": "MAUÁ CAPITAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOB",
+    "cnpj": "57466934000130",
+    "dataInicio": "16/01/2025",
+    "quotaCount": "44642860",
+    "codigos": [
+      {
+        "codigo": "MCLO11",
+        "preco": 10.73,
+        "precoAnterior": 10.73,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII MAUA RE",
+    "nomeCompleto": "MAUÁ CAPITAL REAL ESTATE FDO DE INV IMOB",
+    "cnpj": "36655973000106",
+    "dataInicio": "08/11/2024",
+    "quotaCount": "111598921",
+    "codigos": [
+      {
+        "codigo": "MCRE11",
+        "preco": 8.71,
+        "precoAnterior": 8.71,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII MAXI REN",
+    "nomeCompleto": "MAXI RENDA FDO INV IMOB - FII",
+    "cnpj": "97521225000125",
+    "dataInicio": "13/06/2024",
+    "quotaCount": "437325297",
+    "codigos": [
+      {
+        "codigo": "MXRF11",
+        "preco": 9.03,
+        "precoAnterior": 9.05,
+        "variacao": -0.22
+      }
+    ]
+  },
+  {
+    "nome": "FII MCEM",
+    "nomeCompleto": "MÉRITO CEMITÉRIOS FII - FDO DE INV IMOB",
+    "cnpj": "46157247000117",
+    "dataInicio": "31/10/2023",
+    "quotaCount": "1444860",
+    "codigos": [
+      {
+        "codigo": "MCEM11",
+        "preco": 110.09,
+        "precoAnterior": 110.09,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII MERITO I",
+    "nomeCompleto": "MÉRITO DESENVOLVIMENTO IMOBILIÁRIO I FII - FII",
+    "cnpj": "16915968000188",
+    "dataInicio": "04/03/2024",
+    "quotaCount": "5212395",
+    "codigos": [
+      {
+        "codigo": "MFII11",
+        "preco": 81.87,
+        "precoAnterior": 81.9,
+        "variacao": -0.04
+      }
+    ]
+  },
+  {
+    "nome": "FII MGRI",
+    "nomeCompleto": "MOGNO PROPERTIES FUNDO DE INVESTIMENTO IMOBILIARIO",
+    "cnpj": "41320997000144",
+    "dataInicio": "27/07/2022",
+    "quotaCount": "220000",
+    "codigos": [
+      {
+        "codigo": "MGRI11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII MULTSHOP",
+    "nomeCompleto": "MULTI SHOPPINGS FDO INV IMOB - FII",
+    "cnpj": "22459737000100",
+    "dataInicio": "08/04/2024",
+    "quotaCount": "1481266",
+    "codigos": [
+      {
+        "codigo": "SHOP11",
+        "preco": 55.04,
+        "precoAnterior": 55.04,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII MTGESTAO",
+    "nomeCompleto": "MULTIGESTÃO RENDA COMERCIAL FII RESP LIM",
+    "cnpj": "10456810000100",
+    "dataInicio": "07/05/2012",
+    "quotaCount": "463277",
+    "codigos": [
+      {
+        "codigo": "DRIT11",
+        "preco": 80.52,
+        "precoAnterior": 80.52,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII NAVI CRI",
+    "nomeCompleto": "NAVI CRÉDITO IMOBILIÁRIO - FDO INV IMOB",
+    "cnpj": "40041603000156",
+    "dataInicio": "27/12/2022",
+    "quotaCount": "3949999",
+    "codigos": [
+      {
+        "codigo": "NCRI11",
+        "preco": 8.9,
+        "precoAnterior": 8.68,
+        "variacao": 2.53
+      }
+    ]
+  },
+  {
+    "nome": "FII NAVI TOT",
+    "nomeCompleto": "NAVI IMOBILIÁRIO TOTAL RETURN FDO. INVEST. IMOB.",
+    "cnpj": "35652252000180",
+    "dataInicio": "20/09/2023",
+    "quotaCount": "612282",
+    "codigos": [
+      {
+        "codigo": "NAVT11",
+        "preco": 65.09,
+        "precoAnterior": 65.46,
+        "variacao": -0.57
+      }
+    ]
+  },
+  {
+    "nome": "FII NAVI RSD",
+    "nomeCompleto": "NAVI RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "42432327000182",
+    "dataInicio": "04/01/2023",
+    "quotaCount": "4612227",
+    "codigos": [
+      {
+        "codigo": "APTO11",
+        "preco": 8.46,
+        "precoAnterior": 8.56,
+        "variacao": -1.17
+      }
+    ]
+  },
+  {
+    "nome": "FII NEWPORT",
+    "nomeCompleto": "NEWPORT LOGÍSTICA FDO INV. IMOB.",
+    "cnpj": "32527626000147",
+    "dataInicio": "13/03/2024",
+    "quotaCount": "2817412",
+    "codigos": [
+      {
+        "codigo": "NEWL11",
+        "preco": 96.07,
+        "precoAnterior": 96.32,
+        "variacao": -0.26
+      }
+    ]
+  },
+  {
+    "nome": "FII NEWRU",
+    "nomeCompleto": "NEWPORT RENDA URBANA FDO INV IMOB",
+    "cnpj": "14793782000178",
+    "dataInicio": "09/04/2012",
+    "quotaCount": "742000",
+    "codigos": [
+      {
+        "codigo": "NEWU11",
+        "preco": 77.05,
+        "precoAnterior": 77.05,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII NOVA I",
+    "nomeCompleto": "NOVA I - FDO INV IMOB - FII",
+    "cnpj": "22003469000117",
+    "dataInicio": "28/02/2018",
+    "quotaCount": "337400",
+    "codigos": [
+      {
+        "codigo": "NVIF11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII OCTO",
+    "nomeCompleto": "OCTO FDO DE INV IMOB",
+    "cnpj": "44680435000108",
+    "dataInicio": "12/01/2024",
+    "quotaCount": "422986",
+    "codigos": [
+      {
+        "codigo": "OCRE11",
+        "preco": 76,
+        "precoAnterior": 76,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII ATRIO",
+    "nomeCompleto": "OPEN K ATIVOS E RECEBIVEIS  IMOBILIARIOS – FII",
+    "cnpj": "32006821000121",
+    "dataInicio": "11/11/2024",
+    "quotaCount": "20726943",
+    "codigos": [
+      {
+        "codigo": "ARRI11",
+        "preco": 7.29,
+        "precoAnterior": 7.29,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII OPPBAL",
+    "nomeCompleto": "OPPORTUNITY BALASSIANO FDO DE INV IMOB",
+    "cnpj": "42273290000197",
+    "dataInicio": "23/05/2024",
+    "quotaCount": "141279",
+    "codigos": [
+      {
+        "codigo": "OBAL11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "OBAL15",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "OBAL16",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII OPPORTUN",
+    "nomeCompleto": "OPPORTUNITY FDO INV IMOB – RESPONS LIMITADA",
+    "cnpj": "01235622000161",
+    "dataInicio": "17/12/2024",
+    "quotaCount": "1191101",
+    "codigos": [
+      {
+        "codigo": "FTCE11",
+        "preco": 2830.26,
+        "precoAnterior": 2830.26,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII OURI JPP",
+    "nomeCompleto": "OURINVEST JPP FDO INV IMOB - FII",
+    "cnpj": "26091656000150",
+    "dataInicio": "11/05/2021",
+    "quotaCount": "3252384",
+    "codigos": [
+      {
+        "codigo": "OUJP11",
+        "preco": 75.8,
+        "precoAnterior": 75.81,
+        "variacao": -0.01
+      }
+    ]
+  },
+  {
+    "nome": "FII PNCR",
+    "nomeCompleto": "PANORAMA CREDITO RESIDENCIAL  FDO DE INV IMOB",
+    "cnpj": "50569855000106",
+    "dataInicio": "26/05/2023",
+    "quotaCount": "500000",
+    "codigos": [
+      {
+        "codigo": "PNCR11",
+        "preco": 68.65,
+        "precoAnterior": 68.65,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII PANORAMA",
+    "nomeCompleto": "PANORAMA DESENVOLVIMENTO LOGÍSTICO FDO. INV. IMOB.",
+    "cnpj": "37899400000190",
+    "dataInicio": "11/10/2024",
+    "quotaCount": "282094",
+    "codigos": [
+      {
+        "codigo": "PNDL11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII LASTMILE",
+    "nomeCompleto": "PANORAMA LAST MILE SBC FDO INV IMOB",
+    "cnpj": "40887170000154",
+    "dataInicio": "28/02/2025",
+    "quotaCount": "22130",
+    "codigos": [
+      {
+        "codigo": "PNLM11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII PAN PROP",
+    "nomeCompleto": "PANORAMA PROPERTIES FDO. INVEST. IMOB.",
+    "cnpj": "26813118000122",
+    "dataInicio": "10/02/2025",
+    "quotaCount": "897816",
+    "codigos": [
+      {
+        "codigo": "PNPR11",
+        "preco": 53,
+        "precoAnterior": 53,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII PNRC",
+    "nomeCompleto": "PANORAMA REAL ESTATE CRÉDITO FDO INV IMOB",
+    "cnpj": "46157348000198",
+    "dataInicio": "03/04/2023",
+    "quotaCount": "410100",
+    "codigos": [
+      {
+        "codigo": "PNRC11",
+        "preco": 105.95,
+        "precoAnterior": 105.95,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII PMIS",
+    "nomeCompleto": "PARAMIS HEDGE FUND FDO DE INV IMOB",
+    "cnpj": "51868778000158",
+    "dataInicio": "08/08/2024",
+    "quotaCount": "14803242",
+    "codigos": [
+      {
+        "codigo": "PMIS11",
+        "preco": 7.8,
+        "precoAnterior": 7.88,
+        "variacao": -1.02
+      }
+    ]
+  },
+  {
+    "nome": "FII PARQ ANH",
+    "nomeCompleto": "PARQUE ANHANGUERA FDO. INVEST. IMOB.",
+    "cnpj": "12978943000172",
+    "dataInicio": "04/11/2020",
+    "quotaCount": "13991890",
+    "codigos": [
+      {
+        "codigo": "PQAG11",
+        "preco": 54.4,
+        "precoAnterior": 54.03,
+        "variacao": 0.68
+      }
+    ]
+  },
+  {
+    "nome": "FII PATA",
+    "nomeCompleto": "PATAGÔNIA CAPITAL MULTIESTRATÉGIA FDO DE INV IMOB",
+    "cnpj": "53764894000152",
+    "dataInicio": "20/09/2024",
+    "quotaCount": "1702007",
+    "codigos": [
+      {
+        "codigo": "PATA11",
+        "preco": 10.7,
+        "precoAnterior": 10.7,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII PATC VBI",
+    "nomeCompleto": "PÁTRIA EDIFÍCIOS CORPORATIVOS FDO INV IMOB - FII",
+    "cnpj": "30048651000112",
+    "dataInicio": "31/01/2020",
+    "quotaCount": "3477434",
+    "codigos": [
+      {
+        "codigo": "PATC11",
+        "preco": 35.05,
+        "precoAnterior": 34.92,
+        "variacao": 0.37
+      }
+    ]
+  },
+  {
+    "nome": "FII HGRE PAX",
+    "nomeCompleto": "PATRIA ESCRITÓRIOS – FDO INV IMOB - RESPONSAB LTDA",
+    "cnpj": "09072017000129",
+    "dataInicio": "30/12/2020",
+    "quotaCount": "11817767",
+    "codigos": [
+      {
+        "codigo": "HGRE11",
+        "preco": 111.17,
+        "precoAnterior": 111.99,
+        "variacao": -0.73
+      }
+    ]
+  },
+  {
+    "nome": "FII HGFF PAX",
+    "nomeCompleto": "PATRIA IMOBILIÁRIO FOF – FII – RESPONSAB LTDA.",
+    "cnpj": "32784898000122",
+    "dataInicio": "30/09/2020",
+    "quotaCount": "2863597",
+    "codigos": [
+      {
+        "codigo": "HGFF11",
+        "preco": 67.9,
+        "precoAnterior": 67.67,
+        "variacao": 0.34
+      }
+    ]
+  },
+  {
+    "nome": "FII HGLG PAX",
+    "nomeCompleto": "PATRIA LOG - FDO INV IMOB - RESPONSABILIDADE LTDA.",
+    "cnpj": "11728688000147",
+    "dataInicio": "18/05/2023",
+    "quotaCount": "33787575",
+    "codigos": [
+      {
+        "codigo": "HGLG11",
+        "preco": 153.83,
+        "precoAnterior": 154.03,
+        "variacao": -0.13
+      }
+    ]
+  },
+  {
+    "nome": "FII PATL VBI",
+    "nomeCompleto": "PÁTRIA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "35754164000199",
+    "dataInicio": "12/05/2020",
+    "quotaCount": "4991535",
+    "codigos": [
+      {
+        "codigo": "PATL11",
+        "preco": 47.01,
+        "precoAnterior": 47.32,
+        "variacao": -0.66
+      }
+    ]
+  },
+  {
+    "nome": "FII HGPO PAX",
+    "nomeCompleto": "PATRIA PRIME OFFICES - FII - RESPONSABILIDADE LTDA",
+    "cnpj": "11260134000168",
+    "dataInicio": "31/05/2021",
+    "quotaCount": "1753057",
+    "codigos": [
+      {
+        "codigo": "HGPO11",
+        "preco": 132.74,
+        "precoAnterior": 132.72,
+        "variacao": 0.02
+      }
+    ]
+  },
+  {
+    "nome": "FII HGCR PAX",
+    "nomeCompleto": "PATRIA RECEBÍVEIS IMOBILIÁRIOS - FII - RESP. LTDA.",
+    "cnpj": "11160521000122",
+    "dataInicio": "12/09/2022",
+    "quotaCount": "15418106",
+    "codigos": [
+      {
+        "codigo": "HGCR11",
+        "preco": 94.97,
+        "precoAnterior": 94.75,
+        "variacao": 0.23
+      }
+    ]
+  },
+  {
+    "nome": "FII HGRU PAX",
+    "nomeCompleto": "PATRIA RENDA URBANA - FII - RESPONSABILIDADE LTDA.",
+    "cnpj": "29641226000153",
+    "dataInicio": "26/07/2024",
+    "quotaCount": "23238024",
+    "codigos": [
+      {
+        "codigo": "HGRU11",
+        "preco": 119.68,
+        "precoAnterior": 119.54,
+        "variacao": 0.12
+      }
+    ]
+  },
+  {
+    "nome": "FII PERFORMA",
+    "nomeCompleto": "PERFORMA REAL ESTATE - FDO. INV. IMOB.",
+    "cnpj": "34736510000143",
+    "dataInicio": "04/03/2021",
+    "quotaCount": "552000",
+    "codigos": [
+      {
+        "codigo": "PEMA11",
+        "preco": 37.5,
+        "precoAnterior": 37.5,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII PERSONAL",
+    "nomeCompleto": "PERSONALE I FDO INV IMOB - FII RESP LIM",
+    "cnpj": "14056001000162",
+    "dataInicio": "24/09/2022",
+    "quotaCount": "3231248",
+    "codigos": [
+      {
+        "codigo": "PRSN11",
+        "preco": 1.13,
+        "precoAnterior": 1.13,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII POLO CRI",
+    "nomeCompleto": "POLO CREDITO IMOBILIARIO– FII",
+    "cnpj": "17156502000109",
+    "dataInicio": "03/04/2024",
+    "quotaCount": "37283750",
+    "codigos": [
+      {
+        "codigo": "PORD11",
+        "preco": 7.91,
+        "precoAnterior": 7.96,
+        "variacao": -0.63
+      }
+    ]
+  },
+  {
+    "nome": "FII POLO I",
+    "nomeCompleto": "POLO FDO INV IMOB - FII RECEBÍVEIS IMOBILIÁRIOS I",
+    "cnpj": "14080689000116",
+    "dataInicio": "31/10/2011",
+    "quotaCount": "954304",
+    "codigos": [
+      {
+        "codigo": "PLRI11",
+        "preco": 14.51,
+        "precoAnterior": 14.51,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII P VARGAS",
+    "nomeCompleto": "PRESIDENTE VARGAS FDO INV IMOB",
+    "cnpj": "11281322000172",
+    "dataInicio": "12/08/2024",
+    "quotaCount": "204709",
+    "codigos": [
+      {
+        "codigo": "PRSV11",
+        "preco": 48,
+        "precoAnterior": 52.99,
+        "variacao": -9.42
+      }
+    ]
+  },
+  {
+    "nome": "FII PROLOGIS",
+    "nomeCompleto": "PROLOGIS BRAZIL LOGISTICS VENTURE FDO INV IMOB",
+    "cnpj": "31962875000106",
+    "dataInicio": "09/12/2021",
+    "quotaCount": "3365347",
+    "codigos": [
+      {
+        "codigo": "PBLV11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII RZZV",
+    "nomeCompleto": "RAIZZ DESENVOLVIMENTO I FUNDO DE INVESTIMENTO IMOB",
+    "cnpj": "51786271000155",
+    "dataInicio": "12/12/2024",
+    "quotaCount": "94284",
+    "codigos": [
+      {
+        "codigo": "RZZV11",
+        "preco": 1000,
+        "precoAnterior": 1000,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RZZR",
+    "nomeCompleto": "RAIZZ RENDA LOGÍSTICA FUND DE INVEST IMOB RESP LIM",
+    "cnpj": "35652278000128",
+    "dataInicio": "24/10/2024",
+    "quotaCount": "4897262",
+    "codigos": [
+      {
+        "codigo": "RZZR11",
+        "preco": 145,
+        "precoAnterior": 141.99,
+        "variacao": 2.12
+      }
+    ]
+  },
+  {
+    "nome": "FII RBRESID3",
+    "nomeCompleto": "RB CAPITAL DESENV RESID III FDO INV IMOB - FII",
+    "cnpj": "19249989000108",
+    "dataInicio": "03/02/2020",
+    "quotaCount": "149011",
+    "codigos": [
+      {
+        "codigo": "RSPD11",
+        "preco": 999,
+        "precoAnterior": 999,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RBRESID2",
+    "nomeCompleto": "RB CAPITAL DESENV. RESID. II FDO INV IMOB - FII",
+    "cnpj": "11945604000127",
+    "dataInicio": "28/09/2010",
+    "quotaCount": "126523",
+    "codigos": [
+      {
+        "codigo": "RBDS11",
+        "preco": 2.4,
+        "precoAnterior": 2.4,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RBRES IV",
+    "nomeCompleto": "RB CAPITAL DESENV. RESIDENCIAL IV FDO. INV. IMOB.",
+    "cnpj": "31161410000148",
+    "dataInicio": "28/02/2020",
+    "quotaCount": "1528615",
+    "codigos": [
+      {
+        "codigo": "RBIR11",
+        "preco": 81.54,
+        "precoAnterior": 81.54,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RBCAP LG",
+    "nomeCompleto": "RB CAPITAL LOGÍSTICO FDO. INV. IMOB.YE",
+    "cnpj": "35652227000104",
+    "dataInicio": "25/09/2020",
+    "quotaCount": "640199",
+    "codigos": [
+      {
+        "codigo": "RBLG11",
+        "preco": 49,
+        "precoAnterior": 49,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RBCAP RI",
+    "nomeCompleto": "RB CAPITAL RECEBÍVEIS IMOB. FDO. INVEST. IMOB FII",
+    "cnpj": "35689733000160",
+    "dataInicio": "25/11/2020",
+    "quotaCount": "481757",
+    "codigos": [
+      {
+        "codigo": "RRCI11",
+        "preco": 72.3,
+        "precoAnterior": 72.3,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RB CAP I",
+    "nomeCompleto": "RB CAPITAL RENDA I FDO INV IMOB - FII",
+    "cnpj": "08696175000197",
+    "dataInicio": "03/12/2009",
+    "quotaCount": "927162",
+    "codigos": [
+      {
+        "codigo": "FIIP11",
+        "preco": 146.82,
+        "precoAnterior": 146.82,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RB II",
+    "nomeCompleto": "RB CAPITAL RENDA II FDO INV IMOB - FII RESP LTDA.",
+    "cnpj": "09006914000134",
+    "dataInicio": "28/04/2021",
+    "quotaCount": "1851786",
+    "codigos": [
+      {
+        "codigo": "RBRD11",
+        "preco": 37.9,
+        "precoAnterior": 37.9,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RB TFO",
+    "nomeCompleto": "RB CAPITAL TFO SITUS FDO INV IMOB - FII",
+    "cnpj": "29299737000139",
+    "dataInicio": "28/06/2018",
+    "quotaCount": "56525",
+    "codigos": [
+      {
+        "codigo": "RBTS11",
+        "preco": 350,
+        "precoAnterior": 350,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RBRALPHA",
+    "nomeCompleto": "RBR ALPHA MULTIESTRATÉGIA REAL ESTATE FDO INV IMOB",
+    "cnpj": "27529279000151",
+    "dataInicio": "25/01/2024",
+    "quotaCount": "136807700",
+    "codigos": [
+      {
+        "codigo": "RBRF11",
+        "preco": 6.5,
+        "precoAnterior": 6.52,
+        "variacao": -0.31
+      }
+    ]
+  },
+  {
+    "nome": "FII RBR FEED",
+    "nomeCompleto": "RBR DESENV COMERCIAL FEEDER FOF FDO INVEST IMOB",
+    "cnpj": "35689670000141",
+    "dataInicio": "20/02/2020",
+    "quotaCount": "323200",
+    "codigos": [
+      {
+        "codigo": "RCFF11",
+        "preco": 79.1,
+        "precoAnterior": 79.1,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RDLI",
+    "nomeCompleto": "RBR DESENVOLVIMENTO LOGÍSTICO I - FII RESP LIMITAD",
+    "cnpj": "53391567000100",
+    "dataInicio": "05/12/2024",
+    "quotaCount": "1658678",
+    "codigos": [
+      {
+        "codigo": "RDLI11",
+        "preco": 100,
+        "precoAnterior": 100,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RBR LOG",
+    "nomeCompleto": "RBR LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "35705463000133",
+    "dataInicio": "24/05/2021",
+    "quotaCount": "6687035",
+    "codigos": [
+      {
+        "codigo": "RBRL11",
+        "preco": 73.23,
+        "precoAnterior": 74.15,
+        "variacao": -1.24
+      }
+    ]
+  },
+  {
+    "nome": "FII RBR MULT",
+    "nomeCompleto": "RBR PLUS MULTIESTRATÉGIA REAL ESTATE FII",
+    "cnpj": "41088458000121",
+    "dataInicio": "07/03/2024",
+    "quotaCount": "29468659",
+    "codigos": [
+      {
+        "codigo": "RBRX11",
+        "preco": 8.01,
+        "precoAnterior": 8.02,
+        "variacao": -0.12
+      }
+    ]
+  },
+  {
+    "nome": "FII RBR PR",
+    "nomeCompleto": "RBR PREMIUM RECEBÍVEIS IMOBILIÁRIOS FDO INV IMOB",
+    "cnpj": "42502842000191",
+    "dataInicio": "16/11/2023",
+    "quotaCount": "3471728",
+    "codigos": [
+      {
+        "codigo": "RPRI11",
+        "preco": 88.02,
+        "precoAnterior": 88,
+        "variacao": 0.02
+      }
+    ]
+  },
+  {
+    "nome": "FII TOPP",
+    "nomeCompleto": "RBR TOP OFFICES FDO DE INV IMOB RESP LIM",
+    "cnpj": "56805391000176",
+    "dataInicio": "30/09/2024",
+    "quotaCount": "4528240",
+    "codigos": [
+      {
+        "codigo": "TOPP11",
+        "preco": 70.87,
+        "precoAnterior": 71,
+        "variacao": -0.18
+      }
+    ]
+  },
+  {
+    "nome": "FII REAGMULT",
+    "nomeCompleto": "REAG MULTI ATIVOS IMOBILIÁRIOS - FII RESP LIM",
+    "cnpj": "17374696000119",
+    "dataInicio": "26/02/2021",
+    "quotaCount": "2443800",
+    "codigos": [
+      {
+        "codigo": "RMAI11",
+        "preco": 66.97,
+        "precoAnterior": 66.97,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII REAL INV",
+    "nomeCompleto": "REAL INVESTOR FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "44625612000145",
+    "dataInicio": "20/09/2024",
+    "quotaCount": "3279532",
+    "codigos": [
+      {
+        "codigo": "RINV11",
+        "preco": 102.45,
+        "precoAnterior": 103.02,
+        "variacao": -0.55
+      }
+    ]
+  },
+  {
+    "nome": "FII RECD",
+    "nomeCompleto": "REC FDO DE CRI COTAS AMORT FDO DE INV IMOB - R LIM",
+    "cnpj": "53260548000137",
+    "dataInicio": "15/10/2024",
+    "quotaCount": "5453775",
+    "codigos": [
+      {
+        "codigo": "RECD11",
+        "preco": 10,
+        "precoAnterior": 10,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RECM",
+    "nomeCompleto": "REC MULTIESTRATÉGIA FDO INV IMOB RESP LIM",
+    "cnpj": "56430935000162",
+    "dataInicio": "14/11/2024",
+    "quotaCount": "8400517",
+    "codigos": [
+      {
+        "codigo": "RECM11",
+        "preco": 9,
+        "precoAnterior": 9,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RBCRI IV",
+    "nomeCompleto": "RIO BRAVO CRED IMOB HIGH GRADE FII RESP LIM",
+    "cnpj": "30647758000187",
+    "dataInicio": "07/12/2023",
+    "quotaCount": "2167958",
+    "codigos": [
+      {
+        "codigo": "RBHG11",
+        "preco": 68.37,
+        "precoAnterior": 68.43,
+        "variacao": -0.09
+      }
+    ]
+  },
+  {
+    "nome": "FII RB YIELD",
+    "nomeCompleto": "RIO BRAVO CRÉD IMOB HIGH YIELD FII RESP LIM",
+    "cnpj": "37899479000150",
+    "dataInicio": "26/10/2022",
+    "quotaCount": "1893505",
+    "codigos": [
+      {
+        "codigo": "RBHY11",
+        "preco": 81.74,
+        "precoAnterior": 84.21,
+        "variacao": -2.93
+      }
+    ]
+  },
+  {
+    "nome": "FII RIOB FF",
+    "nomeCompleto": "RIO BRAVO FUNDO DE FUNDOS DE INVESTIMENTO IMOB",
+    "cnpj": "17329029000114",
+    "dataInicio": "02/02/2021",
+    "quotaCount": "3749215",
+    "codigos": [
+      {
+        "codigo": "RBFF11",
+        "preco": 50.87,
+        "precoAnterior": 50.59,
+        "variacao": 0.55
+      }
+    ]
+  },
+  {
+    "nome": "FII MERC BR",
+    "nomeCompleto": "RIO BRAVO OPORTUNIDADES IMOBILIÁRIAS FII",
+    "cnpj": "13500306000159",
+    "dataInicio": "10/06/2011",
+    "quotaCount": "101664",
+    "codigos": [
+      {
+        "codigo": "RBOP11",
+        "preco": 200.6,
+        "precoAnterior": 193.83,
+        "variacao": 3.49
+      }
+    ]
+  },
+  {
+    "nome": "FII RIOB RR",
+    "nomeCompleto": "RIO BRAVO RENDA RESIDENCIAL FDO. INVEST. IMOB.",
+    "cnpj": "36517660000191",
+    "dataInicio": "10/02/2022",
+    "quotaCount": "1734299",
+    "codigos": [
+      {
+        "codigo": "RBRS11",
+        "preco": 33.91,
+        "precoAnterior": 35,
+        "variacao": -3.11
+      }
+    ]
+  },
+  {
+    "nome": "FII RIZA AKN",
+    "nomeCompleto": "RIZA AKIN FDO. INV. IMOB. FII",
+    "cnpj": "36642219000131",
+    "dataInicio": "10/01/2023",
+    "quotaCount": "8807885",
+    "codigos": [
+      {
+        "codigo": "RZAK11",
+        "preco": 83.05,
+        "precoAnterior": 83.51,
+        "variacao": -0.55
+      }
+    ]
+  },
+  {
+    "nome": "FII ARCTIUM",
+    "nomeCompleto": "RIZA ARCTIUM REAL ESTATE FDO INV IMOB",
+    "cnpj": "28267696000136",
+    "dataInicio": "09/09/2024",
+    "quotaCount": "4235042",
+    "codigos": [
+      {
+        "codigo": "RZAT11",
+        "preco": 89.75,
+        "precoAnterior": 90.25,
+        "variacao": -0.55
+      }
+    ]
+  },
+  {
+    "nome": "FII RZLC",
+    "nomeCompleto": "RIZA LECCI FUNDO DE INVESTIMENTO IMOB RESP LIM",
+    "cnpj": "56212023000114",
+    "dataInicio": "12/08/2024",
+    "quotaCount": "50000",
+    "codigos": [
+      {
+        "codigo": "RZLC11",
+        "preco": 1009,
+        "precoAnterior": 1009,
+        "variacao": 0
+      },
+      {
+        "codigo": "RZLC15",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII SANT PAP",
+    "nomeCompleto": "SANTANDER PAPEIS IMOB CDI FDO INV IMOB",
+    "cnpj": "32903521000145",
+    "dataInicio": "03/10/2024",
+    "quotaCount": "15486840",
+    "codigos": [
+      {
+        "codigo": "SADI11",
+        "preco": 8.76,
+        "precoAnterior": 8.71,
+        "variacao": 0.57
+      }
+    ]
+  },
+  {
+    "nome": "FII SAPI",
+    "nomeCompleto": "SANTANDER PAPÉIS IMOBILIÁRIOS FDO DE INV IMOB",
+    "cnpj": "51646298000142",
+    "dataInicio": "03/10/2024",
+    "quotaCount": "15436840",
+    "codigos": [
+      {
+        "codigo": "SAPI11",
+        "preco": 8.62,
+        "precoAnterior": 8.66,
+        "variacao": -0.46
+      }
+    ]
+  },
+  {
+    "nome": "FII SANT REN",
+    "nomeCompleto": "SANTANDER RENDA DE ALUGUÉIS FDO. INVEST. IMOB.",
+    "cnpj": "32903702000171",
+    "dataInicio": "03/10/2024",
+    "quotaCount": "92343290",
+    "codigos": [
+      {
+        "codigo": "SARE11",
+        "preco": 4.55,
+        "precoAnterior": 4.55,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII DOMINGOS",
+    "nomeCompleto": "SAO DOMINGOS FDO INV IMOB - FII",
+    "cnpj": "16543270000189",
+    "dataInicio": "09/03/2017",
+    "quotaCount": "648776",
+    "codigos": [
+      {
+        "codigo": "FISD11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII SEQUOIA",
+    "nomeCompleto": "SEQUOIA III RENDA IMOBILIÁRIA - FDO. INV. IMOB.",
+    "cnpj": "09517273000182",
+    "dataInicio": "13/10/2022",
+    "quotaCount": "1665695",
+    "codigos": [
+      {
+        "codigo": "SEQR11",
+        "preco": 46.8,
+        "precoAnterior": 46.8,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII W PLAZA",
+    "nomeCompleto": "SHOPPING WEST PLAZA FDO INV IMOB",
+    "cnpj": "09326861000139",
+    "dataInicio": "01/08/2023",
+    "quotaCount": "1170000",
+    "codigos": [
+      {
+        "codigo": "WPLZ11",
+        "preco": 50.4,
+        "precoAnterior": 50.5,
+        "variacao": -0.2
+      }
+    ]
+  },
+  {
+    "nome": "FII REIT RIV",
+    "nomeCompleto": "SINGULARE FDO INV IMOB - FII",
+    "cnpj": "16841067000199",
+    "dataInicio": "06/01/2017",
+    "quotaCount": "26291",
+    "codigos": [
+      {
+        "codigo": "REIT11",
+        "preco": 97.8,
+        "precoAnterior": 97.8,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII SJ AU",
+    "nomeCompleto": "SJ AU LOGÍSTICA FDO. INV. IMOB.",
+    "cnpj": "27771547000147",
+    "dataInicio": "15/04/2021",
+    "quotaCount": "7932248",
+    "codigos": [
+      {
+        "codigo": "SJAU11",
+        "preco": 59.46,
+        "precoAnterior": 63.92,
+        "variacao": -6.98
+      }
+    ]
+  },
+  {
+    "nome": "FII SOLARIUM",
+    "nomeCompleto": "SOLARIUM FII - FDO INV. IMOB.",
+    "cnpj": "22169671000113",
+    "dataInicio": "20/10/2020",
+    "quotaCount": "62883",
+    "codigos": [
+      {
+        "codigo": "SOLR11",
+        "preco": 1051.35,
+        "precoAnterior": 1051.35,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII SP DOWNT",
+    "nomeCompleto": "SP DOWNTOWN FDO INV IMOB - FII",
+    "cnpj": "15538445000105",
+    "dataInicio": "06/03/2013",
+    "quotaCount": "1798000",
+    "codigos": [
+      {
+        "codigo": "SPTW11",
+        "preco": 33.64,
+        "precoAnterior": 33.82,
+        "variacao": -0.53
+      }
+    ]
+  },
+  {
+    "nome": "FII SPA",
+    "nomeCompleto": "SPA FDO INV IMOB - FII",
+    "cnpj": "18311024000127",
+    "dataInicio": "06/12/2016",
+    "quotaCount": "11270",
+    "codigos": [
+      {
+        "codigo": "SPAF11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII SPECIALE",
+    "nomeCompleto": "SPECIALE BLUE REAL ASSET FDO DE INV IMOB",
+    "cnpj": "46449786000120",
+    "dataInicio": "10/03/2025",
+    "quotaCount": "124960",
+    "codigos": [
+      {
+        "codigo": "LTMT11",
+        "preco": 95.21,
+        "precoAnterior": 95.21,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII DVLP",
+    "nomeCompleto": "SPECIALE REAL ESTATE DEVELOPMENT FDO DE INV IMOB",
+    "cnpj": "42537601000188",
+    "dataInicio": "06/11/2024",
+    "quotaCount": "561235",
+    "codigos": [
+      {
+        "codigo": "DVLP11",
+        "preco": 129.88,
+        "precoAnterior": 129.88,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII DVLT",
+    "nomeCompleto": "SPECIALE REAL ESTATE DEVELOPMENT II FII",
+    "cnpj": "54635301000110",
+    "dataInicio": "20/08/2024",
+    "quotaCount": "246712",
+    "codigos": [
+      {
+        "codigo": "DVLT11",
+        "preco": 95.16,
+        "precoAnterior": 95.16,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII PMFO",
+    "nomeCompleto": "SPECIALE REAL ESTATE FUND OF FUNDS FDO DE INV IMOB",
+    "cnpj": "50135849000140",
+    "dataInicio": "07/10/2024",
+    "quotaCount": "975907",
+    "codigos": [
+      {
+        "codigo": "PMFO11",
+        "preco": 85.69,
+        "precoAnterior": 85.69,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII SPGM",
+    "nomeCompleto": "SPGM FDO DE INV IMOB – RESP LIM",
+    "cnpj": "53127942000100",
+    "dataInicio": "29/05/2024",
+    "quotaCount": "4500000",
+    "codigos": [
+      {
+        "codigo": "SPGM11",
+        "preco": 11.38,
+        "precoAnterior": 11.38,
+        "variacao": 0
+      },
+      {
+        "codigo": "SPGM15",
+        "preco": 12.7,
+        "precoAnterior": 12.7,
+        "variacao": 0
+      },
+      {
+        "codigo": "SPGM16",
+        "preco": 57.36,
+        "precoAnterior": 57.36,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII SPG2",
+    "nomeCompleto": "SPGM II - FUNDO DE INVESTIMENTO IMOB  RESP LIM",
+    "cnpj": "57077139000150",
+    "dataInicio": "17/03/2025",
+    "quotaCount": "2104083",
+    "codigos": [
+      {
+        "codigo": "SPG211",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      },
+      {
+        "codigo": "SPG215",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII STARX",
+    "nomeCompleto": "STARX FDO INV IMOB - FII",
+    "cnpj": "11044355000107",
+    "dataInicio": "12/07/2021",
+    "quotaCount": "1613559",
+    "codigos": [
+      {
+        "codigo": "STRX11",
+        "preco": 168,
+        "precoAnterior": 168,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII SUNOFOFI",
+    "nomeCompleto": "SUNO FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "40011225000168",
+    "dataInicio": "02/09/2024",
+    "quotaCount": "4020635",
+    "codigos": [
+      {
+        "codigo": "SNFF11",
+        "preco": 70.38,
+        "precoAnterior": 70.4,
+        "variacao": -0.03
+      }
+    ]
+  },
+  {
+    "nome": "FII SUNO LG",
+    "nomeCompleto": "SUNO LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "40041711000129",
+    "dataInicio": "19/09/2023",
+    "quotaCount": "2529966",
+    "codigos": [
+      {
+        "codigo": "SNLG11",
+        "preco": 1.35,
+        "precoAnterior": 1.17,
+        "variacao": 15.38
+      }
+    ]
+  },
+  {
+    "nome": "FII SNME",
+    "nomeCompleto": "SUNO MULTIESTRATÉGIA FDO DE INV IMOB",
+    "cnpj": "52227760000130",
+    "dataInicio": "20/02/2024",
+    "quotaCount": "7418243",
+    "codigos": [
+      {
+        "codigo": "SNME11",
+        "preco": 9.44,
+        "precoAnterior": 9.43,
+        "variacao": 0.11
+      }
+    ]
+  },
+  {
+    "nome": "FII SUNO CRI",
+    "nomeCompleto": "SUNO RECEBÍVEIS IMOBILIÁRIOS FDO DE INV IMOB",
+    "cnpj": "41076710000182",
+    "dataInicio": "21/09/2022",
+    "quotaCount": "4200000",
+    "codigos": [
+      {
+        "codigo": "SNCI11",
+        "preco": 90.73,
+        "precoAnterior": 90.65,
+        "variacao": 0.09
+      }
+    ]
+  },
+  {
+    "nome": "FII SUPREMO",
+    "nomeCompleto": "SUPREMO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "40225262000179",
+    "dataInicio": "26/04/2024",
+    "quotaCount": "1810000",
+    "codigos": [
+      {
+        "codigo": "SPMO11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII TELM",
+    "nomeCompleto": "TELLUS MULTIESTRATÉGIA – FDO INV IMOB RESP LTDA",
+    "cnpj": "45188099000135",
+    "dataInicio": "27/11/2024",
+    "quotaCount": "2147362",
+    "codigos": [
+      {
+        "codigo": "TELM11",
+        "preco": 10,
+        "precoAnterior": 10,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII TEL PROP",
+    "nomeCompleto": "TELLUS PROPERTIES - FDO INV. IMOB",
+    "cnpj": "26681370000125",
+    "dataInicio": "10/02/2021",
+    "quotaCount": "4221967",
+    "codigos": [
+      {
+        "codigo": "TEPP11",
+        "preco": 83.45,
+        "precoAnterior": 83.89,
+        "variacao": -0.52
+      }
+    ]
+  },
+  {
+    "nome": "FII NAUI",
+    "nomeCompleto": "TEN DESENVOLVIMENTO FUNDO DE INVEST IMOBILIÁRIO",
+    "cnpj": "49649500000148",
+    "dataInicio": "07/01/2025",
+    "quotaCount": "51735",
+    "codigos": [
+      {
+        "codigo": "NAUI11",
+        "preco": 1030,
+        "precoAnterior": 1030,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII TISHMAN",
+    "nomeCompleto": "TISHMAN SPEYER RENDA CORPORATIVA FDO. INV. IMOB.",
+    "cnpj": "34847042000184",
+    "dataInicio": "22/07/2024",
+    "quotaCount": "1384760",
+    "codigos": [
+      {
+        "codigo": "TSER11",
+        "preco": 101,
+        "precoAnterior": 101,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII TIVIO RI",
+    "nomeCompleto": "TIVIO RENDA IMOBILIÁRIA FUNDO INV IMOB RESP LTDA",
+    "cnpj": "14410722000129",
+    "dataInicio": "03/08/2012",
+    "quotaCount": "15919690",
+    "codigos": [
+      {
+        "codigo": "TVRI11",
+        "preco": 87.1,
+        "precoAnterior": 87.5,
+        "variacao": -0.46
+      }
+    ]
+  },
+  {
+    "nome": "FII V MASTER",
+    "nomeCompleto": "TIVIO SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "17870926000130",
+    "dataInicio": "24/04/2018",
+    "quotaCount": "827913",
+    "codigos": [
+      {
+        "codigo": "VOTS11",
+        "preco": 74.15,
+        "precoAnterior": 74.15,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII TJK REND",
+    "nomeCompleto": "TJK RENDA IMOBILIÁRIA FDO INV IMOB",
+    "cnpj": "39714024000148",
+    "dataInicio": "25/10/2024",
+    "quotaCount": "986612",
+    "codigos": [
+      {
+        "codigo": "TJKB11",
+        "preco": 264.99,
+        "precoAnterior": 265,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII TORDE EI",
+    "nomeCompleto": "TORDESILHAS EI FDO. INV. IMOB.",
+    "cnpj": "30230870000118",
+    "dataInicio": "02/06/2021",
+    "quotaCount": "35051354",
+    "codigos": [
+      {
+        "codigo": "TORD11",
+        "preco": 0.68,
+        "precoAnterior": 0.69,
+        "variacao": -1.45
+      }
+    ]
+  },
+  {
+    "nome": "FII TRANSINC",
+    "nomeCompleto": "TRANSINC FDO INV IMOB - FII",
+    "cnpj": "17007443000107",
+    "dataInicio": "28/06/2022",
+    "quotaCount": "1086780",
+    "codigos": [
+      {
+        "codigo": "TSNC11",
+        "preco": 77.26,
+        "precoAnterior": 77.26,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII TREECORP",
+    "nomeCompleto": "TREECORP REAL ESTATE FDO INV IMOB - I",
+    "cnpj": "26990011000150",
+    "dataInicio": "03/03/2017",
+    "quotaCount": "297327",
+    "codigos": [
+      {
+        "codigo": "TCPF11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII TRXY",
+    "nomeCompleto": "TRX HEDGE FUND FDO DE INV IMOB - RESP LIM",
+    "cnpj": "43985938000110",
+    "dataInicio": "29/11/2024",
+    "quotaCount": "3609720",
+    "codigos": [
+      {
+        "codigo": "TRXY11",
+        "preco": 9.57,
+        "precoAnterior": 9.18,
+        "variacao": 4.25
+      }
+    ]
+  },
+  {
+    "nome": "FII TRX REAL",
+    "nomeCompleto": "TRX REAL ESTATE FDO. INV. IMOB. - FII",
+    "cnpj": "28548288000152",
+    "dataInicio": "13/03/2024",
+    "quotaCount": "20035563",
+    "codigos": [
+      {
+        "codigo": "TRXF11",
+        "preco": 100.65,
+        "precoAnterior": 100.84,
+        "variacao": -0.19
+      }
+    ]
+  },
+  {
+    "nome": "FII TRX R II",
+    "nomeCompleto": "TRX REAL ESTATE II FDO. INVEST. IMOB.",
+    "cnpj": "36368925000137",
+    "dataInicio": "21/02/2024",
+    "quotaCount": "3413849",
+    "codigos": [
+      {
+        "codigo": "TRXB11",
+        "preco": 122.89,
+        "precoAnterior": 122.89,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII URHF",
+    "nomeCompleto": "URCA HEDGE FUND MULT IMOB FDO INV IMOB - RESP LIM",
+    "cnpj": "52649350000187",
+    "dataInicio": "08/07/2024",
+    "quotaCount": "110417",
+    "codigos": [
+      {
+        "codigo": "URHF11",
+        "preco": 90,
+        "precoAnterior": 90,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII URCA REN",
+    "nomeCompleto": "URCA PRIME RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "34508872000187",
+    "dataInicio": "23/06/2023",
+    "quotaCount": "11733895",
+    "codigos": [
+      {
+        "codigo": "URPR11",
+        "preco": 57.89,
+        "precoAnterior": 58.22,
+        "variacao": -0.57
+      }
+    ]
+  },
+  {
+    "nome": "FII V2EDCORP",
+    "nomeCompleto": "V2 EDIFICIOS CORPORATIVOS FDO INV IMOB - FII",
+    "cnpj": "15006267000163",
+    "dataInicio": "17/08/2023",
+    "quotaCount": "9900000",
+    "codigos": [
+      {
+        "codigo": "VVCO11",
+        "preco": 13.61,
+        "precoAnterior": 13.94,
+        "variacao": -2.37
+      }
+    ]
+  },
+  {
+    "nome": "FII MULT REN",
+    "nomeCompleto": "V2 MULTI RENDA FUNDO INVEST IMOBILIÁRIO RES LTDA",
+    "cnpj": "30871698000181",
+    "dataInicio": "05/06/2024",
+    "quotaCount": "2823180",
+    "codigos": [
+      {
+        "codigo": "VVMR11",
+        "preco": 79.99,
+        "precoAnterior": 81.8,
+        "variacao": -2.21
+      }
+    ]
+  },
+  {
+    "nome": "FII V2 PRIME",
+    "nomeCompleto": "V2 PRIME PROPERTIES FUND INV IMOB - FII",
+    "cnpj": "30654849000140",
+    "dataInicio": "04/12/2020",
+    "quotaCount": "7316171",
+    "codigos": [
+      {
+        "codigo": "VPPR11",
+        "preco": 13.12,
+        "precoAnterior": 13.12,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII V2 RECE",
+    "nomeCompleto": "V2 RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO I",
+    "cnpj": "23120027000113",
+    "dataInicio": "06/02/2024",
+    "quotaCount": "7508332",
+    "codigos": [
+      {
+        "codigo": "VVCR11",
+        "preco": 10,
+        "precoAnterior": 10.15,
+        "variacao": -1.48
+      }
+    ]
+  },
+  {
+    "nome": "FII V2 RENDA",
+    "nomeCompleto": "V2 RENDA IMOBILIÁRIA FDO DE INV IMOB",
+    "cnpj": "49184940000177",
+    "dataInicio": "12/04/2024",
+    "quotaCount": "802683",
+    "codigos": [
+      {
+        "codigo": "VVRI11",
+        "preco": 83.98,
+        "precoAnterior": 83.98,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII VALREIII",
+    "nomeCompleto": "VALORA CRI CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "29852732000191",
+    "dataInicio": "22/07/2024",
+    "quotaCount": "146101287",
+    "codigos": [
+      {
+        "codigo": "VGIR11",
+        "preco": 9.59,
+        "precoAnterior": 9.58,
+        "variacao": 0.1
+      }
+    ]
+  },
+  {
+    "nome": "FII VALORAIP",
+    "nomeCompleto": "VALORA CRI ÍNDICE DE PREÇO FDO INVEST. IMOB. FII",
+    "cnpj": "34197811000146",
+    "dataInicio": "30/08/2022",
+    "quotaCount": "11787247",
+    "codigos": [
+      {
+        "codigo": "VGIP11",
+        "preco": 80.47,
+        "precoAnterior": 80.85,
+        "variacao": -0.47
+      }
+    ]
+  },
+  {
+    "nome": "FII VGII",
+    "nomeCompleto": "VALORA CRI INFRA II FII DE RESP. LTDA",
+    "cnpj": "52649680000172",
+    "dataInicio": "26/04/2024",
+    "quotaCount": "518865",
+    "codigos": [
+      {
+        "codigo": "VGII11",
+        "preco": 101.41,
+        "precoAnterior": 101.41,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII VALOR HE",
+    "nomeCompleto": "VALORA HEDGE FUND FDO. INV. IMOB.",
+    "cnpj": "36771692000119",
+    "dataInicio": "24/11/2023",
+    "quotaCount": "164721683",
+    "codigos": [
+      {
+        "codigo": "VGHF11",
+        "preco": 7.58,
+        "precoAnterior": 7.59,
+        "variacao": -0.13
+      }
+    ]
+  },
+  {
+    "nome": "FII VGRI",
+    "nomeCompleto": "VALORA RENDA IMOB FUNDO DE INVES IMOB -RESP LIMIT",
+    "cnpj": "53656482000107",
+    "dataInicio": "23/08/2024",
+    "quotaCount": "35021736",
+    "codigos": [
+      {
+        "codigo": "VGRI11",
+        "preco": 7.35,
+        "precoAnterior": 7.44,
+        "variacao": -1.21
+      }
+    ]
+  },
+  {
+    "nome": "FII PLAG",
+    "nomeCompleto": "VBI AGRO – FUNDO DE INVESTIMENTO  IMOBILIÁRIO",
+    "cnpj": "32754734000152",
+    "dataInicio": "08/10/2019",
+    "quotaCount": "5040000",
+    "codigos": [
+      {
+        "codigo": "PLAG11",
+        "preco": 46.97,
+        "precoAnterior": 46.61,
+        "variacao": 0.77
+      }
+    ]
+  },
+  {
+    "nome": "FII BLMO VBI",
+    "nomeCompleto": "VBI OFFICE FUND II - FDO. INVEST. IMOB.",
+    "cnpj": "34895894000147",
+    "dataInicio": "15/12/2023",
+    "quotaCount": "994814",
+    "codigos": [
+      {
+        "codigo": "BLMO11",
+        "preco": 77.6,
+        "precoAnterior": 77.6,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII RVBI VBI",
+    "nomeCompleto": "VBI REITS MULTIESTRATÉGIA FDO. INV. IMOB",
+    "cnpj": "35507457000171",
+    "dataInicio": "13/11/2023",
+    "quotaCount": "10276012",
+    "codigos": [
+      {
+        "codigo": "RVBI11",
+        "preco": 63.2,
+        "precoAnterior": 63.33,
+        "variacao": -0.21
+      }
+    ]
+  },
+  {
+    "nome": "FII VECTIS",
+    "nomeCompleto": "VECTIS JUROS REAL FDO INV. IMOB. - FII",
+    "cnpj": "32400250000105",
+    "dataInicio": "27/05/2022",
+    "quotaCount": "14723970",
+    "codigos": [
+      {
+        "codigo": "VCJR11",
+        "preco": 83.5,
+        "precoAnterior": 83.51,
+        "variacao": -0.01
+      }
+    ]
+  },
+  {
+    "nome": "FII VECT REN",
+    "nomeCompleto": "VECTIS RENDA RESIDENCIAL FDO. INV. IMOB.",
+    "cnpj": "40041723000153",
+    "dataInicio": "08/03/2021",
+    "quotaCount": "2000000",
+    "codigos": [
+      {
+        "codigo": "VCRR11",
+        "preco": 55.7,
+        "precoAnterior": 56.32,
+        "variacao": -1.1
+      }
+    ]
+  },
+  {
+    "nome": "FII VQ LAJES",
+    "nomeCompleto": "VECTOR QUELUZ ATIVOS IMOB FDO INV IMOB",
+    "cnpj": "13842683000176",
+    "dataInicio": "25/09/2017",
+    "quotaCount": "58977",
+    "codigos": [
+      {
+        "codigo": "VLJS11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII VERS CRI",
+    "nomeCompleto": "VERSALHES RECEBÍVEIS IMOBILIÁRIOS - FDO. INV. IMOB",
+    "cnpj": "36244015000142",
+    "dataInicio": "26/11/2021",
+    "quotaCount": "29864091",
+    "codigos": [
+      {
+        "codigo": "VSLH11",
+        "preco": 2.81,
+        "precoAnterior": 2.82,
+        "variacao": -0.35
+      }
+    ]
+  },
+  {
+    "nome": "FII VIC DES",
+    "nomeCompleto": "VIC DESENVOLVIMENTO VINTAGE 20/21 FUND INVEST IMOB",
+    "cnpj": "32527552000149",
+    "dataInicio": "25/09/2023",
+    "quotaCount": "89503",
+    "codigos": [
+      {
+        "codigo": "VIDS11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FII VINCI CR",
+    "nomeCompleto": "VINCI CREDIT SECURITIES FUNDO DE INVESTIMENTO IMOB",
+    "cnpj": "41081374000166",
+    "dataInicio": "13/05/2022",
+    "quotaCount": "17773297",
+    "codigos": [
+      {
+        "codigo": "VCRI11",
+        "preco": 6.96,
+        "precoAnterior": 7.01,
+        "variacao": -0.71
+      }
+    ]
+  },
+  {
+    "nome": "FII VINCI IU",
+    "nomeCompleto": "VINCI IMÓVEIS URBANOS FDO. DE INV. IMOB.",
+    "cnpj": "36445587000190",
+    "dataInicio": "13/05/2022",
+    "quotaCount": "26946220",
+    "codigos": [
+      {
+        "codigo": "VIUR11",
+        "preco": 5.39,
+        "precoAnterior": 5.38,
+        "variacao": 0.19
+      }
+    ]
+  },
+  {
+    "nome": "FII VINCI LG",
+    "nomeCompleto": "VINCI LOGÍSTICA FDO INV IMOB - FII",
+    "cnpj": "24853044000122",
+    "dataInicio": "08/03/2021",
+    "quotaCount": "14997396",
+    "codigos": [
+      {
+        "codigo": "VILG11",
+        "preco": 80.04,
+        "precoAnterior": 80.42,
+        "variacao": -0.47
+      }
+    ]
+  },
+  {
+    "nome": "FII VINCI OF",
+    "nomeCompleto": "VINCI OFFICES FDO INV IMOB",
+    "cnpj": "12516185000170",
+    "dataInicio": "02/08/2023",
+    "quotaCount": "82826295",
+    "codigos": [
+      {
+        "codigo": "VINO11",
+        "preco": 4.97,
+        "precoAnterior": 5.03,
+        "variacao": -1.19
+      }
+    ]
+  },
+  {
+    "nome": "FII VINCI SC",
+    "nomeCompleto": "VINCI SHOPPING CENTERS FDO INVEST IMOB - FII",
+    "cnpj": "17554274000125",
+    "dataInicio": "14/11/2023",
+    "quotaCount": "28828640",
+    "codigos": [
+      {
+        "codigo": "VISC11",
+        "preco": 100.14,
+        "precoAnterior": 100.5,
+        "variacao": -0.36
+      }
+    ]
+  },
+  {
+    "nome": "FII WARREN",
+    "nomeCompleto": "WARREN SECURITIES FDO DE INV IMOB - FII",
+    "cnpj": "43440579000116",
+    "dataInicio": "26/08/2024",
+    "quotaCount": "2456510",
+    "codigos": [
+      {
+        "codigo": "WSEC11",
+        "preco": 7.52,
+        "precoAnterior": 7.52,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII WHG F SP",
+    "nomeCompleto": "WHG FINVEST SP REALTY FDO DE INV IMOB - FII",
+    "cnpj": "43741150000169",
+    "dataInicio": "10/05/2024",
+    "quotaCount": "181400",
+    "codigos": [
+      {
+        "codigo": "SPDE11",
+        "preco": 1266.67,
+        "precoAnterior": 1266.67,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII WHG REAL",
+    "nomeCompleto": "WHG REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "cnpj": "41256643000188",
+    "dataInicio": "09/05/2024",
+    "quotaCount": "30912379",
+    "codigos": [
+      {
+        "codigo": "WHGR11",
+        "preco": 8.83,
+        "precoAnterior": 8.82,
+        "variacao": 0.11
+      }
+    ]
+  },
+  {
+    "nome": "FII XP MACAE",
+    "nomeCompleto": "XP CORPORATE MACAÉ FDO INV IMOB - FII",
+    "cnpj": "16802320000103",
+    "dataInicio": "14/02/2013",
+    "quotaCount": "2414570",
+    "codigos": [
+      {
+        "codigo": "XPCM11",
+        "preco": 6.78,
+        "precoAnterior": 6.84,
+        "variacao": -0.88
+      }
+    ]
+  },
+  {
+    "nome": "FII XP CRED",
+    "nomeCompleto": "XP CREDITO IMOBILIÁRIO - FDO INV IMOB",
+    "cnpj": "28516301000191",
+    "dataInicio": "23/03/2022",
+    "quotaCount": "8701552",
+    "codigos": [
+      {
+        "codigo": "XPCI11",
+        "preco": 77.55,
+        "precoAnterior": 78.45,
+        "variacao": -1.15
+      }
+    ]
+  },
+  {
+    "nome": "FII XP INDL",
+    "nomeCompleto": "XP INDUSTRIAL FDO INV IMOB - FII",
+    "cnpj": "28516325000140",
+    "dataInicio": "11/08/2022",
+    "quotaCount": "7150422",
+    "codigos": [
+      {
+        "codigo": "XPIN11",
+        "preco": 68.27,
+        "precoAnterior": 69.64,
+        "variacao": -1.97
+      }
+    ]
+  },
+  {
+    "nome": "FII XP LOG",
+    "nomeCompleto": "XP LOG FDO INV IMOB - FII",
+    "cnpj": "26502794000185",
+    "dataInicio": "03/06/2024",
+    "quotaCount": "31175931",
+    "codigos": [
+      {
+        "codigo": "XPLG11",
+        "preco": 95.97,
+        "precoAnterior": 96.39,
+        "variacao": -0.44
+      }
+    ]
+  },
+  {
+    "nome": "FII XP MALLS",
+    "nomeCompleto": "XP MALLS FDO INV IMOB FII",
+    "cnpj": "28757546000100",
+    "dataInicio": "02/12/2024",
+    "quotaCount": "56720787",
+    "codigos": [
+      {
+        "codigo": "XPML11",
+        "preco": 102.68,
+        "precoAnterior": 103.22,
+        "variacao": -0.52
+      }
+    ]
+  },
+  {
+    "nome": "FII XP SELEC",
+    "nomeCompleto": "XP SELECTION FDO DE FUNDOS INV IMOB - FII",
+    "cnpj": "30983020000190",
+    "dataInicio": "03/05/2022",
+    "quotaCount": "43302140",
+    "codigos": [
+      {
+        "codigo": "XPSF11",
+        "preco": 5.9,
+        "precoAnterior": 5.97,
+        "variacao": -1.17
+      }
+    ]
+  },
+  {
+    "nome": "FII YUCA",
+    "nomeCompleto": "YUCA FDO INV. IMOB. RESPONSABILIDADE LIMITADA",
+    "cnpj": "36445551000106",
+    "dataInicio": "25/10/2022",
+    "quotaCount": "495150",
+    "codigos": [
+      {
+        "codigo": "YUFI11",
+        "preco": 59.5,
+        "precoAnterior": 59.5,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII ZAGH",
+    "nomeCompleto": "ZAGROS MULTIESTRATÉGIA FDO DE INV IMOB",
+    "cnpj": "45188066000195",
+    "dataInicio": "30/09/2024",
+    "quotaCount": "8891662",
+    "codigos": [
+      {
+        "codigo": "ZAGH11",
+        "preco": 10.05,
+        "precoAnterior": 10.05,
+        "variacao": 0
+      }
+    ]
+  },
+  {
+    "nome": "FII ZAVIT C",
+    "nomeCompleto": "ZAVIT CRÉDITO IMOBILIÁRIO – FDO INV IMOB",
+    "cnpj": "52101897000143",
+    "dataInicio": "08/04/2024",
+    "quotaCount": "3097348",
+    "codigos": [
+      {
+        "codigo": "ZAVC11",
+        "preco": 8.51,
+        "precoAnterior": 9.39,
+        "variacao": -9.37
+      }
+    ]
+  },
+  {
+    "nome": "FII ZAVIT R",
+    "nomeCompleto": "ZAVIT REAL ESTATE FUND - FDO INV IMOB",
+    "cnpj": "40575940000123",
+    "dataInicio": "16/05/2023",
+    "quotaCount": "1173322",
+    "codigos": [
+      {
+        "codigo": "ZAVI11",
+        "preco": 94,
+        "precoAnterior": 94.13,
+        "variacao": -0.14
+      }
+    ]
+  },
+  {
+    "nome": "FII ZION",
+    "nomeCompleto": "ZION CAPITAL FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
+    "cnpj": "35820768000196",
+    "dataInicio": "08/07/2021",
+    "quotaCount": "20775",
+    "codigos": [
+      {
+        "codigo": "ZIFI11",
+        "preco": 600,
+        "precoAnterior": 600,
+        "variacao": 0
+      }
+    ]
+  }
+]

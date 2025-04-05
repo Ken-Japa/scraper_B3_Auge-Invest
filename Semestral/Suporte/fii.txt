@@ -1,0 +1,209 @@
+Relatório de FIIs gerado em: 04 / 04 / 2025  04:44
+
+Tempo de execução: 22 minutos e 26 segundos.
+
+Total FII: 520
+Total FIIs adicionados: 46
+FIIs Adicionados:
+- FII MULT OF1 (Código: MTOF)
+- FII EIRA     (Código: EIRA)
+- FII AZPE     (Código: AZPE)
+- FII BGRB     (Código: BGRB)
+- FII RTEL     (Código: RTEL)
+- FII BRIX     (Código: BRIX)
+- FII CPHH     (Código: CPHH)
+- FII CENU     (Código: CENU)
+- FII CVPAR    (Código: CVPR)
+- FII DIAMANTE (Código: DAMT)
+- FII EDGE     (Código: EDGE)
+- FII ESTOQ RJ (Código: ERCR)
+- FII IDUA     (Código: IDUA)
+- FII ELDORADO (Código: ELDO)
+- FII SHOP PDP (Código: SHDP)
+- FII BRHOTEIS (Código: BRHT)
+- FII INFRA RE (Código: FINF)
+- FII FYTO     (Código: FYTO)
+- FII HYPI     (Código: HYPI)
+- FII FLNR     (Código: FLNR)
+- FII DEV ONE  (Código: LKDV)
+- FII PATRI IV (Código: OPTM)
+- FII GALAP SP (Código: GCOI)
+- FII HAZ      (Código: ATCR)
+- FII YEES     (Código: YEES)
+- FII HIRE LOG (Código: HILG)
+- FII IVCI     (Código: IVCI)
+- FII ICNE     (Código: ICNE)
+- FII INDE     (Código: INDE)
+- FII JFDCAM   (Código: VJFD)
+- FII JT PREV  (Código: JTPR)
+- FII KFEN     (Código: KFEN)
+- FII MGRI     (Código: MGRI)
+- FII NOVA I   (Código: NVIF)
+- FII OPPBAL   (Código: OBAL)
+- FII PANORAMA (Código: PNDL)
+- FII LASTMILE (Código: PNLM)
+- FII PROLOGIS (Código: PBLV)
+- FII DOMINGOS (Código: FISD)
+- FII SPA      (Código: SPAF)
+- FII SPG2     (Código: SPG2)
+- FII SUPREMO  (Código: SPMO)
+- FII TREECORP (Código: TCPF)
+- FII VQ LAJES (Código: VLJS)
+- FII VIC DES  (Código: VIDS)
+- FII VIMO     (Código: VIMO)
+
+Total FIIs removidos: 0
+
+Total FIIs alterados: 4
+FIIs Alterados:
+- FII TOUR V   (Código: TCIN)
+  Antigo:
+{
+    "nomeCompletoFII": "G5 CIDADE NOVA FDO. INVEST. IMOB.                 ",
+    "nomeFII": "FII TOUR V  ",
+    "codigoFII": "TCIN",
+    "codigo": [
+        "TCIN12",
+        "TCIN15",
+        "TCIN11"
+    ],
+    "quotaCount": "831197",
+    "quotaDateApproved": "26/09/2024",
+    "industria": "Financeiro e Outros",
+    "segmento": "Fundos Imobiliarios",
+    "informacoes": {
+        "cnpj": "34197700000130",
+        "site": "https://www.singulareinvest.com.br"
+    }
+}
+  Novo:
+{
+    "nomeCompletoFII": "G5 CIDADE NOVA FDO. INVEST. IMOB.                 ",
+    "nomeFII": "FII TOUR V  ",
+    "codigoFII": "TCIN",
+    "codigo": [
+        "TCIN11",
+        "TCIN12",
+        "TCIN15"
+    ],
+    "quotaCount": "831197",
+    "quotaDateApproved": "26/09/2024",
+    "industria": "Financeiro e Outros",
+    "segmento": "Fundos Imobiliarios",
+    "informacoes": {
+        "cnpj": "34197700000130",
+        "site": "https://www.singulareinvest.com.br"
+    }
+}
+
+- FII HEDGE SD (Código: SEED)
+  Antigo:
+{
+    "nomeCompletoFII": "HEDGE SEED FUNDO DE INVESTIMENTO IMOBILIÁRIO      ",
+    "nomeFII": "FII HEDGE SD",
+    "codigoFII": "SEED",
+    "codigo": [
+        "SEED11"
+    ],
+    "quotaCount": "1640000",
+    "quotaDateApproved": "23/12/2021",
+    "industria": "Financeiro e Outros",
+    "segmento": "Fundos Imobiliarios",
+    "informacoes": {
+        "cnpj": "35689497000181",
+        "site": "https://www.hedgeinvest.com.br/"
+    }
+}
+  Novo:
+{
+    "nomeCompletoFII": "HEDGE SEED FUNDO DE INVESTIMENTO IMOBILIÁRIO      ",
+    "nomeFII": "FII HEDGE SD",
+    "codigoFII": "SEED",
+    "codigo": [
+        "SEED11",
+        "SEED13"
+    ],
+    "quotaCount": "1640000",
+    "quotaDateApproved": "23/12/2021",
+    "industria": "Financeiro e Outros",
+    "segmento": "Fundos Imobiliarios",
+    "informacoes": {
+        "cnpj": "35689497000181",
+        "site": "https://www.hedgeinvest.com.br/"
+    }
+}
+
+- FII ISCJ     (Código: ISCJ)
+  Antigo:
+{
+    "nomeCompletoFII": "INVISTA SCJ - FII                                 ",
+    "nomeFII": "FII ISCJ    ",
+    "codigoFII": "ISCJ",
+    "codigo": [
+        "ISCJ11"
+    ],
+    "quotaCount": "313970",
+    "quotaDateApproved": "11/10/2023",
+    "industria": "Financeiro e Outros",
+    "segmento": "Fundos Imobiliarios",
+    "informacoes": {
+        "cnpj": "50418740000110",
+        "site": "HTTPS://WWW.BRLTRUST.COM.BR/"
+    }
+}
+  Novo:
+{
+    "nomeCompletoFII": "INVISTA SCJ - FII                                 ",
+    "nomeFII": "FII ISCJ    ",
+    "codigoFII": "ISCJ",
+    "codigo": [
+        "ISCJ11",
+        "ISCJ12"
+    ],
+    "quotaCount": "313970",
+    "quotaDateApproved": "11/10/2023",
+    "industria": "Financeiro e Outros",
+    "segmento": "Fundos Imobiliarios",
+    "informacoes": {
+        "cnpj": "50418740000110",
+        "site": "HTTPS://WWW.BRLTRUST.COM.BR/"
+    }
+}
+
+- FII RZLC     (Código: RZLC)
+  Antigo:
+{
+    "nomeCompletoFII": "RIZA LECCI FUNDO DE INVESTIMENTO IMOB RESP LIM    ",
+    "nomeFII": "FII RZLC    ",
+    "codigoFII": "RZLC",
+    "codigo": [
+        "RZLC11"
+    ],
+    "quotaCount": "50000",
+    "quotaDateApproved": "12/08/2024",
+    "industria": "Financeiro e Outros",
+    "segmento": "Fundos Imobiliarios",
+    "informacoes": {
+        "cnpj": "56212023000114",
+        "site": "https://www.btgpactual.com/"
+    }
+}
+  Novo:
+{
+    "nomeCompletoFII": "RIZA LECCI FUNDO DE INVESTIMENTO IMOB RESP LIM    ",
+    "nomeFII": "FII RZLC    ",
+    "codigoFII": "RZLC",
+    "codigo": [
+        "RZLC11",
+        "RZLC15"
+    ],
+    "quotaCount": "50000",
+    "quotaDateApproved": "12/08/2024",
+    "industria": "Financeiro e Outros",
+    "segmento": "Fundos Imobiliarios",
+    "informacoes": {
+        "cnpj": "56212023000114",
+        "site": "https://www.btgpactual.com/"
+    }
+}
+

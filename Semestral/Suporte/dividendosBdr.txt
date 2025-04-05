@@ -1,0 +1,5 @@
+Relatório de Dividendos gerado em: 03 / 04 / 2025  09:19
+
+Tempo de execução: 26 minutos e 53 segundos.
+
+Total codigos com dividendos: 574

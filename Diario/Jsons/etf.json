@@ -1,0 +1,1261 @@
+[
+  {
+    "nome": "BB ETF IAGRO",
+    "nomeCompleto": "BB ETF IAGROFFS B3 FUNDO DE ÍNDICE",
+    "cnpj": "45081470000165",
+    "codigos": [
+      {
+        "codigo": "AGRI11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BB ETF BRAZ",
+    "nomeCompleto": "BB ETF IBOVESPA B3 BR+ FUNDO DE ÍNDICE RESP LIM",
+    "cnpj": "57848980000102",
+    "codigos": [
+      {
+        "codigo": "BRAZ11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BB ETF IBOV",
+    "nomeCompleto": "BB ETF IBOVESPA FUNDO DE ÍNDICE",
+    "cnpj": "34606480000150",
+    "codigos": [
+      {
+        "codigo": "BBOV11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BB ETF DVER",
+    "nomeCompleto": "BB ETF ÍNDICE DIVERSIDADE B3 INV SUSTENT FDO IND",
+    "cnpj": "52203750000164",
+    "codigos": [
+      {
+        "codigo": "DVER11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BB ETF BOI G",
+    "nomeCompleto": "BB ETF ÍNDICE FUTURO DE BOI GORDO B3 FDO DE ÍNDICE",
+    "cnpj": "46610422000180",
+    "codigos": [
+      {
+        "codigo": "BBOI11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BB ETF DOLAR",
+    "nomeCompleto": "BB ETF ÍNDICE FUTURO DE DOLAR S&P/B3 FDO IND RESP",
+    "cnpj": "55620015000144",
+    "codigos": [
+      {
+        "codigo": "DOLA11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BB ETF MILHO",
+    "nomeCompleto": "BB ETF ÍNDICE FUTURO DE MILHO B3 FUNDO DE ÍNDICE",
+    "cnpj": "46467170000181",
+    "codigos": [
+      {
+        "codigo": "CORN11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BB ETF SP DV",
+    "nomeCompleto": "BB ETF S&P DIVIDENDOS BRASIL FUNDO DE ÍNDICE",
+    "cnpj": "17817528000150",
+    "codigos": [
+      {
+        "codigo": "BBSD11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "B INDEX MOME",
+    "nomeCompleto": "B-INDEX MORNINGSTAR BRASIL MOMENTO FUNDO DE ÍNDICE",
+    "cnpj": "48643091000100",
+    "codigos": [
+      {
+        "codigo": "BMMT11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "B INDEX BREW",
+    "nomeCompleto": "B-INDEX MORNINGSTAR BRASIL PESOS IGUAIS FDO IND",
+    "cnpj": "48643130000179",
+    "codigos": [
+      {
+        "codigo": "BREW11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "B INDEX DEFE",
+    "nomeCompleto": "B-INDEX MORNINGSTAR SETORES DEFENSIVOS BRASIL FI",
+    "cnpj": "48643220000160",
+    "codigos": [
+      {
+        "codigo": "BDEF11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "PACTUAL IBOV",
+    "nomeCompleto": "BTG PACTUAL B3 IBOVESPA FUNDO DE ÍNDICE",
+    "cnpj": "42427783000134",
+    "codigos": [
+      {
+        "codigo": "IBOB11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ETF ESG BTG",
+    "nomeCompleto": "BTG PACTUAL ESG FUNDO DE ÍNDICE S&P/B3 BRAZIL ES",
+    "cnpj": "37843293000189",
+    "codigos": [
+      {
+        "codigo": "ESGB11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BTG S&P 500",
+    "nomeCompleto": "BTG PACTUAL S&P 500 FUNDO DE ÍNDICE",
+    "cnpj": "42682199000125",
+    "codigos": [
+      {
+        "codigo": "SPXB11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ETF BTG GENB",
+    "nomeCompleto": "BTG PACTUAL S&P/B3 INGENIUS FUNDO DE ÍNDICE",
+    "cnpj": "42134357000102",
+    "codigos": [
+      {
+        "codigo": "GENB11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BTG SMLL CAP",
+    "nomeCompleto": "BTG PACTUAL SMLL B3 FUNDO DE ÍNDICE",
+    "cnpj": "42682281000150",
+    "codigos": [
+      {
+        "codigo": "SMAB11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BTG COMMODIT",
+    "nomeCompleto": "BTG PACTUAL TEVA AÇÕES COMMODITIES BRASIL FDO IND",
+    "cnpj": "43391410000113",
+    "codigos": [
+      {
+        "codigo": "CMDB11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BTG DIV REAL",
+    "nomeCompleto": "BTG PACTUAL TEVA DIVID ATIVOS REAIS LIST FDO IND",
+    "cnpj": "57063444000193",
+    "codigos": [
+      {
+        "codigo": "TIRB11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "BTGIABRSELEC",
+    "nomeCompleto": "BTG PACTUAL TEVA IABR SELECTOR FDO DE INDI – RES L",
+    "cnpj": "59506849000184",
+    "codigos": [
+      {
+        "codigo": "BRXC11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ETF BV SPYI",
+    "nomeCompleto": "BUENA VISTA I FUNDO DE ÍNDICE",
+    "cnpj": "51949867000129",
+    "codigos": [
+      {
+        "codigo": "SPYI11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ETF BV IWMI",
+    "nomeCompleto": "BUENA VISTA IV FUNDO DE ÍNDICE",
+    "cnpj": "57922206000196",
+    "codigos": [
+      {
+        "codigo": "IWMI11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ETF BV COIN",
+    "nomeCompleto": "BUENA VISTA NEOS BITCOIN HIGH INCOME INDEX FDO IND",
+    "cnpj": "57920798000107",
+    "codigos": [
+      {
+        "codigo": "COIN11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ETF QQQQ",
+    "nomeCompleto": "BUENA VISTA V FUNDO DE ÍNDICE",
+    "cnpj": "58348330000152",
+    "codigos": [
+      {
+        "codigo": "QQQQ11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CAIXAETFXBOV",
+    "nomeCompleto": "CAIXA ETF IBOVESPA FUNDO DE INDICE",
+    "cnpj": "14120533000111",
+    "codigos": [
+      {
+        "codigo": "XBOV11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "CRIPTO20 EMP",
+    "nomeCompleto": "EMPIRICUS TEVA CRIPTOMOEDAS TOP20 FDO IND IE",
+    "cnpj": "36669709000121",
+    "codigos": [
+      {
+        "codigo": "CRPT11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ETF BRA IBOV",
+    "nomeCompleto": "ETF BRADESCO IBOVESPA FDO DE INDICE",
+    "cnpj": "32203211000118",
+    "codigos": [
+      {
+        "codigo": "BOVB11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TRG SMIC CAP",
+    "nomeCompleto": "ETF TRÍGONO TEVA AÇÕES M CAP/SMALL CAP FDO ÍNDICE",
+    "cnpj": "43140303000112",
+    "codigos": [
+      {
+        "codigo": "TRIG11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ETF BV QQQI",
+    "nomeCompleto": "FUNDO BUENA VISTA II FUNDO DE ÍNDICE",
+    "cnpj": "54825284000184",
+    "codigos": [
+      {
+        "codigo": "QQQI11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "META HASH",
+    "nomeCompleto": "HASHDEX CRYPTO METAVERSE FUNDO DE ÍNDICE",
+    "cnpj": "44124505000133",
+    "codigos": [
+      {
+        "codigo": "META11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "DEFI HASH",
+    "nomeCompleto": "HASHDEX DEFI INDEX FUNDO DE ÍNDICE",
+    "cnpj": "40755515000116",
+    "codigos": [
+      {
+        "codigo": "DEFI11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "FOMO HASH",
+    "nomeCompleto": "HASHDEX MOMENTUM FUNDO DE ÍNDICE – RESP LIMIT",
+    "cnpj": "47758831000190",
+    "codigos": []
+  },
+  {
+    "nome": "BITCOIN HASH",
+    "nomeCompleto": "HASHDEX NASDAQ BITCOIN REFERENCE RATE FDO. IND.",
+    "cnpj": "41256573000168",
+    "codigos": [
+      {
+        "codigo": "BITH11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "HASHDEX NCI",
+    "nomeCompleto": "HASHDEX NASDAQ CRYPTO INDEX FUNDO DE ÍNDICE",
+    "cnpj": "38314708000190",
+    "codigos": [
+      {
+        "codigo": "HASH11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ETHER HASH",
+    "nomeCompleto": "HASHDEX NASDAQ ETHEREUM REFERENCE PRICE FDO. IND.",
+    "cnpj": "41907631000176",
+    "codigos": [
+      {
+        "codigo": "ETHE11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SOLANA HASH",
+    "nomeCompleto": "HASHDEX NASDAQ SOLANA FUNDO DE ÍNDICE",
+    "cnpj": "56746166000106",
+    "codigos": [
+      {
+        "codigo": "SOLH11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "XRP HASH",
+    "nomeCompleto": "HASHDEX NASDAQ XRP FUNDO DE ÍNDICE - RESP LIMITADA",
+    "cnpj": "58430507000165",
+    "codigos": []
+  },
+  {
+    "nome": "SMART HASH",
+    "nomeCompleto": "HASHDEX SMART CONTRACT PLATFORMS FUNDO DE ÍNDICE",
+    "cnpj": "43951717000121",
+    "codigos": [
+      {
+        "codigo": "WEB311",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO PEVC",
+    "nomeCompleto": "INVESTO BLUESTAR ALTERNATIVE MANAGERS FDO DE IND",
+    "cnpj": "45295262000169",
+    "codigos": [
+      {
+        "codigo": "PEVC11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO JOGO",
+    "nomeCompleto": "INVESTO ETF GL VI GA & ES FDO INV DE ÍNDICE IE",
+    "cnpj": "43105466000164",
+    "codigos": [
+      {
+        "codigo": "JOGO11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO HODL",
+    "nomeCompleto": "INVESTO ETF MARKETVECTOR BITCOIN BENCHMARK RATE",
+    "cnpj": "56158890000119",
+    "codigos": [
+      {
+        "codigo": "HODL11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO ALUG",
+    "nomeCompleto": "INVESTO ETF MSCI REAL ESTATE ETF FDO INDICE - IE",
+    "cnpj": "42280328000159",
+    "codigos": [
+      {
+        "codigo": "ALUG11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO USTK",
+    "nomeCompleto": "INVESTO ETF MSCI US TECHNOLOGY FDO INV IND INV EXT",
+    "cnpj": "40751130000180",
+    "codigos": [
+      {
+        "codigo": "USTK11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO SVAL",
+    "nomeCompleto": "INVESTO ETF S&P SMALLCAP 600 VALUE FDO INV ÍND IE",
+    "cnpj": "43210375000199",
+    "codigos": [
+      {
+        "codigo": "SVAL11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO GLDX",
+    "nomeCompleto": "INVESTO ETF SOLACTIVE GOLD SPOT INDEX FND DE ÍND",
+    "cnpj": "43210419000180",
+    "codigos": [
+      {
+        "codigo": "GLDX11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO CHIP",
+    "nomeCompleto": "INVESTO ETF US  LISTED SEMICONDUCTOR 25 INDEX",
+    "cnpj": "42280376000147",
+    "codigos": [
+      {
+        "codigo": "CHIP11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO WRLD",
+    "nomeCompleto": "INVESTO FTSE GLOBAL EQUITIES ETF FDO INDICE - IE",
+    "cnpj": "42280262000105",
+    "codigos": [
+      {
+        "codigo": "WRLD11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO BDOM",
+    "nomeCompleto": "INVESTO MARKETVECTOR BRAZIL DOMESTIC EXPOSURE ETF",
+    "cnpj": "45823539000189",
+    "codigos": [
+      {
+        "codigo": "BDOM11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO BXPO",
+    "nomeCompleto": "INVESTO MARKETVECTOR BRAZIL GLOBAL EXPOSURE ETF",
+    "cnpj": "45814375000123",
+    "codigos": [
+      {
+        "codigo": "BXPO11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO SCVB",
+    "nomeCompleto": "INVESTO MARKETVECTOR BRAZIL SMALL CAP VALUE ETF",
+    "cnpj": "45814400000179",
+    "codigos": [
+      {
+        "codigo": "SCVB11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO BTEK",
+    "nomeCompleto": "INVESTO S&P BIOTECH SEL INDUSTRY ETF FD INV IND IE",
+    "cnpj": "42280298000180",
+    "codigos": [
+      {
+        "codigo": "BTEK11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO BLOK",
+    "nomeCompleto": "INVESTO VANECK ETF MARKETVECTOR SMART CONTRACT LEA",
+    "cnpj": "44106937000111",
+    "codigos": [
+      {
+        "codigo": "BLOK11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "INVESTO NFTS",
+    "nomeCompleto": "INVESTO VANECK ETF MVIS CRYPTO COMPARE",
+    "cnpj": "44107447000130",
+    "codigos": [
+      {
+        "codigo": "NFTS11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ISHARES SMAL",
+    "nomeCompleto": "ISHARES BMFBOVESPA SMALL CAP FUNDO DE ÍNDICE",
+    "cnpj": "10406600000108",
+    "codigos": [
+      {
+        "codigo": "SMAL11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ISHARES BOVA",
+    "nomeCompleto": "ISHARES IBOVESPA FUNDO DE ÍNDICE",
+    "cnpj": "10406511000161",
+    "codigos": [
+      {
+        "codigo": "BOVA11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ISHARES BRAX",
+    "nomeCompleto": "ISHARES IBRX - ÍNDICE BRASIL (IBRX-100) FDO ÍNDICE",
+    "cnpj": "11455378000104",
+    "codigos": [
+      {
+        "codigo": "BRAX11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ISHARES ECOO",
+    "nomeCompleto": "ISHARES ÍNDICE CARBONO EFIC. (ICO2) BRASIL-FDO ÍND",
+    "cnpj": "15562377000101",
+    "codigos": [
+      {
+        "codigo": "ECOO11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ISHARE SP500",
+    "nomeCompleto": "ISHARES S&P 500 FDO INV COTAS FDO INDICE",
+    "cnpj": "19909560000191",
+    "codigos": [
+      {
+        "codigo": "IVVB11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "ETF GALAXY B",
+    "nomeCompleto": "IT NOW BLOOMBERG GALAXY BITCOIN FUNDO DE ÍNDICE",
+    "cnpj": "38000706000126",
+    "codigos": [
+      {
+        "codigo": "BITI11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW B3BR+",
+    "nomeCompleto": "IT NOW IBOVESPA B3 BR+ FUN DE ÍNDICE – RES LIM",
+    "cnpj": "56211321000190",
+    "codigos": [
+      {
+        "codigo": "B3BR11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW IBOV",
+    "nomeCompleto": "IT NOW IBOVESPA FUNDO DE ÍNDICE",
+    "cnpj": "21407758000119",
+    "codigos": [
+      {
+        "codigo": "BOVV11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW IDIV",
+    "nomeCompleto": "IT NOW IDIV FUNDO DE ÍNDICE",
+    "cnpj": "13416245000146",
+    "codigos": [
+      {
+        "codigo": "DIVO11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW DIVD",
+    "nomeCompleto": "IT NOW IDIV RENDA DIV FDO DE ÍNDICE – RESP LIMIT",
+    "cnpj": "54314981000170",
+    "codigos": [
+      {
+        "codigo": "DIVD11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW IFNC",
+    "nomeCompleto": "IT NOW IFNC FUNDO DE ÍNDICE",
+    "cnpj": "11961094000181",
+    "codigos": [
+      {
+        "codigo": "FIND11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW IGCT",
+    "nomeCompleto": "IT NOW IGCT FUNDO DE ÍNDICE",
+    "cnpj": "11184136000115",
+    "codigos": [
+      {
+        "codigo": "GOVE11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW IMAT",
+    "nomeCompleto": "IT NOW IMAT FUNDO DE ÍNDICE",
+    "cnpj": "13416228000109",
+    "codigos": [
+      {
+        "codigo": "MATB11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW ISE",
+    "nomeCompleto": "IT NOW ISE FUNDO DE ÍNDICE",
+    "cnpj": "12984444000198",
+    "codigos": [
+      {
+        "codigo": "ISUS11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "DIGITAL LIFE",
+    "nomeCompleto": "IT NOW MORNINGSTAR US DIGITAL LIFESTYLE FDO. IND.",
+    "cnpj": "41054489000161",
+    "codigos": [
+      {
+        "codigo": "MILL11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW HCARE",
+    "nomeCompleto": "IT NOW MORNINGSTAR XT US HEALTHCARE FDO. IND.",
+    "cnpj": "41054515000151",
+    "codigos": [
+      {
+        "codigo": "HTEK11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW TECK",
+    "nomeCompleto": "IT NOW NYSE FANG+TM FUNDO DE ÍNDICE",
+    "cnpj": "38354844000103",
+    "codigos": [
+      {
+        "codigo": "TECK11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW PIBB",
+    "nomeCompleto": "IT NOW PIBB IBRX-50 - FUNDO DE ÍNDICE",
+    "cnpj": "06323688000127",
+    "codigos": [
+      {
+        "codigo": "PIBB11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW GREEN",
+    "nomeCompleto": "IT NOW RUSSELL® 1000 GREEN REVENUES 50 FDO DE IND",
+    "cnpj": "41054432000162",
+    "codigos": [
+      {
+        "codigo": "REVE11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW SP BR",
+    "nomeCompleto": "IT NOW S&P 500 FUTURES QUANTO BRL FUNDO DE ÍNDICE",
+    "cnpj": "58022660000153",
+    "codigos": [
+      {
+        "codigo": "SPXR11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW HYDRO",
+    "nomeCompleto": "IT NOW S&P® KENSHO® HYDROGEN FUNDO DE ÍNDICE",
+    "cnpj": "42264597000121",
+    "codigos": [
+      {
+        "codigo": "YDRO11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW SPXI",
+    "nomeCompleto": "IT NOW S&P500 TRN FUNDO DE INDICE",
+    "cnpj": "17036289000100",
+    "codigos": [
+      {
+        "codigo": "SPXI11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "IT NOW SMALL",
+    "nomeCompleto": "IT NOW SMALL CAPS FDO ÍNDICE",
+    "cnpj": "34803814000186",
+    "codigos": [
+      {
+        "codigo": "SMAC11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "B INDEX CICL",
+    "nomeCompleto": "MORNINGSTAR SETORES CÍCLICOS BRASIL FDO IND",
+    "cnpj": "48643170000110",
+    "codigos": [
+      {
+        "codigo": "BCIC11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "NUIBOVBRMAIS",
+    "nomeCompleto": "NU IBOV B3 BR + CL DE IND IBOV B3 B3 BR+ RESP LIM",
+    "cnpj": "56107650000195",
+    "codigos": [
+      {
+        "codigo": "NBOV11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "NU IBOV DIV",
+    "nomeCompleto": "NU IBOV SMART DIVIDENDOS FUNDO DE ÍNDICE",
+    "cnpj": "52116361000100",
+    "codigos": [
+      {
+        "codigo": "NSDV11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "NUIBOVHIGHBT",
+    "nomeCompleto": "NU IBOV SMART HIGH BETA B3",
+    "cnpj": "55705611000127",
+    "codigos": [
+      {
+        "codigo": "HIGH11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "NUIBOVLOWVOL",
+    "nomeCompleto": "NU IBOV SMART LOW VOLATILITY B3",
+    "cnpj": "55705668000126",
+    "codigos": [
+      {
+        "codigo": "LVOL11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "NU REND IBOV",
+    "nomeCompleto": "NU RENDA IBOV SMART DIVIDENDOS FUNDO DE ÍNDICE",
+    "cnpj": "52116337000162",
+    "codigos": [
+      {
+        "codigo": "NDIV11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "QR DEFI",
+    "nomeCompleto": "QR BLOOMBERG DEFI FDO DE ÍNDICE – INV NO EXTERIOR",
+    "cnpj": "42682790000182",
+    "codigos": [
+      {
+        "codigo": "QDFI11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "QR BITCOIN",
+    "nomeCompleto": "QR CME CF BITCOIN REFERENCE RATE FDO. IND. INV. EX",
+    "cnpj": "39979022000180",
+    "codigos": [
+      {
+        "codigo": "QBTC11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "QR ETHER",
+    "nomeCompleto": "QR CME CF ETHER REFERENCE RATE FDO DE IND IE",
+    "cnpj": "41706298000137",
+    "codigos": [
+      {
+        "codigo": "QETH11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "QR SOLANA",
+    "nomeCompleto": "QR CME CF SOLANA D. R. R. F. DE Í. I. NO E. R. LIM",
+    "cnpj": "56043036000107",
+    "codigos": [
+      {
+        "codigo": "QSOL11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SAFRAIBOVPVT",
+    "nomeCompleto": "SAFRA ETF IBOV EMP PRIVADAS FDO DE IND - RESP LIM",
+    "cnpj": "57091195000140",
+    "codigos": [
+      {
+        "codigo": "SPVT11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SAFRAIBOVEST",
+    "nomeCompleto": "SAFRA ETF IBOVESPA EMPRESAS ESTATAIS FUN DE INDICE",
+    "cnpj": "57091257000113",
+    "codigos": [
+      {
+        "codigo": "SPUB11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SAFRAETFELAS",
+    "nomeCompleto": "SAFRA ETF MULHE NA LIDER FDO DE ÍND AÇÕES RESP LIM",
+    "cnpj": "43210658000130",
+    "codigos": [
+      {
+        "codigo": "ELAS11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "SAFRAETFIBOV",
+    "nomeCompleto": "SAFRA IBOVESPA FUNDO DE ÍNDICE - RESPONS LTDA.",
+    "cnpj": "38350645000127",
+    "codigos": [
+      {
+        "codigo": "BOVS11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TREND ACWI",
+    "nomeCompleto": "TREND ETF BLOOMBERG ALL COUNTRIES FUNDO ÍNDICE",
+    "cnpj": "38542889000101",
+    "codigos": [
+      {
+        "codigo": "ACWI11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TREND CHINA",
+    "nomeCompleto": "TREND ETF BLOOMBERG CHINA F ÍND INV EXT",
+    "cnpj": "38542870000165",
+    "codigos": [
+      {
+        "codigo": "XINA11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TREND US TEC",
+    "nomeCompleto": "TREND ETF BLOOMBERG US 3000 TECHNOLOGY CLASSE",
+    "cnpj": "40952802000116",
+    "codigos": [
+      {
+        "codigo": "UTEC11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TREND US LRG",
+    "nomeCompleto": "TREND ETF CRSP U.S. LARGE CAP FDO INV IND",
+    "cnpj": "42101885000165",
+    "codigos": [
+      {
+        "codigo": "USAL11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TREND U REIT",
+    "nomeCompleto": "TREND ETF FTSE US REITS FUNDO DE INVEST DE ÍNDICE",
+    "cnpj": "40955945000181",
+    "codigos": []
+  },
+  {
+    "nome": "TREND IBOVX",
+    "nomeCompleto": "TREND ETF IBOVESPA FUNDO DE ÍNDICE",
+    "cnpj": "40155573000109",
+    "codigos": [
+      {
+        "codigo": "BOVX11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TREND IFIX-L",
+    "nomeCompleto": "TREND ETF IFIX-L FUNDO DE ÍNDICE - INVEST EXTERIOR",
+    "cnpj": "36046508000178",
+    "codigos": [
+      {
+        "codigo": "XFIX11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TREND OURO",
+    "nomeCompleto": "TREND ETF LBMA OURO FDO. ÍNDICE - INVEST. EXT",
+    "cnpj": "37985763000149",
+    "codigos": [
+      {
+        "codigo": "GOLD11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  },
+  {
+    "nome": "TREND ESG US",
+    "nomeCompleto": "TREND ETF MSCI USA ESG FDO DE INV DE ÍNDICE-IE IS",
+    "cnpj": "40953254000149",
+    "codigos": []
+  },
+  {
+    "nome": "TREND NASDAQ",
+    "nomeCompleto": "TREND ETF NASDAQ 100 FDO. ÍNDICE. INV. EXT. - IE",
+    "cnpj": "35578672000163",
+    "codigos": [
+      {
+        "codigo": "NASD11",
+        "preco": null,
+        "precoAnterior": null,
+        "variacao": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,322 @@
+[
+    {
+        "nomeCompletoETF": "GLOBAL X DATA CENTER & DIGITAL INFRASTRUCTURE ETF",
+        "nomeETF": "GX DATAINFRA",
+        "codigoETF": "DTCR",
+        "codigo": "",
+        "codigoCVM": "53732",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "GLOBAL X MSCI ARGENTINA ETF",
+        "nomeETF": "GX ARGENTINA",
+        "codigoETF": "ARGT",
+        "codigo": "",
+        "codigoCVM": "56197",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "GLOBAL X RUSSELL 2000 ETF",
+        "nomeETF": "GX RUSSL2000",
+        "codigoETF": "RSSL",
+        "codigo": "",
+        "codigoCVM": "56200",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "GLOBAL X TELEMEDICINE & DIGITAL HEALTH ETF",
+        "nomeETF": "GX TLMEDC DH",
+        "codigoETF": "BEDC",
+        "codigo": "",
+        "codigoCVM": "50051",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES 20 YEAR TREASURY BOND ETF",
+        "nomeETF": "BKR 20YR TRS",
+        "codigoETF": "BTLT",
+        "codigo": "BTLT39",
+        "codigoCVM": "50319",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES BIOTECHNOLOGY ETF",
+        "nomeETF": "ICE BIOTECH",
+        "codigoETF": "BIBB",
+        "codigo": "BIBB39",
+        "codigoCVM": "79286",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES CORE HIGH DIVIDEND ETF",
+        "nomeETF": "BKR CORE HDV",
+        "codigoETF": "BHDV",
+        "codigo": "BHDV39",
+        "codigoCVM": "50408",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES EXPANDED TECH-SOFTWARE SECTOR ETF",
+        "nomeETF": "BKR TECHSOFT",
+        "codigoETF": "BIET",
+        "codigo": "BIET39",
+        "codigoCVM": "50825",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES IBOXX INVESTMENT GRADE CORPORATE BOND ETF",
+        "nomeETF": "BKR IBOX IGC",
+        "codigoETF": "BLQD",
+        "codigo": "BLQD39",
+        "codigoCVM": "50238",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES LATIN AMERICA 40 ETF",
+        "nomeETF": "LATIN AMER40",
+        "codigoETF": "BILF",
+        "codigo": "BILF39",
+        "codigoCVM": "79146",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES MSCI CANADA ETF",
+        "nomeETF": "MSCI CANADA",
+        "codigoETF": "BEWC",
+        "codigo": "BEWC39",
+        "codigoCVM": "79618",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES MSCI HONG KONG ETF",
+        "nomeETF": "MSCIHONGKONG",
+        "codigoETF": "BEWH",
+        "codigo": "BEWH39",
+        "codigoCVM": "79359",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES MSCI JAPAN ETF",
+        "nomeETF": "MSCI JAPAN",
+        "codigoETF": "BEWJ",
+        "codigo": "BEWJ39",
+        "codigoCVM": "79200",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES MSCI MEXICO ETF",
+        "nomeETF": "MSCI MEXICO",
+        "codigoETF": "BEWW",
+        "codigo": "BEWW39",
+        "codigoCVM": "79111",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES MSCI SPAIN ETF",
+        "nomeETF": "MSCI SPAIN",
+        "codigoETF": "BEWP",
+        "codigo": "BEWP39",
+        "codigoCVM": "79120",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES MSCI TAIWAN ETF",
+        "nomeETF": "MSCI TAIWAN",
+        "codigoETF": "BEWT",
+        "codigo": "BEWT39",
+        "codigoCVM": "79367",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES S&P 500 VALUE ETF",
+        "nomeETF": "SP500 VALUE",
+        "codigoETF": "BIVE",
+        "codigo": "BIVE39",
+        "codigoCVM": "79448",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "ISHARES SILVER TRUST",
+        "nomeETF": "SILVER TRUST",
+        "codigoETF": "BSLV",
+        "codigo": "BSLV39",
+        "codigoCVM": "79057",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "XTRACKERS DAX UCITS ETF",
+        "nomeETF": "XTRACKERDAX",
+        "codigoETF": "BDAX",
+        "codigo": "",
+        "codigoCVM": "50841",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    },
+    {
+        "nomeCompletoETF": "XTRACKERS STOXX EUROPE 600 UCITS ETF",
+        "nomeETF": "XTRACKERE600",
+        "codigoETF": "BEUS",
+        "codigo": "",
+        "codigoCVM": "50853",
+        "industria": "Financeiro e Outros",
+        "segmento": "Fundos de Ações BDRs",
+        "atividade": "",
+        "informações": {
+            "status": "A",
+            "marketIndicator": "1",
+            "dataInicio": "",
+            "tipo": ""
+        }
+    }
+]

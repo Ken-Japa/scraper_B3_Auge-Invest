@@ -73,6 +73,8 @@ Adicionei a pasta "Dicionário" com arquivos estáticos contendo o(s) dicionári
 Para que as biblotecas não sejam adicionadas no Git, o python necessita de um ambiente virtual (venv\Scripts\activate) (deactivate). Depois de instalar as bibliotecas (pip freeze > requirements.txt)
 Navegar até a pasta e no terminal caso seja python: "python run_all_semestral.py". Caso seja javascript: "node empresasPreco.js".
 
+O arquivo historicoEmpresas foi adicionado ao gitignore (Diario/Finais/empresasHistorico.json)
+
 ### Bibliotecas utilizadas:
 pip install requests urllib3 openpyxl xlwings requests urllib3
 npm install googleapis

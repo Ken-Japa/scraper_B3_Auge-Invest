@@ -38,3 +38,6 @@ yarn-error.log
 # Excel temporary files
 ~$*.xlsx
 ~$*.xls
+
+# Large files
+Diario/Finais/empresasHistorico.json

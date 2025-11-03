@@ -41,3 +41,4 @@ yarn-error.log
 
 # Large files
 Diario/Finais/empresasHistorico.json
+Diario/config/service-account.json
